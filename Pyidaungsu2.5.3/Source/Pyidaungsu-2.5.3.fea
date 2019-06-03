@@ -1,0 +1,656 @@
+@afrc1=[uni1040 uni1041 uni1042 uni1043 uni1044 uni1045 uni1046 uni1047 uni1048 uni1049];
+@afrc2=[uni1040.afrc uni1041.afrc uni1042.afrc uni1043.afrc uni1044.afrc uni1045.afrc uni1046.afrc uni1047.afrc uni1048.afrc uni1049.afrc];
+@afrc3=[slash fraction uni1040.afrc_afrc uni1041.afrc_afrc uni1042.afrc_afrc uni1043.afrc_afrc uni1044.afrc_afrc uni1045.afrc_afrc uni1046.afrc_afrc uni1047.afrc_afrc uni1048.afrc_afrc uni1049.afrc_afrc];
+@blws10=[uni1000 uni1003 uni1006 uni100F uni1010 uni1011 uni1018 uni101A uni101C uni101E uni101F uni1021 uni1022 uni103F uni106E uni106F uni1070 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni1080];
+@blws11=[uni102D uni102E uni1032 uni1033 uni1034 uni1035 uni103A uni1072 uni1073 uni1074 uni1085 uniE390 uniE391 uniE392 uniE393 uniE394 uniE395 uniE396 uniE2D1 uniE12D uniE391_uni1036 uniE390_uni103A uniE532 uniE39A uniE39B uniE39C uniE39A_uni103A];
+@blws12=[uni1001 uni1002 uni1004 uni1005 uni1007 uni100E uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1019 uni101B uni101D uni1027 uni1050 uni1051 uni105A uni105C uni1065 uni1075 uni1076 uni1077 uni107F uniE107 uniE108];
+@blws13=[uni1001 uni1002 uni1004 uni1005 uni1007 uni100E uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1019 uni101B uni101D uni1027 uni1050 uni1051 uni105A uni105C uni1065 uni1075 uni1076 uni1077 uni107F uniE100 uniE101 uniE107 uniE108];
+@blws14=[uniE000 uniE003 uniE006 uni1039_uni1009 uniE00A uniE00C uniE00F uniE010 uniE011 uniE018 uniE01C uniE01E uniE553 uniE021 uniE078 uniE07D uniE07C uniE000.blws uniE003.blws uniE006.blws uniE00A.blws uniE00C.blws uniE00F.blws uniE010.blws uniE011.blws uniE018.blws uniE01C.blws uniE01E.blws uniE553.blws uniE021.blws uni1039_uni101A];
+@blws15=[uniE001 uniE002 uniE05A uniE005 uniE007 uniE008 uniE05B uniE00B uniE00D uniE00E uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE019 uni1039_uni101B uniE05C uniE075 uniE051 uniE052 uniE076 uniE001.blws uniE002.blws uniE005.blws uniE007.blws uniE00B.blws uniE00D.blws uniE00E.blws uniE012.blws uniE013.blws uniE014.blws uniE015.blws uniE016.blws uniE017.blws uniE019.blws uni1039_uni101B.blws uniE051.blws uniE052.blws];
+@blws16=[uniE000 uniE001 uniE002 uniE003 uniE05A uniE005 uniE006 uniE007 uniE008 uniE05B uni1039_uni1009 uniE00A uniE00B uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uni1039_uni101B uniE01C uniE01E uniE553 uniE021 uniE05C uniE078 uniE075 uniE051 uniE052 uniE07D uniE07C uniE076 uniE399 uni1039_uni101A];
+@blws17=[uni103B uni103D uniE000 uniE001 uniE002 uniE003 uniE05A uniE005 uniE006 uniE007 uniE008 uniE05B uni1039_uni1009 uniE00A uniE00B uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uni1039_uni101B uniE01C uniE01E uniE553 uniE021 uniE1D1 uniE05C uniE078 uniE075 uniE051 uniE052 uniE07D uniE07C uniE076 uniE399 uni1039_uni101A];
+@blws18=[uni103B uni103D uni103E uni105E uni105F uni1060 uniE000 uniE001 uniE002 uniE003 uniE05A uniE005 uniE006 uniE007 uniE008 uniE05B uni1039_uni1009 uniE00A uniE00B uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uni1039_uni101B uniE01C uniE01E uniE553 uniE021 uniE1A3 uniE1A4 uniE1A5 uniE1D1 uniE05C uniE078 uniE075 uniE051 uniE052 uniE07D uniE07C uniE076 uniE399 uni1039_uni101A uniE1A4_uni103E];
+@blws1=[uni102D uni102E uni1032 uni1033 uni1034 uni1035 uni1036 uni1072 uni1073 uni1074];
+@blws2=[uni103B uni103D uni103E uni105E uni105F uni1060 uniE1A3 uniE1A4 uniE1A5 uniE1D1 uniE1A4_uni103E];
+@blws3=[uniE000.blws uniE003.blws uniE006.blws uniE00A.blws uniE00C.blws uniE00F.blws uniE010.blws uniE011.blws uniE018.blws uniE01C.blws uniE01E.blws uniE553.blws uniE021.blws];
+@blws4=[uni101B uni103B uni103D uni1061 uni1082 uni1083 uniE1A3 uniE1A4 uniE182 uniE1D1 uni103D.blws uniE1D1.blws uniE1F2 uniE2F1 uniE2F2];
+@blws5=[uniE001.blws uniE002.blws uniE005.blws uniE007.blws uniE00B.blws uniE00D.blws uniE00E.blws uniE012.blws uniE013.blws uniE014.blws uniE015.blws uniE016.blws uniE017.blws uniE019.blws uni1039_uni101B.blws uniE051.blws uniE052.blws];
+@blws6=[uniE000 uniE003 uniE006 uni1039_uni1009 uniE00A uniE00C uniE00F uniE010 uniE011 uniE018 uniE01C uniE01E uniE553 uniE021 uniE078 uniE07D uniE07C uni1039_uni101A];
+@blws7=[uniE001 uniE002 uniE005 uniE007 uniE00B uniE00D uniE00E uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE019 uni1039_uni101B uniE05C uniE075 uniE051 uniE052 uniE076];
+@blws8=[uniE001 uniE002 uniE05A uniE005 uniE007 uniE008 uniE05B uniE00B uniE00D uniE00E uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE019 uni1039_uni101B uniE05C uniE075 uniE051 uniE052 uniE076];
+@blws9=[uni1008 uni1009 uni100A uni100B uni100C uni100D uni1020 uni1025 uni105A uni105D uni1061 uni106F uni1070 uniE10A uniE102 uniE103 uniE104 uniE105 uniE138 uniE139 uniE220 uniE551 uniE552 uniE399];
+@class249=[uniE001.blws uniE002.blws uniE005.blws uniE007.blws uniE00B.blws uniE00D.blws uniE00E.blws uniE012.blws uniE013.blws uniE014.blws uniE015.blws uniE016.blws uniE017.blws uniE019.blws uni1039_uni101B.blws uniE05C.blws uniE075.blws uniE051.blws uniE052.blws uniE076.blws];
+@class251=[uniE000.blws uniE003.blws uniE006.blws uni1039_uni1009.blws uniE00A.blws uniE00C.blws uniE00F.blws uniE010.blws uniE011.blws uniE018.blws uniE01C.blws uniE01E.blws uniE553.blws uniE021.blws uniE078.blws uniE07D.blws uniE07C.blws uni1039_uni101A.blws];
+@class261=[uni1040.afrc_afrc uni1041.afrc_afrc uni1042.afrc_afrc uni1043.afrc_afrc uni1044.afrc_afrc uni1045.afrc_afrc uni1046.afrc_afrc uni1047.afrc_afrc uni1048.afrc_afrc uni1049.afrc_afrc];
+@locl1=[uni1000 uni1002 uni1004 uni1010 uni1015 uni1019 uni101A uni101C uni1022 uni1032 uni1075 uni1078 uni1080 uniAA60 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA6B uniAA6C uniAA6F uniAA73 uniAA75 uniAA76];
+@locl2=[uni1000.locl uni1002.locl uni1004.locl uni1010.locl uni1015.locl uni1019.locl uni101A.locl uni101C.locl uni1022.locl uni1032.locl uni1075.locl uni1078.locl uni1080.locl uniAA60.locl uniAA61.locl uniAA62.locl uniAA63.locl uniAA64.locl uniAA65.locl uniAA66.locl uniAA6B.locl uniAA6C.locl uniAA6F.locl uniAA73.locl uniAA75.locl uniAA76.locl];
+@pres1=[uni102B uni102C uni102D uni102E uni102F uni1030 uni1031 uni1032 uni1033 uni1034 uni1035 uni1036 uni1037 uni1038];
+@psts1=[uni102D uni102E uni1032 uni1033 uni1035 uni1036 uni103A];
+@sups1=[uni1040.sups uni1041.sups uni1042.sups uni1043.sups uni1044.sups uni1045.sups uni1046.sups uni1047.sups uni1048.sups uni1049.sups];
+languagesystem mym2 dflt;
+languagesystem mym2 LIS ;
+languagesystem mym2 KHT ;
+languagesystem mym2 KYU ;
+languagesystem mym2 KSW ;
+
+
+feature aalt{
+  feature psts;
+  feature pres;
+  feature locl;
+  feature blwf;
+  feature sups;
+} aalt;
+
+feature mark { # Mark Positioning
+ script mym2;
+lookup mark0 {
+#    mark uni1037 -735 0;
+#    pos uni102B mark uni1037 0 0;
+} mark0;
+lookup mark1 {
+#    mark uni102D -500 0;
+#    mark uni102E -500 0;
+#    pos uni103B mark [uni102D uni102E] 0 0;
+#    pos uniE008 mark [uni102D uni102E] 0 0;
+#    pos uniE05B mark [uni102D uni102E] 0 0;
+#    pos uniE1A3 mark [uni102D uni102E] 0 0;
+#    pos uniE1A4 mark [uni102D uni102E] 0 0;
+#    pos uniE1A5 mark [uni102D uni102E] 0 0;
+#    pos uniE1A4_uni103E mark [uni102D uni102E] 0 0;
+} mark1;
+lookup mark2 {
+#    mark uni102F -675 0;
+#    mark uni1030 -675 0;
+#    pos uni1081 mark [uni102F uni1030] 945 0;
+} mark2;
+ language LIS ;
+ language KYU  exclude_dflt;
+lookup mark1;
+lookup mark3 {
+} mark3;
+ language KSW  exclude_dflt;
+lookup mark0;
+lookup mark3;
+} mark;
+
+feature rphf { # Reph Forms
+ script mym2;
+    sub uni1004 uni103A uni1039 by uniE390;
+    sub uni101B uni103A uni1039 by uniE39A;
+    sub uni105A uni103A uni1039 by uniE390;
+ language LIS ;
+} rphf;
+
+feature abvs { # Above-base Substitutions
+ script mym2;
+lookup abvs6 {
+    sub uni102D uni1036 by uniE2D1;
+    sub uni102D uni1032 by uniE12D;
+    sub uni1032 uniAA70 by uniE532;
+    sub uni103A uniAA70 by uniE53A;
+    sub uni103A uni103A by uniE03A;
+    sub uni103A uni1036 by uniE554;
+} abvs6;
+lookup abvs60 {
+    sub [uni102D uni102E] [uni102D uni102E]' by [uni25CC uni102D uni25CC uni102E];
+} abvs60;
+lookup abvs61 {
+    sub [uni102F uni1030] [uni102F uni1030]' by [uni25CC uni102F uni25CC uni1030];
+} abvs61;
+lookup abvs62 {
+    sub [uni1032 uni1036] [uni1032 uni1036]' by [uni25CC uni1032 uni25CC uni1036];
+} abvs62;
+ language KHT ;
+ language KYU ;
+ language KSW ;
+} abvs;
+
+feature blws { # Below-base Substitutions
+ script mym2;
+lookup blws7 {
+    sub [uni1014 uni101B]' uni102F by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni1036 uni102F by [uniE107 uniE108];
+    sub [uni1014 uni101B]' @blws11 uni102F by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni103E @blws11 uni102F by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni1030 by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni1036 uni1030 by [uniE107 uniE108];
+    sub [uni1014 uni101B]' @blws11 uni1030 by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni103B by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni103E uni102F by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni103E uni1036 uni102F by [uniE107 uniE108];
+    sub uni103C [uni1014 uni101B]' by [uniE107 uniE108];
+} blws7;
+lookup blws9 {
+    sub uni100A uniE00A by uniE10A;
+    sub uni1020 uni103E by uniE139;
+    sub uni1020 uni1039 uni1020 by uniE220;
+    sub uni1081 uni1082 by uniE084;
+    sub uni1081 uni103D by uniE083;
+} blws9;
+lookup blws10 {
+    sub uni100B uniE00C by uniE103;
+    sub uni100B uniE00B by uniE102;
+    sub uni100D uniE00E by uniE104;
+    sub uni100D uniE00D by uniE138;
+    sub uni100F uniE00D by uniE105;
+    sub uni1051 uniE00C by uniE552;
+    sub uni1051 uniE00B by uniE551;
+} blws10;
+lookup blws12 {
+    sub uniE1A4 uni103E by uniE1A4_uni103E;
+} blws12;
+lookup blws13 {
+    sub [uni1009 uni100A]' @blws17 by [uniE100 uniE101];
+} blws13;
+lookup blws14 {
+    sub uni1014' @blws18 by uniE107;
+    sub uni1014' uni103A uni102F by uniE107;
+} blws14;
+lookup blws31 {
+    sub uni103C @blws12 uni103E' by uniE1F3;
+    sub uniE1B6 @blws12 uni103E' by uniE1F3;
+    sub uni103C.pref @blws12 uni103E' by uniE1F3;
+    sub uniE1B2 @blws10 uni103E' by uniE1F3;
+    sub uniE1B7 @blws10 uni103E' by uniE1F3;
+    sub uni103C.pres @blws10 uni103E' by uniE1F3;
+    sub [uni1009 uni100A] uni103E' by uniE1F3;
+} blws31;
+lookup blws32 {
+    ignore sub [uni1003 uni101A uni101F] uni103E @blws1 uni102F';
+    sub uni103E @blws1 uni102F' by uniE1F2;
+} blws32;
+lookup blws33 {
+    sub uni103E' @blws1' uniE1F2 by uni102D;
+} blws33;
+lookup blws34 {
+    sub @blws9 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws9 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws9 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1F3 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1F3 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1F3 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1B2 @blws10 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1B7 @blws10 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uni103C.pres @blws10 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uni103C @blws12 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uniE1B6 @blws12 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub uni103C.pref @blws12 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws2 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws2 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws2 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws16 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws16 @blws11 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+    sub @blws16 uni1036 [uni102F uni1030]' by [uniE2F1 uniE2F2];
+} blws34;
+lookup blws35 {
+    ignore sub [uni1003 uni101A uni101F] uni103E' [uni102F uniE2F1];
+    sub uni103E' [uni102F uniE2F1]' by uniE1F2;
+} blws35;
+lookup blws41 {
+    sub [uniE100 uniE101] @blws7' by [uniE001.blws uniE002.blws uniE005.blws uniE007.blws uniE00B.blws uniE00D.blws uniE00E.blws uniE012.blws uniE013.blws uniE014.blws uniE015.blws uniE016.blws uniE017.blws uniE019.blws uni1039_uni101B.blws uniE05C.blws uniE075.blws uniE051.blws uniE052.blws uniE076.blws];
+} blws41;
+lookup blws42 {
+    sub @blws13 @blws6' by [uniE000.blws uniE003.blws uniE006.blws uni1039_uni1009.blws uniE00A.blws uniE00C.blws uniE00F.blws uniE010.blws uniE011.blws uniE018.blws uniE01C.blws uniE01E.blws uniE553.blws uniE021.blws uniE078.blws uniE07D.blws uniE07C.blws uni1039_uni101A.blws];
+} blws42;
+lookup blws43 {
+    sub [uni100D uni101B]' [uniE2F1 uniE2F2] by [uni100D.blws uni101B.blws];
+    sub [uni100D uni101B]' @blws1 [uniE2F1 uniE2F2] by [uni100D.blws uni101B.blws];
+    sub [uni100D uni101B]' [uni103D uni103E uniE1D1 uni103D.blws uniE1D1.blws] @blws1 [uniE2F1 uniE2F2] by [uni100D.blws uni101B.blws];
+    sub [uni100D uni101B]' [uni103D uni103E uniE1D1 uni103D.blws uniE1D1.blws] [uniE2F1 uniE2F2] by [uni100D.blws uni101B.blws];
+} blws43;
+lookup blws44 {
+    sub [uni101B uni107A uni101B.blws] [uni103D uniE1D1]' by [uni103D.blws uniE1D1.blws];
+} blws44;
+lookup blws50 {
+    sub [uni1014 uni1030 uniE1F2] uni1037' by uniE237;
+    sub [uni1014 uni1030 uniE1F2] @blws1 uni1037' by uniE237;
+} blws50;
+lookup blws51 {
+    sub @blws4 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws4 @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub uni1082 uni103A [uni1037 uniE037]' by [uniE137 uniE137];
+    sub uniE108 [uni102F uni1030] [uni1037 uniE037]' by [uniE137 uniE137];
+    sub uniE108 @blws1 [uni102F uni1030] [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws14 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws6 @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws3 @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws15 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws8 @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub @blws5 @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+    sub uni101B uni103E [uni1037 uniE037]' by [uniE137 uniE137];
+    sub uni101B uni103E @blws1 [uni1037 uniE037]' by [uniE137 uniE137];
+} blws51;
+ language LIS ;
+ language KHT  exclude_dflt;
+lookup blws7;
+lookup blws8 {
+    sub uni1039 uni1000 by uniE000;
+    sub uni1039 uni1001 by uniE001;
+    sub uni1039 uni1002 by uniE002;
+    sub uni1039 uni1003 by uniE003;
+    sub uni1039 uni105A by uniE05A;
+    sub uni1039 uni1005 by uniE005;
+    sub uni1039 uni1006 by uniE006;
+    sub uni1039 uni1007 by uniE007;
+    sub uni1039 uni1008 by uniE008;
+    sub uni1039 uni105B by uniE05B;
+    sub uni1039 uni1009 by uni1039_uni1009;
+    sub uni1039 uni100A by uniE00A;
+    sub uni1039 uni100B by uniE00B;
+    sub uni1039 uni100C by uniE00C;
+    sub uni1039 uni100D by uniE00D;
+    sub uni1039 uni100E by uniE00E;
+    sub uni1039 uni100F by uniE00F;
+    sub uni1039 uni1010 by uniE010;
+    sub uni1039 uni1011 by uniE011;
+    sub uni1039 uni1012 by uniE012;
+    sub uni1039 uni1013 by uniE013;
+    sub uni1039 uni1014 by uniE014;
+    sub uni1039 uni1015 by uniE015;
+    sub uni1039 uni1016 by uniE016;
+    sub uni1039 uni1017 by uniE017;
+    sub uni1039 uni1018 by uniE018;
+    sub uni1039 uni1019 by uniE019;
+    sub uni1039 uni101A by uni1039_uni101A;
+    sub uni1039 uni101B by uni1039_uni101B;
+    sub uni1039 uni101C by uniE01C;
+    sub uni1039 uni105C by uniE05C;
+    sub uni1039 uni101E by uniE01E;
+    sub uni1039 uni101F by uniE553;
+    sub uni1039 uni1021 by uniE021;
+    sub uni1039 uni1078 by uniE078;
+    sub uni1039 uni1075 by uniE075;
+    sub uni1039 uni107D by uniE07D;
+    sub uni1039 uni107C by uniE07C;
+    sub uni1039 uni1076 by uniE076;
+    sub uni1039 uni1051 by uniE051;
+    sub uni1039 uni1050 by uniE052;
+    sub uniAA7B by uniEA7E;
+} blws8;
+lookup blws34;
+lookup blws42;
+lookup blws43;
+lookup blws44;
+ language KYU  exclude_dflt;
+lookup blws7;
+lookup blws12;
+lookup blws13;
+lookup blws14;
+lookup blws34;
+lookup blws43;
+lookup blws44;
+lookup blws50;
+lookup blws51;
+ language KSW  exclude_dflt;
+lookup blws7;
+lookup blws12;
+lookup blws13;
+lookup blws14;
+lookup blws43;
+lookup blws44;
+lookup blws50;
+lookup blws51;
+} blws;
+
+feature blwf { # Below-base Forms
+ script mym2;
+lookup blwf8 {
+    sub uni1039 uni1000 by uniE000;
+    sub uni1039 uni1001 by uniE001;
+    sub uni1039 uni1002 by uniE002;
+    sub uni1039 uni1003 by uniE003;
+    sub uni1039 uni105A by uniE05A;
+    sub uni1039 uni1005 by uniE005;
+    sub uni1039 uni1006 by uniE006;
+    sub uni1039 uni1007 by uniE007;
+    sub uni1039 uni1008 by uniE008;
+    sub uni1039 uni105B by uniE05B;
+    sub uni1039 uni1009 by uni1039_uni1009;
+    sub uni1039 uni100A by uniE00A;
+    sub uni1039 uni100B by uniE00B;
+    sub uni1039 uni100C by uniE00C;
+    sub uni1039 uni100D by uniE00D;
+    sub uni1039 uni100E by uniE00E;
+    sub uni1039 uni100F by uniE00F;
+    sub uni1039 uni1010 by uniE010;
+    sub uni1039 uni1011 by uniE011;
+    sub uni1039 uni1012 by uniE012;
+    sub uni1039 uni1013 by uniE013;
+    sub uni1039 uni1014 by uniE014;
+    sub uni1039 uni1015 by uniE015;
+    sub uni1039 uni1016 by uniE016;
+    sub uni1039 uni1017 by uniE017;
+    sub uni1039 uni1018 by uniE018;
+    sub uni1039 uni1019 by uniE019;
+    sub uni1039 uni101A by uni1039_uni101A;
+    sub uni1039 uni101B by uni1039_uni101B;
+    sub uni1039 uni101C by uniE01C;
+    sub uni1039 uni105C by uniE05C;
+    sub uni1039 uni101E by uniE01E;
+    sub uni1039 uni101F by uniE553;
+    sub uni1039 uni1021 by uniE021;
+    sub uni1039 uni1078 by uniE078;
+    sub uni1039 uni1075 by uniE075;
+    sub uni1039 uni107D by uniE07D;
+    sub uni1039 uni107C by uniE07C;
+    sub uni1039 uni1076 by uniE076;
+    sub uni1039 uni1051 by uniE051;
+    sub uni1039 uni1050 by uniE052;
+    sub uniAA7B by uniEA7E;
+} blwf8;
+lookup blwf49 {
+    sub [uni1014 uni102F uni103E uni1060] uni1037' by uniE037;
+    sub [uni1014 uni102F uni103E uni1060] [uni102D uni102E uni1030 uni1032 uni1036 uni103A] uni1037' by uniE037;
+    sub [uni1069 uni106A uni106B uniE162] uni1037' by uniE037;
+} blwf49;
+ language LIS ;
+ language KYU  exclude_dflt;
+lookup blwf49;
+ language KSW  exclude_dflt;
+lookup blwf49;
+} blwf;
+
+feature pref { # Pre-Base Forms
+ script mym2;
+lookup pref11 {
+    sub uni103B uni103D by uniE1A4;
+    sub uni103B uni103E by uniE1A3;
+    sub uni103B uni1082 by uniE182;
+    sub uni103D uni103E by uniE1D1;
+} pref11;
+lookup pref18 {
+    sub uni103C' @blws12 @blws11 by uniE1B6;
+    sub uni103C' @blws10 @blws11 by uniE1B6;
+    sub uni103C' @blws12 uni103E @blws11 by uniE1B6;
+    sub uni103C' @blws10 uni103E @blws11 by uniE1B6;
+} pref18;
+lookup pref19 {
+    sub uni103C' @blws12 uni1036 by uni103C.pref;
+    sub uni103C' @blws10 uni1036 by uni103C.pref;
+    sub uni103C' @blws12 uni103E uni1036 by uni103C.pref;
+    sub uni103C' @blws10 uni103E uni1036 by uni103C.pref;
+} pref19;
+lookup pref20 {
+    sub uni103C' @blws12 [uni103B uni103D uniE1D1] by uniE1BB;
+    sub uni103C' @blws10 [uni103B uni103D uniE1D1] by uniE1BB;
+} pref20;
+ language LIS ;
+ language KHT ;
+ language KYU ;
+ language KSW ;
+    sub uni103C' @blws12 @blws8 by uniE1B3;
+    sub uni103C' @blws12 @blws6 by uniE1B3;
+} pref;
+
+feature pstf { # Post-base Forms
+ script mym2;
+    sub uni102B uni103A by uniE02D;
+    sub uni102B uni1032 by uniE52C;
+    sub uni102B uni1036 by uniE52B;
+    sub uni1062 uni103A by uniE062;
+    sub uni1062 uni1086 by uniE162;
+    sub uni1063 uni103A by uni1063_uni103A;
+    sub uni1083 uni103A by uniE184;
+    sub uni1083 uni1037 by uniE183;
+    sub uniE390 uni102D by uniE391;
+    sub uniE390 uni102E by uniE392;
+    sub uniE390 uni1032 by uniE396;
+    sub uniE390 uni1033 by uniE394;
+    sub uniE390 uni1036 by uniE393;
+    sub uniE390 uni1035 by uniE395;
+    sub uniE390 uni103A by uniE390_uni103A;
+    sub uniE39A uni102D by uniE39B;
+    sub uniE39A uni102E by uniE39C;
+    sub uniE39A uni103A by uniE39A_uni103A;
+ language LIS ;
+ language KHT ;
+ language KSW ;
+} pstf;
+
+feature psts { # Post-base Substitutions
+ script mym2;
+lookup psts16 {
+    sub uniE391 uni1036 by uniE391_uni1036;
+} psts16;
+lookup psts17 {
+    sub @blws16 uni103B' by uniE1A5;
+} psts17;
+lookup psts37 {
+    sub uniE390 @blws2 @psts1' by [uniE391 uniE392 uniE396 uniE394 uniE395 uniE393 uniE390_uni103A];
+    sub uniE390 @blws16 @psts1' by [uniE391 uniE392 uniE396 uniE394 uniE395 uniE393 uniE390_uni103A];
+} psts37;
+lookup psts38 {
+    sub uniE390' @blws18' [uniE391 uniE392 uniE393 uniE394 uniE395 uniE396 uniE390_uni103A] by uni103B;
+} psts38;
+lookup psts39 {
+    sub uni102D [uni102F uni1030] [uni1032 uni1036]' by [uniE12D uniE2D1];
+} psts39;
+lookup psts40 {
+    sub uni102D' [uni102F uni1030]' [uniE2D1 uniE12D] by uni102F;
+} psts40;
+lookup psts45 {
+    sub uniE39A @blws2 [uni102D uni102E]' by [uniE39B uniE39C];
+    sub uniE39A @blws16 [uni102D uni102E]' by [uniE39B uniE39C];
+} psts45;
+lookup psts46 {
+    sub uniE39A' @blws18' [uniE39B uniE39C] by uni103B;
+} psts46;
+lookup psts47 {
+    sub uni103A @blws2 uni1036' by uniE554;
+} psts47;
+lookup psts48 {
+    sub uni103A' @blws2' uniE554 by uni103B;
+} psts48;
+lookup psts68 {
+    sub uniE02D uni1037' uni103A' by uni1037;
+} psts68;
+lookup psts69 {
+    sub uni1014 uni102C' by uni102C.psts;
+    sub uniE107 [uni103D uni103E uniE1D1 uni103D.blws uniE1D1.blws] uni102C' by uni102C.psts;
+    sub uniE107 @blws3 uni102C' by uni102C.psts;
+    sub uniE107 @blws8 uni102C' by uni102C.psts;
+} psts69;
+lookup psts70 {
+    sub @blws6 uni103D' by uniE399;
+} psts70;
+lookup psts71 {
+    sub @blws8 uni103D' by uni103D.psts;
+} psts71;
+lookup psts72 {
+    sub @blws3 uni103D' by _606;
+} psts72;
+ language LIS  exclude_dflt;
+lookup psts17;
+lookup psts37;
+lookup psts38;
+lookup psts70;
+ language KHT  exclude_dflt;
+lookup psts17;
+lookup psts39;
+lookup psts40;
+lookup psts70;
+ language KSW  exclude_dflt;
+lookup psts39;
+lookup psts40;
+lookup psts70;
+} psts;
+
+feature pres { # Pre-base Substitutions
+ script mym2;
+lookup pres21 {
+    sub uni103C' @blws12 @blws8 by uniE1B3;
+    sub uni103C' @blws12 @blws6 by uniE1B3;
+} pres21;
+lookup pres22 {
+    sub uniE1B6' @blws10 @blws11 by uniE1B7;
+    sub uniE1B6' @blws10 uni103E @blws11 by uniE1B7;
+} pres22;
+lookup pres23 {
+    sub uni103C.pref' @blws10 uni1036 by uni103C.pres;
+    sub uni103C.pref' @blws10 uni103E uni1036 by uni103C.pres;
+} pres23;
+lookup pres24 {
+    sub uniE1BB' @blws10 [uni103B uni103D uniE1D1] by uniE1BC;
+} pres24;
+lookup pres25 {
+    sub [uniE1B3 uniE1BB]' @blws12 [uni103B uni103D uniE1D1] @blws11 by [uniE1B3.pres uniE1B3.pres];
+    sub [uniE1B3 uniE1BB]' @blws12 @blws8 @blws11 by [uniE1B3.pres uniE1B3.pres];
+    sub [uniE1B3 uniE1BB]' @blws12 @blws6 @blws11 by [uniE1B3.pres uniE1B3.pres];
+} pres25;
+lookup pres26 {
+    sub [uni103C uniE1BC]' @blws10 [uni103B uni103D uniE1D1] @blws11 by [uniE1BC.pres uniE1BC.pres];
+    sub [uni103C uniE1BC]' @blws10 @blws8 @blws11 by [uniE1BC.pres uniE1BC.pres];
+} pres26;
+lookup pres27 {
+    sub [uni103C uniE1BC]' @blws10 @blws6 @blws11 by [_427 _427];
+} pres27;
+lookup pres28 {
+    sub uni103C' @blws10 @blws6 by uniE1B4;
+} pres28;
+lookup pres29 {
+    sub uni103C' @blws10 @blws8 by uniE1BC;
+} pres29;
+lookup pres30 {
+    sub uni103C' @blws10 by uniE1B2;
+} pres30;
+lookup pres63 {
+    sub uni1009' @pres1 by uni1009.001;
+} pres63;
+lookup pres64 {
+    sub uni1009' uni103A by uniE009;
+} pres64;
+lookup pres65 {
+    sub [uniE1B6 uniE1B7]' @blws10 uni102D uni103B by [uniE1B7 uniE1B7.pres];
+} pres65;
+lookup pres66 {
+    sub uni105A' uni103A by uni1004;
+} pres66;
+lookup pres67 {
+    sub uni102B' uni1037 uni103A by uniE02D;
+} pres67;
+ language LIS ;
+ language KHT  exclude_dflt;
+lookup pres24;
+lookup pres25;
+lookup pres26;
+lookup pres27;
+lookup pres28;
+lookup pres29;
+lookup pres30;
+lookup pres63;
+lookup pres64;
+ language KYU  exclude_dflt;
+lookup pres22;
+lookup pres23;
+lookup pres24;
+lookup pres30;
+lookup pres63;
+lookup pres64;
+ language KSW  exclude_dflt;
+lookup pres22;
+lookup pres23;
+lookup pres24;
+lookup pres25;
+lookup pres26;
+lookup pres63;
+lookup pres64;
+} pres;
+
+feature locl { # Localized Forms
+ script mym2;
+ language LIS  exclude_dflt;
+    sub uni102D uni1036 by uni102D_uni1036;
+    sub uni102E uni1036 by uni102E_uni1036;
+ language KHT  exclude_dflt;
+    sub @locl1 by @locl2;
+ language KYU  exclude_dflt;
+lookup locl36 {
+    sub [uni103D uni103E uniE1D1] by [uni103D.locl uni103E.locl uniE1D1.locl];
+} locl36;
+lookup locl59 {
+    sub [uni103D.locl uniE1D1.locl] uni1037' by uni1037.locl;
+} locl59;
+ language KSW  exclude_dflt;
+lookup locl36;
+lookup locl59;
+} locl;
+
+feature afrc { # Alternative Fractions
+ script mym2;
+lookup afrc52 {
+    sub @afrc1 by @afrc2;
+} afrc52;
+lookup afrc53 {
+    sub @afrc3 @afrc2' by [uni1040.afrc_afrc uni1041.afrc_afrc uni1042.afrc_afrc uni1043.afrc_afrc uni1044.afrc_afrc uni1045.afrc_afrc uni1046.afrc_afrc uni1047.afrc_afrc uni1048.afrc_afrc uni1049.afrc_afrc];
+} afrc53;
+lookup afrc54 {
+    sub uni1040.afrc slash by uni1040.afrc;
+    sub uni1040.afrc fraction by uni1040.afrc;
+    sub uni1041.afrc slash by uni1041.afrc;
+    sub uni1041.afrc fraction by uni1041.afrc;
+    sub uni1042.afrc slash by uni1042.afrc;
+    sub uni1042.afrc fraction by uni1042.afrc;
+    sub uni1043.afrc slash by uni1043.afrc;
+    sub uni1043.afrc fraction by uni1043.afrc;
+    sub uni1044.afrc slash by uni1044.afrc;
+    sub uni1044.afrc fraction by uni1044.afrc;
+    sub uni1045.afrc slash by uni1045.afrc;
+    sub uni1045.afrc fraction by uni1045.afrc;
+    sub uni1046.afrc slash by uni1046.afrc;
+    sub uni1046.afrc fraction by uni1046.afrc;
+    sub uni1047.afrc slash by uni1047.afrc;
+    sub uni1047.afrc fraction by uni1047.afrc;
+    sub uni1048.afrc slash by uni1048.afrc;
+    sub uni1048.afrc fraction by uni1048.afrc;
+    sub uni1049.afrc slash by uni1049.afrc;
+    sub uni1049.afrc fraction by uni1049.afrc;
+} afrc54;
+lookup afrc55 {
+    sub @afrc2' @afrc2 by [_544 uni1040.afrc _544 uni1041.afrc _544 uni1042.afrc _544 uni1043.afrc _544 uni1044.afrc _544 uni1045.afrc _544 uni1046.afrc _544 uni1047.afrc _544 uni1048.afrc _544 uni1049.afrc];
+} afrc55;
+ language LIS ;
+} afrc;
+
+feature frac { # Fractions
+ script mym2;
+lookup frac52 {
+    sub @afrc1 by @afrc2;
+} frac52;
+lookup frac53 {
+    sub @afrc3 @afrc2' by [uni1040.afrc_afrc uni1041.afrc_afrc uni1042.afrc_afrc uni1043.afrc_afrc uni1044.afrc_afrc uni1045.afrc_afrc uni1046.afrc_afrc uni1047.afrc_afrc uni1048.afrc_afrc uni1049.afrc_afrc];
+} frac53;
+lookup frac54 {
+    sub uni1040.afrc slash by uni1040.afrc;
+    sub uni1040.afrc fraction by uni1040.afrc;
+    sub uni1041.afrc slash by uni1041.afrc;
+    sub uni1041.afrc fraction by uni1041.afrc;
+    sub uni1042.afrc slash by uni1042.afrc;
+    sub uni1042.afrc fraction by uni1042.afrc;
+    sub uni1043.afrc slash by uni1043.afrc;
+    sub uni1043.afrc fraction by uni1043.afrc;
+    sub uni1044.afrc slash by uni1044.afrc;
+    sub uni1044.afrc fraction by uni1044.afrc;
+    sub uni1045.afrc slash by uni1045.afrc;
+    sub uni1045.afrc fraction by uni1045.afrc;
+    sub uni1046.afrc slash by uni1046.afrc;
+    sub uni1046.afrc fraction by uni1046.afrc;
+    sub uni1047.afrc slash by uni1047.afrc;
+    sub uni1047.afrc fraction by uni1047.afrc;
+    sub uni1048.afrc slash by uni1048.afrc;
+    sub uni1048.afrc fraction by uni1048.afrc;
+    sub uni1049.afrc slash by uni1049.afrc;
+    sub uni1049.afrc fraction by uni1049.afrc;
+} frac54;
+lookup frac55 {
+    sub @afrc2' @afrc2 by [_544 uni1040.afrc _544 uni1041.afrc _544 uni1042.afrc _544 uni1043.afrc _544 uni1044.afrc _544 uni1045.afrc _544 uni1046.afrc _544 uni1047.afrc _544 uni1048.afrc _544 uni1049.afrc];
+} frac55;
+ language LIS ;
+} frac;
+
+feature sups { # Superscript
+ script mym2;
+    sub @afrc1 by @sups1;
+ language LIS ;
+} sups;
+
