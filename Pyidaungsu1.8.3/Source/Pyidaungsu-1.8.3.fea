@@ -1,0 +1,1048 @@
+@class450=[uni102B.clig uni102C.clig uni102D.clig uni102E.clig uni1032.clig uni1036.clig uni1037.clig uni1038.clig uni103A.clig];
+@clig10=[uni103C uniE390 uniE391 uniE392 uniE393 uniE394 uniE395 uniE396 _399 uniE390.clig uniE39A uniE39B uniE39C];
+@clig11=[uniE001 uniE002 uniE005 uniE007 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE019 uniE051 uniE052];
+@clig12=[uniE000 uniE003 uniE006 uniE00F uniE010 uniE011 uniE018 uniE01C uniE01F uniE020 uniE01E uniE021 uni1039_uni101F uni1039_uni101A];
+@clig13=[uni102B uni102C uni1031 uni1037 uni103A uni1062 uni1063 uni1082 uni1083 uniE081 uniE082 uniE083 uniE084 uni1037.clig uni103E.clig];
+@clig14=[uni102B uni102C uni1031 uni1032 uni1036 uni103A uniE402 uni1069 uni106A uni106B uni106C uni106D uni1083 uni1086 uni102F.clig uni1030.clig];
+@clig15=[uni1008 uni1009 uni100A uni100B uni100C uni100D uni1020 uni1029 uniE100 uni105A uni105B uni105D uni1061 uni106F uni1070 uni1081];
+@clig16=[uniE1A3 uniE1A4 uniE1D1 uniE1F3 uni103D.clig_clig uniE1A5 uni105E uni105F uni1060 uni1082 uniE399 uniE05C uniE05A uni103B.clig_uni1082 uni103B.clig uni103D.clig uni103E.clig];
+@clig17=[uni1081 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71];
+@clig18=[uni1026 uni102B uni102C uni102D uni102E uni1031 uni1032 uni1036 uni1037 uni103A uni1034 uni1067 uni106A uni106C uni106D uni1083 uni1084 uni1086 uni102F.clig uni1030.clig];
+@clig19=[uni1000 uni1003 uni1006 uni100F uni1010 uni1011 uni1018 uni101A uni101C uni101E uni101F uni1021 uni103F uni1022 uni106E uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni1080];
+@clig1=[uni1033 uni1035 uni102D.clig uni102E.clig uni1032.clig uni1036.clig];
+@clig20=[uni1001 uni1002 uni1004 uni1005 uni1007 uni100E uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1019 uni101B uni101D uni1027 uniE107 uniE108 uni1050 uni1051 uni105C uni1065 uni1075 uni1076 uni1077 uni107F];
+@clig21=[uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE05B uniE051 uniE052 uniE01E uniE021 uni1039_uni101F];
+@clig22=[uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE1D1 uniE05B uniE051 uniE052 uniE01E uniE021 uni1039_uni101F uni1039.clig uni103B.clig uni103D.clig];
+@clig23=[uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE05B uniE00A uniE05C uniE078 uniE075 uniE051 uniE052 uniE01E uniE07D uniE07C uniE076 uniE05A uniE021 uni1039_uni101F];
+@clig24=[uni103C uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE1A3 uniE1A4 uniE1BB uniE1F2 uniE402 uniE05B uniE051 uniE052 uniE01E uniE021 uni1039_uni101F uni102F.clig uni1030.clig];
+@clig25=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1021 uni1027 uni103F uniE107 uniE108 uni1022 uni1050 uni1051 uni105C uni1065 uni106E uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080];
+@clig26=[uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE1A3 uniE1A4 uniE1D1 uniE1F3 uni103D.clig_clig uniE1A5 uni105E uni105F uni1060 uni1082 uniE05B uniE399 uniE05C _399 uniE051 uniE052 uniE01E uniE05A uniE021 uni103B.clig_uni1082 uni1039_uni101F uni103B.clig uni103D.clig uni103E.clig];
+@clig27=[uni103C uniE000 uniE001 uniE002 uniE003 uniE005 uniE006 uniE007 uniE008 uniE00B uniE00C uniE00D uniE00F uniE010 uniE011 uniE012 uniE013 uniE014 uniE015 uniE016 uniE017 uniE018 uniE019 uniE01C uniE01F uniE020 uniE1A3 uniE1A4 uniE1BB uniE1D1 uniE1F3 uni103D.clig_clig uniE1A5 uni105E uni105F uni1060 uni1082 uniE05B uniE399 uniE05C uniE390.clig uniE051 uniE052 uniE01E uniE05A uniE021 uni103B.clig_uni1082 uni1039_uni101F uni103B.clig uni103D.clig uni103E.clig];
+@clig28=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081];
+@clig29=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1021 uni1027 uni103F uniE107 uniE108 uni1022 uni1050 uni1051 uni105C uni1065 uni106E uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71];
+@clig2=[uni1033 uni1035 uni1072 uni1073 uni1074 uni102D.clig uni102E.clig uni1032.clig];
+@clig30=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103C uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uni103B.clig];
+@clig31=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103C uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uni102C.clig uni103B.clig uni103D.clig];
+@clig32=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103F uniE100 uniE102 uniE103 uniE104 uniE105 uniE107 uniE108 uniE138 uniE139 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081];
+@clig33=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71];
+@clig34=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103A uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71];
+@clig35=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103B uni103C uni103D uni103E uni103F uniE100 uniE107 uniE108 uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni105E uni105F uni1060 uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71];
+@clig36=[uni1000 uni1001 uni1002 uni1003 uni1004 uni1005 uni1006 uni1007 uni1008 uni1009 uni100A uni100B uni100C uni100D uni100E uni100F uni1010 uni1011 uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1018 uni1019 uni101A uni101B uni101C uni101D uni101E uni101F uni1020 uni1021 uni1027 uni1029 uni103C uni103F uniE100 uniE107 uniE108 uniE1BB uni1022 uni1050 uni1051 uni105A uni105B uni105C uni105D uni105E uni105F uni1060 uni1061 uni1065 uni106E uni106F uni1070 uni1075 uni1076 uni1077 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni107F uni1080 uni1081 uni1082 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA67 uniAA68 uniAA69 uniAA6A uniAA6B uniAA6C uniAA6D uniAA6E uniAA6F uniAA71 uni103B.clig uni103D.clig uni103E.clig];
+@clig3=[uni102B uni102C uni102D uni102E uni1032 uni1036 uni1037 uni1038 uni103A];
+@clig4=[uniE390 uniE391 uniE392 uniE393 uniE394 uniE395 uniE396 uniE39A uniE39B uniE39C];
+@clig5=[uni102D uni102E uni1031 uni1032 uni1036 uni103A uni1062 uni102F.clig uni1030.clig uni1032.clig];
+@clig6=[uni1033 uni1034 uni1035 uni1072 uni1073 uni1074 uni102D.clig uni102E.clig uni1032.clig uni1036.clig];
+@clig7=[uni1040 uni1041 uni1042 uni1043 uni1044 uni1045 uni1046 uni1047 uni1048 uni1049];
+@clig8=[uni1025 uni102D uni102E uni1031 uni103A uni1033 uni1035 uni1072 uni1073 uni1074];
+@clig9=[uni101B uniE1A3 uniE1A4 uniE1D1 uniE2F1 uniE2F2 uni1061 uni1082 uni1083 uni103B.clig uni103D.clig];
+languagesystem latn dflt;
+languagesystem mymr dflt;
+
+
+feature mkmk { # Mark to Mark Positioning
+ script latn; # Latin
+lookup mkmk0 {
+} mkmk0;
+lookup mkmk1 {
+    pos uni1001 uniE000 0;
+    pos uni1001 uniE00C 0;
+    pos uni1001 uniE00F 0;
+    pos uni1001 uniE01C 0;
+    pos uni1001 uniE01F 0;
+    pos uni1001 uniE020 0;
+    pos uni1001 uniE00A 0;
+    pos uni1001 uniE078 0;
+    pos uni1001 uniE01E 0;
+    pos uni1001 uniE07D 0;
+    pos uni1001 uniE07C 0;
+    pos uni1001 uniE021 0;
+    pos uni1002 uniE000 0;
+    pos uni1002 uniE00C 0;
+    pos uni1002 uniE00F 0;
+    pos uni1002 uniE01C 0;
+    pos uni1002 uniE01F 0;
+    pos uni1002 uniE020 0;
+    pos uni1002 uniE00A 0;
+    pos uni1002 uniE078 0;
+    pos uni1002 uniE01E 0;
+    pos uni1002 uniE07D 0;
+    pos uni1002 uniE07C 0;
+    pos uni1002 uniE021 0;
+    pos uni1004 uniE000 0;
+    pos uni1004 uniE00C 0;
+    pos uni1004 uniE00F 0;
+    pos uni1004 uniE01C 0;
+    pos uni1004 uniE01F 0;
+    pos uni1004 uniE020 0;
+    pos uni1004 uniE00A 0;
+    pos uni1004 uniE078 0;
+    pos uni1004 uniE01E 0;
+    pos uni1004 uniE07D 0;
+    pos uni1004 uniE07C 0;
+    pos uni1004 uniE021 0;
+    pos uni1005 uniE000 0;
+    pos uni1005 uniE00C 0;
+    pos uni1005 uniE00F 0;
+    pos uni1005 uniE01C 0;
+    pos uni1005 uniE01F 0;
+    pos uni1005 uniE020 0;
+    pos uni1005 uniE00A 0;
+    pos uni1005 uniE078 0;
+    pos uni1005 uniE01E 0;
+    pos uni1005 uniE07D 0;
+    pos uni1005 uniE07C 0;
+    pos uni1005 uniE021 0;
+    pos uni1007 uniE000 0;
+    pos uni1007 uniE00C 0;
+    pos uni1007 uniE00F 0;
+    pos uni1007 uniE01C 0;
+    pos uni1007 uniE01F 0;
+    pos uni1007 uniE020 0;
+    pos uni1007 uniE00A 0;
+    pos uni1007 uniE078 0;
+    pos uni1007 uniE01E 0;
+    pos uni1007 uniE07D 0;
+    pos uni1007 uniE07C 0;
+    pos uni1007 uniE021 0;
+    pos uni100E uniE000 0;
+    pos uni100E uniE00C 0;
+    pos uni100E uniE00F 0;
+    pos uni100E uniE01C 0;
+    pos uni100E uniE01F 0;
+    pos uni100E uniE020 0;
+    pos uni100E uniE00A 0;
+    pos uni100E uniE078 0;
+    pos uni100E uniE01E 0;
+    pos uni100E uniE07D 0;
+    pos uni100E uniE07C 0;
+    pos uni100E uniE021 0;
+    pos uni1012 uniE000 0;
+    pos uni1012 uniE00C 0;
+    pos uni1012 uniE00F 0;
+    pos uni1012 uniE01C 0;
+    pos uni1012 uniE01F 0;
+    pos uni1012 uniE020 0;
+    pos uni1012 uniE00A 0;
+    pos uni1012 uniE078 0;
+    pos uni1012 uniE01E 0;
+    pos uni1012 uniE07D 0;
+    pos uni1012 uniE07C 0;
+    pos uni1012 uniE021 0;
+    pos uni1013 uniE000 0;
+    pos uni1013 uniE00C 0;
+    pos uni1013 uniE00F 0;
+    pos uni1013 uniE01C 0;
+    pos uni1013 uniE01F 0;
+    pos uni1013 uniE020 0;
+    pos uni1013 uniE00A 0;
+    pos uni1013 uniE078 0;
+    pos uni1013 uniE01E 0;
+    pos uni1013 uniE07D 0;
+    pos uni1013 uniE07C 0;
+    pos uni1013 uniE021 0;
+    pos uni1014 uniE000 0;
+    pos uni1014 uniE00C 0;
+    pos uni1014 uniE00F 0;
+    pos uni1014 uniE01C 0;
+    pos uni1014 uniE01F 0;
+    pos uni1014 uniE020 0;
+    pos uni1014 uniE00A 0;
+    pos uni1014 uniE078 0;
+    pos uni1014 uniE01E 0;
+    pos uni1014 uniE07D 0;
+    pos uni1014 uniE07C 0;
+    pos uni1014 uniE021 0;
+    pos uni1015 uniE000 0;
+    pos uni1015 uniE00C 0;
+    pos uni1015 uniE00F 0;
+    pos uni1015 uniE01C 0;
+    pos uni1015 uniE01F 0;
+    pos uni1015 uniE020 0;
+    pos uni1015 uniE00A 0;
+    pos uni1015 uniE078 0;
+    pos uni1015 uniE01E 0;
+    pos uni1015 uniE07D 0;
+    pos uni1015 uniE07C 0;
+    pos uni1015 uniE021 0;
+    pos uni1016 uniE000 0;
+    pos uni1016 uniE00C 0;
+    pos uni1016 uniE00F 0;
+    pos uni1016 uniE01C 0;
+    pos uni1016 uniE01F 0;
+    pos uni1016 uniE020 0;
+    pos uni1016 uniE00A 0;
+    pos uni1016 uniE078 0;
+    pos uni1016 uniE01E 0;
+    pos uni1016 uniE07D 0;
+    pos uni1016 uniE07C 0;
+    pos uni1016 uniE021 0;
+    pos uni1017 uniE000 0;
+    pos uni1017 uniE00C 0;
+    pos uni1017 uniE00F 0;
+    pos uni1017 uniE01C 0;
+    pos uni1017 uniE01F 0;
+    pos uni1017 uniE020 0;
+    pos uni1017 uniE00A 0;
+    pos uni1017 uniE078 0;
+    pos uni1017 uniE01E 0;
+    pos uni1017 uniE07D 0;
+    pos uni1017 uniE07C 0;
+    pos uni1017 uniE021 0;
+    pos uni1019 uniE000 0;
+    pos uni1019 uniE00C 0;
+    pos uni1019 uniE00F 0;
+    pos uni1019 uniE01C 0;
+    pos uni1019 uniE01F 0;
+    pos uni1019 uniE020 0;
+    pos uni1019 uniE00A 0;
+    pos uni1019 uniE078 0;
+    pos uni1019 uniE01E 0;
+    pos uni1019 uniE07D 0;
+    pos uni1019 uniE07C 0;
+    pos uni1019 uniE021 0;
+    pos uni101B uniE000 0;
+    pos uni101B uniE00C 0;
+    pos uni101B uniE00F 0;
+    pos uni101B uniE01C 0;
+    pos uni101B uniE01F 0;
+    pos uni101B uniE020 0;
+    pos uni101B uniE00A 0;
+    pos uni101B uniE078 0;
+    pos uni101B uniE01E 0;
+    pos uni101B uniE07D 0;
+    pos uni101B uniE07C 0;
+    pos uni101B uniE021 0;
+    pos uni101D uniE000 0;
+    pos uni101D uniE00C 0;
+    pos uni101D uniE00F 0;
+    pos uni101D uniE01C 0;
+    pos uni101D uniE01F 0;
+    pos uni101D uniE020 0;
+    pos uni101D uniE00A 0;
+    pos uni101D uniE078 0;
+    pos uni101D uniE01E 0;
+    pos uni101D uniE07D 0;
+    pos uni101D uniE07C 0;
+    pos uni101D uniE021 0;
+    pos uni1027 uniE000 0;
+    pos uni1027 uniE00C 0;
+    pos uni1027 uniE00F 0;
+    pos uni1027 uniE01C 0;
+    pos uni1027 uniE01F 0;
+    pos uni1027 uniE020 0;
+    pos uni1027 uniE00A 0;
+    pos uni1027 uniE078 0;
+    pos uni1027 uniE01E 0;
+    pos uni1027 uniE07D 0;
+    pos uni1027 uniE07C 0;
+    pos uni1027 uniE021 0;
+    pos uniE107 uniE000 0;
+    pos uniE107 uniE00C 0;
+    pos uniE107 uniE00F 0;
+    pos uniE107 uniE01C 0;
+    pos uniE107 uniE01F 0;
+    pos uniE107 uniE020 0;
+    pos uniE107 uniE00A 0;
+    pos uniE107 uniE078 0;
+    pos uniE107 uniE01E 0;
+    pos uniE107 uniE07D 0;
+    pos uniE107 uniE07C 0;
+    pos uniE107 uniE021 0;
+    pos uniE108 uniE000 0;
+    pos uniE108 uniE00C 0;
+    pos uniE108 uniE00F 0;
+    pos uniE108 uniE01C 0;
+    pos uniE108 uniE01F 0;
+    pos uniE108 uniE020 0;
+    pos uniE108 uniE00A 0;
+    pos uniE108 uniE078 0;
+    pos uniE108 uniE01E 0;
+    pos uniE108 uniE07D 0;
+    pos uniE108 uniE07C 0;
+    pos uniE108 uniE021 0;
+    pos uni1050 uniE000 0;
+    pos uni1050 uniE00C 0;
+    pos uni1050 uniE00F 0;
+    pos uni1050 uniE01C 0;
+    pos uni1050 uniE01F 0;
+    pos uni1050 uniE020 0;
+    pos uni1050 uniE00A 0;
+    pos uni1050 uniE078 0;
+    pos uni1050 uniE01E 0;
+    pos uni1050 uniE07D 0;
+    pos uni1050 uniE07C 0;
+    pos uni1050 uniE021 0;
+    pos uni1051 uniE000 0;
+    pos uni1051 uniE00C 0;
+    pos uni1051 uniE00F 0;
+    pos uni1051 uniE01C 0;
+    pos uni1051 uniE01F 0;
+    pos uni1051 uniE020 0;
+    pos uni1051 uniE00A 0;
+    pos uni1051 uniE078 0;
+    pos uni1051 uniE01E 0;
+    pos uni1051 uniE07D 0;
+    pos uni1051 uniE07C 0;
+    pos uni1051 uniE021 0;
+    pos uni105C uniE000 0;
+    pos uni105C uniE00C 0;
+    pos uni105C uniE00F 0;
+    pos uni105C uniE01C 0;
+    pos uni105C uniE01F 0;
+    pos uni105C uniE020 0;
+    pos uni105C uniE00A 0;
+    pos uni105C uniE078 0;
+    pos uni105C uniE01E 0;
+    pos uni105C uniE07D 0;
+    pos uni105C uniE07C 0;
+    pos uni105C uniE021 0;
+    pos uni1065 uniE000 0;
+    pos uni1065 uniE00C 0;
+    pos uni1065 uniE00F 0;
+    pos uni1065 uniE01C 0;
+    pos uni1065 uniE01F 0;
+    pos uni1065 uniE020 0;
+    pos uni1065 uniE00A 0;
+    pos uni1065 uniE078 0;
+    pos uni1065 uniE01E 0;
+    pos uni1065 uniE07D 0;
+    pos uni1065 uniE07C 0;
+    pos uni1065 uniE021 0;
+    pos uni1075 uniE000 0;
+    pos uni1075 uniE00C 0;
+    pos uni1075 uniE00F 0;
+    pos uni1075 uniE01C 0;
+    pos uni1075 uniE01F 0;
+    pos uni1075 uniE020 0;
+    pos uni1075 uniE00A 0;
+    pos uni1075 uniE078 0;
+    pos uni1075 uniE01E 0;
+    pos uni1075 uniE07D 0;
+    pos uni1075 uniE07C 0;
+    pos uni1075 uniE021 0;
+    pos uni1076 uniE000 0;
+    pos uni1076 uniE00C 0;
+    pos uni1076 uniE00F 0;
+    pos uni1076 uniE01C 0;
+    pos uni1076 uniE01F 0;
+    pos uni1076 uniE020 0;
+    pos uni1076 uniE00A 0;
+    pos uni1076 uniE078 0;
+    pos uni1076 uniE01E 0;
+    pos uni1076 uniE07D 0;
+    pos uni1076 uniE07C 0;
+    pos uni1076 uniE021 0;
+    pos uni1077 uniE000 0;
+    pos uni1077 uniE00C 0;
+    pos uni1077 uniE00F 0;
+    pos uni1077 uniE01C 0;
+    pos uni1077 uniE01F 0;
+    pos uni1077 uniE020 0;
+    pos uni1077 uniE00A 0;
+    pos uni1077 uniE078 0;
+    pos uni1077 uniE01E 0;
+    pos uni1077 uniE07D 0;
+    pos uni1077 uniE07C 0;
+    pos uni1077 uniE021 0;
+    pos uni107F uniE000 0;
+    pos uni107F uniE00C 0;
+    pos uni107F uniE00F 0;
+    pos uni107F uniE01C 0;
+    pos uni107F uniE01F 0;
+    pos uni107F uniE020 0;
+    pos uni107F uniE00A 0;
+    pos uni107F uniE078 0;
+    pos uni107F uniE01E 0;
+    pos uni107F uniE07D 0;
+    pos uni107F uniE07C 0;
+    pos uni107F uniE021 0;
+} mkmk1;
+lookup mkmk2 {
+} mkmk2;
+ script mymr; # Myanmar
+lookup mkmk0;
+lookup mkmk1;
+lookup mkmk2;
+} mkmk;
+
+feature liga { # Standard Ligatures
+ script mymr; # Myanmar
+lookup liga5 {
+    sub uni1004 uni103A uni1039 by uniE390;
+    sub uni101B uni103A uni1039 by uniE39A;
+    sub uni105A uni103A uni1039 by uniE390;
+} liga5;
+lookup liga6 {
+    sub uniE390 by _403 uniE390;
+} liga6;
+lookup liga19 {
+    sub uni1062 uni1086 by uni1062_uni1086;
+    sub uni107E uni102F.clig by uni107E.clig;
+    sub uni107E uni1030.clig by uni107E_uni1030.clig;
+    sub uni1081 uni102F.clig by uniE081;
+    sub uni1081 uni1030.clig by uniE082;
+    sub uni1081 uni1082 by uniE084;
+    sub uni1081 uni103D.clig by uniE083;
+    sub uni1083 uni1037.clig by uni1083_uni1089;
+    sub uni1083 uni1089 by uni1083_uni1089;
+    sub uni1083 uni103A.clig by uni1083_uni103A.clig;
+} liga19;
+lookup liga22 {
+    sub uni100A uni1039 uni100A by uniE10A;
+    sub uni100B uni1039 uni100C by uniE103;
+    sub uni100B uni1039 uni100B by uniE102;
+    sub uni100D uni1039 uni100E by uniE104;
+    sub uni100D uni1039 uni100D by uniE138;
+    sub uni100F uni1039 uni100D by uniE105;
+    sub uni1020 uni1039 uni1020 by uniE220;
+    sub uni1051 uni1039 uni100C by uniE552;
+    sub uni1051 uni1039 uni100D by uniE551;
+    sub uni103D.clig uni103E.clig by uniE1D1;
+    sub uni103E.clig uni103A.clig uni102F.clig by uni103E.clig_uni103A.clig_uni10;
+    sub uni103E.clig uni1072 uni102F.clig by uniE403;
+} liga22;
+lookup liga23 {
+    sub uni1039 uni1000 by uniE000;
+    sub uni1039 uni1001 by uniE001;
+    sub uni1039 uni1002 by uniE002;
+    sub uni1039 uni1003 by uniE003;
+    sub uni1039 uni105A by uniE05A;
+    sub uni1039 uni1005 by uniE005;
+    sub uni1039 uni1006 by uniE006;
+    sub uni1039 uni1007 by uniE007;
+    sub uni1039 uni1008 by uniE008;
+    sub uni1039 uni105B by uniE05B;
+    sub uni1039 uni100A by uniE00A;
+    sub uni1039 uni100B by uniE00B;
+    sub uni1039 uni100C by uniE00C;
+    sub uni1039 uni100D by uniE00D;
+    sub uni1039 uni100F by uniE00F;
+    sub uni1039 uni1010 by uniE010;
+    sub uni1039 uni1011 by uniE011;
+    sub uni1039 uni1012 by uniE012;
+    sub uni1039 uni1013 by uniE013;
+    sub uni1039 uni1014 by uniE014;
+    sub uni1039 uni1015 by uniE015;
+    sub uni1039 uni1016 by uniE016;
+    sub uni1039 uni1017 by uniE017;
+    sub uni1039 uni1018 by uniE018;
+    sub uni1039 uni1019 by uniE019;
+    sub uni1039 uni101C by uniE01C;
+    sub uni1039 uni105C by uniE05C;
+    sub uni1039 uni101E by uniE01E;
+    sub uni1039 uni101F by uni1039_uni101F;
+    sub uni1039 uni1021 by uniE021;
+    sub uni1039 uni1078 by uniE078;
+    sub uni1039 uni1075 by uniE075;
+    sub uni1039 uni107D by uniE07D;
+    sub uni1039 uni107C by uniE07C;
+    sub uni1039 uni1076 by uniE076;
+    sub uni1039 uni1051 by uniE051;
+    sub uni1039 uni1050 by uniE052;
+    sub uni1039 uni101A by uni1039_uni101A;
+    sub uni104E uniE390 by uniE04E;
+    sub uni104E _403 uniE390 by uniE04E;
+} liga23;
+lookup liga28 {
+    sub uni1020 uni103E by uniE139;
+    sub uni103C uni103D.clig by uniE1BB;
+    sub uni1062 uni103A.clig by uniE062;
+    sub uni102B.clig uni1036.clig by uniE52B;
+    sub uni102B.clig uni1032.clig by uniE52C;
+    sub uni102B.clig uni103A.clig by uniE02D;
+    sub uni102C.clig uni103E.clig uni103A.clig by uniE53E;
+    sub uni102D.clig uni1036.clig by uniE2D1;
+    sub uni102D.clig uni1032.clig by uniE12D;
+    sub uni1032.clig uniAA70 by uniE532;
+    sub uni103A.clig uni103A.clig by uniE03A;
+    sub uni103A.clig uniAA70 by uniE53A;
+    sub uni103A.clig uni1036 by uni103A.clig_uni1036;
+    sub uni103B.clig uni103D.clig by uniE1A4;
+    sub uni103B.clig uni103E.clig by uniE1A3;
+    sub uni103B.clig uniE1D1 by uni103B.clig_uniE1D1;
+    sub uni103B.clig uni1082 by uni103B.clig_uni1082;
+} liga28;
+} liga;
+
+feature clig { # Contextual Ligatures
+ script mymr; # Myanmar
+lookup clig7 {
+    sub @clig35 [uni102F uni1030]' by [uni102F.clig uni1030.clig];
+    sub uni103E uni103A [uni102F uni1030]' by [uni102F.clig uni1030.clig];
+    sub uni1082 [uni102F uni1030]' by [uni102F.clig uni1030.clig];
+} clig7;
+lookup clig8 {
+    sub @clig8 [uni102F uni1030]' by [uni102F.clig uni1030.clig];
+} clig8;
+lookup clig9 {
+    sub @clig34 uni103B' by uni103B.clig;
+} clig9;
+lookup clig10 {
+    sub @clig30 uni103D' by uni103D.clig;
+} clig10;
+lookup clig11 {
+    sub @clig31 uni103E' by uni103E.clig;
+} clig11;
+lookup clig12 {
+    sub @clig18 uni1038' by uni1038.clig;
+} clig12;
+lookup clig13 {
+    sub @clig14 uni1037' by uni1037.clig;
+} clig13;
+lookup clig14 {
+    sub [uni102B uni102C uni102D uni1031 uni103A uni102F.clig] uni1036' by uni1036.clig;
+} clig14;
+lookup clig15 {
+    sub [uni102B uni102C uni102D uni1031 uni102F.clig] uni1032' by uni1032.clig;
+} clig15;
+lookup clig16 {
+    sub @clig13 uni103A' by uni103A.clig;
+} clig16;
+lookup clig17 {
+    sub @clig5 [uni102B uni102C]' by [uni102B.clig uni102C.clig];
+} clig17;
+lookup clig18 {
+    sub @clig36 @clig3' by [uni102B.clig uni102C.clig uni102D.clig uni102E.clig uni1032.clig uni1036.clig uni1037.clig uni1038.clig uni103A.clig];
+} clig18;
+lookup clig20 {
+    sub [uni1089 uniAA7B uni102F.clig uni1030.clig] by [uni1089.clig uniAA7B.clig uniE2F1 uniE2F2];
+} clig20;
+lookup clig21 {
+    sub [uni1009 uni100A uni103C] uni103E.clig' by uniE1F3;
+} clig21;
+lookup clig24 {
+    sub @clig33 uni1039' by uni1039.clig;
+} clig24;
+lookup clig25 {
+    sub @clig19 [uniE010 uniE011]' by [uniE01F uniE020];
+} clig25;
+lookup clig26 {
+    sub uni105A' uni103A.clig by uni1004;
+} clig26;
+lookup clig27 {
+    sub uni103D.clig uni1031 uni1037' by uniE137;
+} clig27;
+lookup clig29 {
+    ignore sub [uni1003 uni101A uni101F] uni103E.clig' uni102D.clig [uniE2F1 uniE2F2];
+    sub uni103E.clig' uni102D.clig' [uniE2F1 uniE2F2]' by uniE402;
+} clig29;
+lookup clig30 {
+    sub @clig29 [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+    sub @clig19 @clig2 [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+    sub @clig20 @clig2 [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+    sub @clig17 @clig2 [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+    sub uni1014 uni103A.clig [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+    sub [uni102D uni1031] [uniE2F1 uniE2F2]' by [uni102F.clig uni1030.clig];
+} clig30;
+lookup clig31 {
+    ignore sub [uni1003 uni101A uni101F] uni103E.clig' uniE2F1;
+    sub uni103E.clig' uniE2F1' by uniE1F2;
+} clig31;
+lookup clig32 {
+    sub uni102D.clig' uni102F.clig uni1032.clig by uniE12D;
+    sub uni102D.clig' uniE2F1 uni1032.clig by uniE12D;
+} clig32;
+lookup clig33 {
+    sub [uni1032.clig uni103A.clig]' uni1089.clig uniAA70 by [uniE532 uniE53A];
+    sub [uni1032.clig uni103A.clig]' uni1038.clig uniAA70 by [uniE532 uniE53A];
+    sub [uni1032.clig uni103A.clig]' uni1087 uniAA70 by [uniE532 uniE53A];
+} clig33;
+lookup clig34 {
+    sub uniE12D [uniE2F1 uni102F.clig]' uni1032.clig' by uniE2F1;
+} clig34;
+lookup clig35 {
+    sub [uniE532 uniE53A] [uni1087 uni1089.clig uni1038.clig]' uniAA70' by uni1087;
+} clig35;
+lookup clig36 {
+    sub [uni1009 uni100A uni1014]' @clig22 by [uniE100 uniE101 uniE107];
+} clig36;
+lookup clig37 {
+    sub [uni100D uni1014]' uniE2F1 by [uni100D.clig uniE107];
+    sub [uni100D uni1014]' uni102D.clig uniE2F1 by [uni100D.clig uniE107];
+    sub [uni100D uni1014]' [uniE2F2 uni103E.clig] by [uni100D.clig uniE107];
+} clig37;
+lookup clig38 {
+    sub [uni1014 uni101B]' uni103B.clig by [uniE107 uniE108];
+    sub [uni1014 uni101B]' [uni1033 uni102D.clig uni102E.clig] [uni102F.clig uni1030.clig] by [uniE107 uniE108];
+    sub [uni1014 uni101B]' @clig24 by [uniE107 uniE108];
+    sub [uni1014 uni101B]' uni103A.clig uni102F.clig by [uniE107 uniE108];
+} clig38;
+lookup clig39 {
+    sub uni1009' [uni102B.clig uni102C.clig uni102D.clig uni102E.clig uni102F.clig uni1030.clig uni1032.clig uni1036.clig] by uni1009.clig;
+} clig39;
+lookup clig40 {
+    sub uniE390 @clig25' uni103C uni1031 by [_399 _505 uniE1B7 uni1000 uniE390 uniE390.clig _399 _505 uniE1B6 uni1001 uniE390 uniE390.clig _399 _505 uniE1B6 uni1002 uniE390 uniE390.clig _399 _505 uniE1B7 uni1003 uniE390 uniE390.clig _399 _505 uniE1B6 uni1004 uniE390 uniE390.clig _399 _505 uniE1B6 uni1005 uniE390 uniE390.clig _399 _505 uniE1B7 uni1006 uniE390 uniE390.clig _399 _505 uniE1B6 uni1007 uniE390 uniE390.clig _399 _505 uniE1B6 uni100E uniE390 uniE390.clig _399 _505 uniE1B7 uni100F uniE390 uniE390.clig _399 _505 uniE1B7 uni1010 uniE390 uniE390.clig _399 _505 uniE1B7 uni1011 uniE390 uniE390.clig _399 _505 uniE1B6 uni1012 uniE390 uniE390.clig _399 _505 uniE1B6 uni1013 uniE390 uniE390.clig _399 _505 uniE1B6 uni1014 uniE390 uniE390.clig _399 _505 uniE1B6 uni1015 uniE390 uniE390.clig _399 _505 uniE1B6 uni1016 uniE390 uniE390.clig _399 _505 uniE1B6 uni1017 uniE390 uniE390.clig _399 _505 uniE1B7 uni1018 uniE390 uniE390.clig _399 _505 uniE1B6 uni1019 uniE390 uniE390.clig _399 _505 uniE1B7 uni101A uniE390 uniE390.clig _399 _505 uniE1B6 uni101B uniE390 uniE390.clig _399 _505 uniE1B7 uni101C uniE390 uniE390.clig _399 _505 uniE1B6 uni101D uniE390 uniE390.clig _399 _505 uniE1B7 uni101E uniE390 uniE390.clig _399 _505 uniE1B7 uni101F uniE390 uniE390.clig _399 _505 uniE1B7 uni1021 uniE390 uniE390.clig _399 _505 uniE1B6 uni1027 uniE390 uniE390.clig _399 _505 uniE1B7 uni103F uniE390 uniE390.clig _399 _505 uniE1B6 uniE107 uniE390 uniE390.clig _399 _505 uniE1B6 uniE108 uniE390 uniE390.clig _399 _505 uniE1B7 uni1022 uniE390 uniE390.clig _399 _505 uniE1B6 uni1050 uniE390 uniE390.clig _399 _505 uniE1B6 uni1051 uniE390 uniE390.clig _399 _505 uniE1B6 uni105C uniE390 uniE390.clig _399 _505 uniE1B6 uni1065 uniE390 uniE390.clig _399 _505 uniE1B7 uni106E uniE390 uniE390.clig _399 _505 uniE1B6 uni1075 uniE390 uniE390.clig _399 _505 uniE1B6 uni1076 uniE390 uniE390.clig _399 _505 uniE1B6 uni1077 uniE390 uniE390.clig _399 _505 uniE1B7 uni1078 uniE390 uniE390.clig _399 _505 uniE1B7 uni1079 uniE390 uniE390.clig _399 _505 uniE1B7 uni107A uniE390 uniE390.clig _399 _505 uniE1B7 uni107B uniE390 uniE390.clig _399 _505 uniE1B7 uni107C uniE390 uniE390.clig _399 _505 uniE1B7 uni107D uniE390 uniE390.clig _399 _505 uniE1B7 uni107E uniE390 uniE390.clig _399 _505 uniE1B6 uni107F uniE390 uniE390.clig _399 _505 uniE1B7 uni1080 uniE390 uniE390.clig];
+} clig40;
+lookup clig41 {
+    sub uniE390 @clig25' uni103C uni102D.clig by [_399 uniE1B7 uni1000 uniE391 _399 uniE1B6 uni1001 uniE391 _399 uniE1B6 uni1002 uniE391 _399 uniE1B7 uni1003 uniE391 _399 uniE1B6 uni1004 uniE391 _399 uniE1B6 uni1005 uniE391 _399 uniE1B7 uni1006 uniE391 _399 uniE1B6 uni1007 uniE391 _399 uniE1B6 uni100E uniE391 _399 uniE1B7 uni100F uniE391 _399 uniE1B7 uni1010 uniE391 _399 uniE1B7 uni1011 uniE391 _399 uniE1B6 uni1012 uniE391 _399 uniE1B6 uni1013 uniE391 _399 uniE1B6 uni1014 uniE391 _399 uniE1B6 uni1015 uniE391 _399 uniE1B6 uni1016 uniE391 _399 uniE1B6 uni1017 uniE391 _399 uniE1B7 uni1018 uniE391 _399 uniE1B6 uni1019 uniE391 _399 uniE1B7 uni101A uniE391 _399 uniE1B6 uni101B uniE391 _399 uniE1B7 uni101C uniE391 _399 uniE1B6 uni101D uniE391 _399 uniE1B7 uni101E uniE391 _399 uniE1B7 uni101F uniE391 _399 uniE1B7 uni1021 uniE391 _399 uniE1B6 uni1027 uniE391 _399 uniE1B7 uni103F uniE391 _399 uniE1B6 uniE107 uniE391 _399 uniE1B6 uniE108 uniE391 _399 uniE1B7 uni1022 uniE391 _399 uniE1B6 uni1050 uniE391 _399 uniE1B6 uni1051 uniE391 _399 uniE1B6 uni105C uniE391 _399 uniE1B6 uni1065 uniE391 _399 uniE1B7 uni106E uniE391 _399 uniE1B6 uni1075 uniE391 _399 uniE1B6 uni1076 uniE391 _399 uniE1B6 uni1077 uniE391 _399 uniE1B7 uni1078 uniE391 _399 uniE1B7 uni1079 uniE391 _399 uniE1B7 uni107A uniE391 _399 uniE1B7 uni107B uniE391 _399 uniE1B7 uni107C uniE391 _399 uniE1B7 uni107D uniE391 _399 uniE1B7 uni107E uniE391 _399 uniE1B6 uni107F uniE391 _399 uniE1B7 uni1080 uniE391];
+} clig41;
+lookup clig42 {
+    sub uniE39A @clig25' uni103C uni102D.clig by [_399 uniE1B7 uni1000 uniE39B _399 uniE1B6 uni1001 uniE39B _399 uniE1B6 uni1002 uniE39B _399 uniE1B7 uni1003 uniE39B _399 uniE1B6 uni1004 uniE39B _399 uniE1B6 uni1005 uniE39B _399 uniE1B7 uni1006 uniE39B _399 uniE1B6 uni1007 uniE39B _399 uniE1B6 uni100E uniE39B _399 uniE1B7 uni100F uniE39B _399 uniE1B7 uni1010 uniE39B _399 uniE1B7 uni1011 uniE39B _399 uniE1B6 uni1012 uniE39B _399 uniE1B6 uni1013 uniE39B _399 uniE1B6 uni1014 uniE39B _399 uniE1B6 uni1015 uniE39B _399 uniE1B6 uni1016 uniE39B _399 uniE1B6 uni1017 uniE39B _399 uniE1B7 uni1018 uniE39B _399 uniE1B6 uni1019 uniE39B _399 uniE1B7 uni101A uniE39B _399 uniE1B6 uni101B uniE39B _399 uniE1B7 uni101C uniE39B _399 uniE1B6 uni101D uniE39B _399 uniE1B7 uni101E uniE39B _399 uniE1B7 uni101F uniE39B _399 uniE1B7 uni1021 uniE39B _399 uniE1B6 uni1027 uniE39B _399 uniE1B7 uni103F uniE39B _399 uniE1B6 uniE107 uniE39B _399 uniE1B6 uniE108 uniE39B _399 uniE1B7 uni1022 uniE39B _399 uniE1B6 uni1050 uniE39B _399 uniE1B6 uni1051 uniE39B _399 uniE1B6 uni105C uniE39B _399 uniE1B6 uni1065 uniE39B _399 uniE1B7 uni106E uniE39B _399 uniE1B6 uni1075 uniE39B _399 uniE1B6 uni1076 uniE39B _399 uniE1B6 uni1077 uniE39B _399 uniE1B7 uni1078 uniE39B _399 uniE1B7 uni1079 uniE39B _399 uniE1B7 uni107A uniE39B _399 uniE1B7 uni107B uniE39B _399 uniE1B7 uni107C uniE39B _399 uniE1B7 uni107D uniE39B _399 uniE1B7 uni107E uniE39B _399 uniE1B6 uni107F uniE39B _399 uniE1B7 uni1080 uniE39B];
+} clig42;
+lookup clig43 {
+    sub uniE390 @clig25' uni103C uni102E.clig by [_399 uniE1B7 uni1000 uniE392 _399 uniE1B6 uni1001 uniE392 _399 uniE1B6 uni1002 uniE392 _399 uniE1B7 uni1003 uniE392 _399 uniE1B6 uni1004 uniE392 _399 uniE1B6 uni1005 uniE392 _399 uniE1B7 uni1006 uniE392 _399 uniE1B6 uni1007 uniE392 _399 uniE1B6 uni100E uniE392 _399 uniE1B7 uni100F uniE392 _399 uniE1B7 uni1010 uniE392 _399 uniE1B7 uni1011 uniE392 _399 uniE1B6 uni1012 uniE392 _399 uniE1B6 uni1013 uniE392 _399 uniE1B6 uni1014 uniE392 _399 uniE1B6 uni1015 uniE392 _399 uniE1B6 uni1016 uniE392 _399 uniE1B6 uni1017 uniE392 _399 uniE1B7 uni1018 uniE392 _399 uniE1B6 uni1019 uniE392 _399 uniE1B7 uni101A uniE392 _399 uniE1B6 uni101B uniE392 _399 uniE1B7 uni101C uniE392 _399 uniE1B6 uni101D uniE392 _399 uniE1B7 uni101E uniE392 _399 uniE1B7 uni101F uniE392 _399 uniE1B7 uni1021 uniE392 _399 uniE1B6 uni1027 uniE392 _399 uniE1B7 uni103F uniE392 _399 uniE1B6 uniE107 uniE392 _399 uniE1B6 uniE108 uniE392 _399 uniE1B7 uni1022 uniE392 _399 uniE1B6 uni1050 uniE392 _399 uniE1B6 uni1051 uniE392 _399 uniE1B6 uni105C uniE392 _399 uniE1B6 uni1065 uniE392 _399 uniE1B7 uni106E uniE392 _399 uniE1B6 uni1075 uniE392 _399 uniE1B6 uni1076 uniE392 _399 uniE1B6 uni1077 uniE392 _399 uniE1B7 uni1078 uniE392 _399 uniE1B7 uni1079 uniE392 _399 uniE1B7 uni107A uniE392 _399 uniE1B7 uni107B uniE392 _399 uniE1B7 uni107C uniE392 _399 uniE1B7 uni107D uniE392 _399 uniE1B7 uni107E uniE392 _399 uniE1B6 uni107F uniE392 _399 uniE1B7 uni1080 uniE392];
+} clig43;
+lookup clig44 {
+    sub uniE39A @clig25' uni103C uni102E.clig by [_399 uniE1B7 uni1000 uniE39C _399 uniE1B6 uni1001 uniE39C _399 uniE1B6 uni1002 uniE39C _399 uniE1B7 uni1003 uniE39C _399 uniE1B6 uni1004 uniE39C _399 uniE1B6 uni1005 uniE39C _399 uniE1B7 uni1006 uniE39C _399 uniE1B6 uni1007 uniE39C _399 uniE1B6 uni100E uniE39C _399 uniE1B7 uni100F uniE39C _399 uniE1B7 uni1010 uniE39C _399 uniE1B7 uni1011 uniE39C _399 uniE1B6 uni1012 uniE39C _399 uniE1B6 uni1013 uniE39C _399 uniE1B6 uni1014 uniE39C _399 uniE1B6 uni1015 uniE39C _399 uniE1B6 uni1016 uniE39C _399 uniE1B6 uni1017 uniE39C _399 uniE1B7 uni1018 uniE39C _399 uniE1B6 uni1019 uniE39C _399 uniE1B7 uni101A uniE39C _399 uniE1B6 uni101B uniE39C _399 uniE1B7 uni101C uniE39C _399 uniE1B6 uni101D uniE39C _399 uniE1B7 uni101E uniE39C _399 uniE1B7 uni101F uniE39C _399 uniE1B7 uni1021 uniE39C _399 uniE1B6 uni1027 uniE39C _399 uniE1B7 uni103F uniE39C _399 uniE1B6 uniE107 uniE39C _399 uniE1B6 uniE108 uniE39C _399 uniE1B7 uni1022 uniE39C _399 uniE1B6 uni1050 uniE39C _399 uniE1B6 uni1051 uniE39C _399 uniE1B6 uni105C uniE39C _399 uniE1B6 uni1065 uniE39C _399 uniE1B7 uni106E uniE39C _399 uniE1B6 uni1075 uniE39C _399 uniE1B6 uni1076 uniE39C _399 uniE1B6 uni1077 uniE39C _399 uniE1B7 uni1078 uniE39C _399 uniE1B7 uni1079 uniE39C _399 uniE1B7 uni107A uniE39C _399 uniE1B7 uni107B uniE39C _399 uniE1B7 uni107C uniE39C _399 uniE1B7 uni107D uniE39C _399 uniE1B7 uni107E uniE39C _399 uniE1B6 uni107F uniE39C _399 uniE1B7 uni1080 uniE39C];
+} clig44;
+lookup clig45 {
+    sub uniE390 @clig25' uni103C uni1033 by [_399 uniE1B7 uni1000 uniE394 _399 uniE1B6 uni1001 uniE394 _399 uniE1B6 uni1002 uniE394 _399 uniE1B7 uni1003 uniE394 _399 uniE1B6 uni1004 uniE394 _399 uniE1B6 uni1005 uniE394 _399 uniE1B7 uni1006 uniE394 _399 uniE1B6 uni1007 uniE394 _399 uniE1B6 uni100E uniE394 _399 uniE1B7 uni100F uniE394 _399 uniE1B7 uni1010 uniE394 _399 uniE1B7 uni1011 uniE394 _399 uniE1B6 uni1012 uniE394 _399 uniE1B6 uni1013 uniE394 _399 uniE1B6 uni1014 uniE394 _399 uniE1B6 uni1015 uniE394 _399 uniE1B6 uni1016 uniE394 _399 uniE1B6 uni1017 uniE394 _399 uniE1B7 uni1018 uniE394 _399 uniE1B6 uni1019 uniE394 _399 uniE1B7 uni101A uniE394 _399 uniE1B6 uni101B uniE394 _399 uniE1B7 uni101C uniE394 _399 uniE1B6 uni101D uniE394 _399 uniE1B7 uni101E uniE394 _399 uniE1B7 uni101F uniE394 _399 uniE1B7 uni1021 uniE394 _399 uniE1B6 uni1027 uniE394 _399 uniE1B7 uni103F uniE394 _399 uniE1B6 uniE107 uniE394 _399 uniE1B6 uniE108 uniE394 _399 uniE1B7 uni1022 uniE394 _399 uniE1B6 uni1050 uniE394 _399 uniE1B6 uni1051 uniE394 _399 uniE1B6 uni105C uniE394 _399 uniE1B6 uni1065 uniE394 _399 uniE1B7 uni106E uniE394 _399 uniE1B6 uni1075 uniE394 _399 uniE1B6 uni1076 uniE394 _399 uniE1B6 uni1077 uniE394 _399 uniE1B7 uni1078 uniE394 _399 uniE1B7 uni1079 uniE394 _399 uniE1B7 uni107A uniE394 _399 uniE1B7 uni107B uniE394 _399 uniE1B7 uni107C uniE394 _399 uniE1B7 uni107D uniE394 _399 uniE1B7 uni107E uniE394 _399 uniE1B6 uni107F uniE394 _399 uniE1B7 uni1080 uniE394];
+} clig45;
+lookup clig46 {
+    sub uniE390 @clig25' uni103C uni1035 by [_399 uniE1B7 uni1000 uniE395 _399 uniE1B6 uni1001 uniE395 _399 uniE1B6 uni1002 uniE395 _399 uniE1B7 uni1003 uniE395 _399 uniE1B6 uni1004 uniE395 _399 uniE1B6 uni1005 uniE395 _399 uniE1B7 uni1006 uniE395 _399 uniE1B6 uni1007 uniE395 _399 uniE1B6 uni100E uniE395 _399 uniE1B7 uni100F uniE395 _399 uniE1B7 uni1010 uniE395 _399 uniE1B7 uni1011 uniE395 _399 uniE1B6 uni1012 uniE395 _399 uniE1B6 uni1013 uniE395 _399 uniE1B6 uni1014 uniE395 _399 uniE1B6 uni1015 uniE395 _399 uniE1B6 uni1016 uniE395 _399 uniE1B6 uni1017 uniE395 _399 uniE1B7 uni1018 uniE395 _399 uniE1B6 uni1019 uniE395 _399 uniE1B7 uni101A uniE395 _399 uniE1B6 uni101B uniE395 _399 uniE1B7 uni101C uniE395 _399 uniE1B6 uni101D uniE395 _399 uniE1B7 uni101E uniE395 _399 uniE1B7 uni101F uniE395 _399 uniE1B7 uni1021 uniE395 _399 uniE1B6 uni1027 uniE395 _399 uniE1B7 uni103F uniE395 _399 uniE1B6 uniE107 uniE395 _399 uniE1B6 uniE108 uniE395 _399 uniE1B7 uni1022 uniE395 _399 uniE1B6 uni1050 uniE395 _399 uniE1B6 uni1051 uniE395 _399 uniE1B6 uni105C uniE395 _399 uniE1B6 uni1065 uniE395 _399 uniE1B7 uni106E uniE395 _399 uniE1B6 uni1075 uniE395 _399 uniE1B6 uni1076 uniE395 _399 uniE1B6 uni1077 uniE395 _399 uniE1B7 uni1078 uniE395 _399 uniE1B7 uni1079 uniE395 _399 uniE1B7 uni107A uniE395 _399 uniE1B7 uni107B uniE395 _399 uniE1B7 uni107C uniE395 _399 uniE1B7 uni107D uniE395 _399 uniE1B7 uni107E uniE395 _399 uniE1B6 uni107F uniE395 _399 uniE1B7 uni1080 uniE395];
+} clig46;
+lookup clig47 {
+    sub uniE390 @clig25' uni103C uni1032.clig by [_399 uniE1B7 uni1000 uniE396 _399 uniE1B6 uni1001 uniE396 _399 uniE1B6 uni1002 uniE396 _399 uniE1B7 uni1003 uniE396 _399 uniE1B6 uni1004 uniE396 _399 uniE1B6 uni1005 uniE396 _399 uniE1B7 uni1006 uniE396 _399 uniE1B6 uni1007 uniE396 _399 uniE1B6 uni100E uniE396 _399 uniE1B7 uni100F uniE396 _399 uniE1B7 uni1010 uniE396 _399 uniE1B7 uni1011 uniE396 _399 uniE1B6 uni1012 uniE396 _399 uniE1B6 uni1013 uniE396 _399 uniE1B6 uni1014 uniE396 _399 uniE1B6 uni1015 uniE396 _399 uniE1B6 uni1016 uniE396 _399 uniE1B6 uni1017 uniE396 _399 uniE1B7 uni1018 uniE396 _399 uniE1B6 uni1019 uniE396 _399 uniE1B7 uni101A uniE396 _399 uniE1B6 uni101B uniE396 _399 uniE1B7 uni101C uniE396 _399 uniE1B6 uni101D uniE396 _399 uniE1B7 uni101E uniE396 _399 uniE1B7 uni101F uniE396 _399 uniE1B7 uni1021 uniE396 _399 uniE1B6 uni1027 uniE396 _399 uniE1B7 uni103F uniE396 _399 uniE1B6 uniE107 uniE396 _399 uniE1B6 uniE108 uniE396 _399 uniE1B7 uni1022 uniE396 _399 uniE1B6 uni1050 uniE396 _399 uniE1B6 uni1051 uniE396 _399 uniE1B6 uni105C uniE396 _399 uniE1B6 uni1065 uniE396 _399 uniE1B7 uni106E uniE396 _399 uniE1B6 uni1075 uniE396 _399 uniE1B6 uni1076 uniE396 _399 uniE1B6 uni1077 uniE396 _399 uniE1B7 uni1078 uniE396 _399 uniE1B7 uni1079 uniE396 _399 uniE1B7 uni107A uniE396 _399 uniE1B7 uni107B uniE396 _399 uniE1B7 uni107C uniE396 _399 uniE1B7 uni107D uniE396 _399 uniE1B7 uni107E uniE396 _399 uniE1B6 uni107F uniE396 _399 uniE1B7 uni1080 uniE396];
+} clig47;
+lookup clig48 {
+    sub uniE390 @clig25' uni103C uni1036.clig by [_399 uniE1B7 uni1000 uniE393 _399 uniE1B6 uni1001 uniE393 _399 uniE1B6 uni1002 uniE393 _399 uniE1B7 uni1003 uniE393 _399 uniE1B6 uni1004 uniE393 _399 uniE1B6 uni1005 uniE393 _399 uniE1B7 uni1006 uniE393 _399 uniE1B6 uni1007 uniE393 _399 uniE1B6 uni100E uniE393 _399 uniE1B7 uni100F uniE393 _399 uniE1B7 uni1010 uniE393 _399 uniE1B7 uni1011 uniE393 _399 uniE1B6 uni1012 uniE393 _399 uniE1B6 uni1013 uniE393 _399 uniE1B6 uni1014 uniE393 _399 uniE1B6 uni1015 uniE393 _399 uniE1B6 uni1016 uniE393 _399 uniE1B6 uni1017 uniE393 _399 uniE1B7 uni1018 uniE393 _399 uniE1B6 uni1019 uniE393 _399 uniE1B7 uni101A uniE393 _399 uniE1B6 uni101B uniE393 _399 uniE1B7 uni101C uniE393 _399 uniE1B6 uni101D uniE393 _399 uniE1B7 uni101E uniE393 _399 uniE1B7 uni101F uniE393 _399 uniE1B7 uni1021 uniE393 _399 uniE1B6 uni1027 uniE393 _399 uniE1B7 uni103F uniE393 _399 uniE1B6 uniE107 uniE393 _399 uniE1B6 uniE108 uniE393 _399 uniE1B7 uni1022 uniE393 _399 uniE1B6 uni1050 uniE393 _399 uniE1B6 uni1051 uniE393 _399 uniE1B6 uni105C uniE393 _399 uniE1B6 uni1065 uniE393 _399 uniE1B7 uni106E uniE393 _399 uniE1B6 uni1075 uniE393 _399 uniE1B6 uni1076 uniE393 _399 uniE1B6 uni1077 uniE393 _399 uniE1B7 uni1078 uniE393 _399 uniE1B7 uni1079 uniE393 _399 uniE1B7 uni107A uniE393 _399 uniE1B7 uni107B uniE393 _399 uniE1B7 uni107C uniE393 _399 uniE1B7 uni107D uniE393 _399 uniE1B7 uni107E uniE393 _399 uniE1B6 uni107F uniE393 _399 uniE1B7 uni1080 uniE393];
+} clig48;
+lookup clig49 {
+    sub uniE390 @clig25' uni103C by [_399 uniE1B7 uni1000 uniE390 uniE390.clig _399 uniE1B6 uni1001 uniE390 uniE390.clig _399 uniE1B6 uni1002 uniE390 uniE390.clig _399 uniE1B7 uni1003 uniE390 uniE390.clig _399 uniE1B6 uni1004 uniE390 uniE390.clig _399 uniE1B6 uni1005 uniE390 uniE390.clig _399 uniE1B7 uni1006 uniE390 uniE390.clig _399 uniE1B6 uni1007 uniE390 uniE390.clig _399 uniE1B6 uni100E uniE390 uniE390.clig _399 uniE1B7 uni100F uniE390 uniE390.clig _399 uniE1B7 uni1010 uniE390 uniE390.clig _399 uniE1B7 uni1011 uniE390 uniE390.clig _399 uniE1B6 uni1012 uniE390 uniE390.clig _399 uniE1B6 uni1013 uniE390 uniE390.clig _399 uniE1B6 uni1014 uniE390 uniE390.clig _399 uniE1B6 uni1015 uniE390 uniE390.clig _399 uniE1B6 uni1016 uniE390 uniE390.clig _399 uniE1B6 uni1017 uniE390 uniE390.clig _399 uniE1B7 uni1018 uniE390 uniE390.clig _399 uniE1B6 uni1019 uniE390 uniE390.clig _399 uniE1B7 uni101A uniE390 uniE390.clig _399 uniE1B6 uni101B uniE390 uniE390.clig _399 uniE1B7 uni101C uniE390 uniE390.clig _399 uniE1B6 uni101D uniE390 uniE390.clig _399 uniE1B7 uni101E uniE390 uniE390.clig _399 uniE1B7 uni101F uniE390 uniE390.clig _399 uniE1B7 uni1021 uniE390 uniE390.clig _399 uniE1B6 uni1027 uniE390 uniE390.clig _399 uniE1B7 uni103F uniE390 uniE390.clig _399 uniE1B6 uniE107 uniE390 uniE390.clig _399 uniE1B6 uniE108 uniE390 uniE390.clig _399 uniE1B7 uni1022 uniE390 uniE390.clig _399 uniE1B6 uni1050 uniE390 uniE390.clig _399 uniE1B6 uni1051 uniE390 uniE390.clig _399 uniE1B6 uni105C uniE390 uniE390.clig _399 uniE1B6 uni1065 uniE390 uniE390.clig _399 uniE1B7 uni106E uniE390 uniE390.clig _399 uniE1B6 uni1075 uniE390 uniE390.clig _399 uniE1B6 uni1076 uniE390 uniE390.clig _399 uniE1B6 uni1077 uniE390 uniE390.clig _399 uniE1B7 uni1078 uniE390 uniE390.clig _399 uniE1B7 uni1079 uniE390 uniE390.clig _399 uniE1B7 uni107A uniE390 uniE390.clig _399 uniE1B7 uni107B uniE390 uniE390.clig _399 uniE1B7 uni107C uniE390 uniE390.clig _399 uniE1B7 uni107D uniE390 uniE390.clig _399 uniE1B7 uni107E uniE390 uniE390.clig _399 uniE1B6 uni107F uniE390 uniE390.clig _399 uniE1B7 uni1080 uniE390 uniE390.clig];
+} clig49;
+lookup clig50 {
+    sub @clig25' uniE1BB uni102D.clig by [uniE1BC uni1000 _399 uniE1BB uni1001 _399 uniE1BB uni1002 _399 uniE1BC uni1003 _399 uniE1BB uni1004 _399 uniE1BB uni1005 _399 uniE1BC uni1006 _399 uniE1BB uni1007 _399 uniE1BB uni100E _399 uniE1BC uni100F _399 uniE1BC uni1010 _399 uniE1BC uni1011 _399 uniE1BB uni1012 _399 uniE1BB uni1013 _399 uniE1BB uni1014 _399 uniE1BB uni1015 _399 uniE1BB uni1016 _399 uniE1BB uni1017 _399 uniE1BC uni1018 _399 uniE1BB uni1019 _399 uniE1BC uni101A _399 uniE1BB uni101B _399 uniE1BC uni101C _399 uniE1BB uni101D _399 uniE1BC uni101E _399 uniE1BC uni101F _399 uniE1BC uni1021 _399 uniE1BB uni1027 _399 uniE1BC uni103F _399 uniE1BB uniE107 _399 uniE1BB uniE108 _399 uniE1BC uni1022 _399 uniE1BB uni1050 _399 uniE1BB uni1051 _399 uniE1BB uni105C _399 uniE1BB uni1065 _399 uniE1BC uni106E _399 uniE1BB uni1075 _399 uniE1BB uni1076 _399 uniE1BB uni1077 _399 uniE1BC uni1078 _399 uniE1BC uni1079 _399 uniE1BC uni107A _399 uniE1BC uni107B _399 uniE1BC uni107C _399 uniE1BC uni107D _399 uniE1BC uni107E _399 uniE1BB uni107F _399 uniE1BC uni1080 _399];
+    sub @clig25' uniE1BB uni102E.clig by [uniE1BC uni1000 _399 uniE1BB uni1001 _399 uniE1BB uni1002 _399 uniE1BC uni1003 _399 uniE1BB uni1004 _399 uniE1BB uni1005 _399 uniE1BC uni1006 _399 uniE1BB uni1007 _399 uniE1BB uni100E _399 uniE1BC uni100F _399 uniE1BC uni1010 _399 uniE1BC uni1011 _399 uniE1BB uni1012 _399 uniE1BB uni1013 _399 uniE1BB uni1014 _399 uniE1BB uni1015 _399 uniE1BB uni1016 _399 uniE1BB uni1017 _399 uniE1BC uni1018 _399 uniE1BB uni1019 _399 uniE1BC uni101A _399 uniE1BB uni101B _399 uniE1BC uni101C _399 uniE1BB uni101D _399 uniE1BC uni101E _399 uniE1BC uni101F _399 uniE1BC uni1021 _399 uniE1BB uni1027 _399 uniE1BC uni103F _399 uniE1BB uniE107 _399 uniE1BB uniE108 _399 uniE1BC uni1022 _399 uniE1BB uni1050 _399 uniE1BB uni1051 _399 uniE1BB uni105C _399 uniE1BB uni1065 _399 uniE1BC uni106E _399 uniE1BB uni1075 _399 uniE1BB uni1076 _399 uniE1BB uni1077 _399 uniE1BC uni1078 _399 uniE1BC uni1079 _399 uniE1BC uni107A _399 uniE1BC uni107B _399 uniE1BC uni107C _399 uniE1BC uni107D _399 uniE1BC uni107E _399 uniE1BB uni107F _399 uniE1BC uni1080 _399];
+    sub @clig25' uniE1BB uni1032.clig by [uniE1BC uni1000 _399 uniE1BB uni1001 _399 uniE1BB uni1002 _399 uniE1BC uni1003 _399 uniE1BB uni1004 _399 uniE1BB uni1005 _399 uniE1BC uni1006 _399 uniE1BB uni1007 _399 uniE1BB uni100E _399 uniE1BC uni100F _399 uniE1BC uni1010 _399 uniE1BC uni1011 _399 uniE1BB uni1012 _399 uniE1BB uni1013 _399 uniE1BB uni1014 _399 uniE1BB uni1015 _399 uniE1BB uni1016 _399 uniE1BB uni1017 _399 uniE1BC uni1018 _399 uniE1BB uni1019 _399 uniE1BC uni101A _399 uniE1BB uni101B _399 uniE1BC uni101C _399 uniE1BB uni101D _399 uniE1BC uni101E _399 uniE1BC uni101F _399 uniE1BC uni1021 _399 uniE1BB uni1027 _399 uniE1BC uni103F _399 uniE1BB uniE107 _399 uniE1BB uniE108 _399 uniE1BC uni1022 _399 uniE1BB uni1050 _399 uniE1BB uni1051 _399 uniE1BB uni105C _399 uniE1BB uni1065 _399 uniE1BC uni106E _399 uniE1BB uni1075 _399 uniE1BB uni1076 _399 uniE1BB uni1077 _399 uniE1BC uni1078 _399 uniE1BC uni1079 _399 uniE1BC uni107A _399 uniE1BC uni107B _399 uniE1BC uni107C _399 uniE1BC uni107D _399 uniE1BC uni107E _399 uniE1BB uni107F _399 uniE1BC uni1080 _399];
+} clig50;
+lookup clig51 {
+    sub @clig25' uniE1BB uni1031 by [uniE390.clig _505 uniE1BC uni1000 _399 uniE390.clig _505 uniE1BB uni1001 _399 uniE390.clig _505 uniE1BB uni1002 _399 uniE390.clig _505 uniE1BC uni1003 _399 uniE390.clig _505 uniE1BB uni1004 _399 uniE390.clig _505 uniE1BB uni1005 _399 uniE390.clig _505 uniE1BC uni1006 _399 uniE390.clig _505 uniE1BB uni1007 _399 uniE390.clig _505 uniE1BB uni100E _399 uniE390.clig _505 uniE1BC uni100F _399 uniE390.clig _505 uniE1BC uni1010 _399 uniE390.clig _505 uniE1BC uni1011 _399 uniE390.clig _505 uniE1BB uni1012 _399 uniE390.clig _505 uniE1BB uni1013 _399 uniE390.clig _505 uniE1BB uni1014 _399 uniE390.clig _505 uniE1BB uni1015 _399 uniE390.clig _505 uniE1BB uni1016 _399 uniE390.clig _505 uniE1BB uni1017 _399 uniE390.clig _505 uniE1BC uni1018 _399 uniE390.clig _505 uniE1BB uni1019 _399 uniE390.clig _505 uniE1BC uni101A _399 uniE390.clig _505 uniE1BB uni101B _399 uniE390.clig _505 uniE1BC uni101C _399 uniE390.clig _505 uniE1BB uni101D _399 uniE390.clig _505 uniE1BC uni101E _399 uniE390.clig _505 uniE1BC uni101F _399 uniE390.clig _505 uniE1BC uni1021 _399 uniE390.clig _505 uniE1BB uni1027 _399 uniE390.clig _505 uniE1BC uni103F _399 uniE390.clig _505 uniE1BB uniE107 _399 uniE390.clig _505 uniE1BB uniE108 _399 uniE390.clig _505 uniE1BC uni1022 _399 uniE390.clig _505 uniE1BB uni1050 _399 uniE390.clig _505 uniE1BB uni1051 _399 uniE390.clig _505 uniE1BB uni105C _399 uniE390.clig _505 uniE1BB uni1065 _399 uniE390.clig _505 uniE1BC uni106E _399 uniE390.clig _505 uniE1BB uni1075 _399 uniE390.clig _505 uniE1BB uni1076 _399 uniE390.clig _505 uniE1BB uni1077 _399 uniE390.clig _505 uniE1BC uni1078 _399 uniE390.clig _505 uniE1BC uni1079 _399 uniE390.clig _505 uniE1BC uni107A _399 uniE390.clig _505 uniE1BC uni107B _399 uniE390.clig _505 uniE1BC uni107C _399 uniE390.clig _505 uniE1BC uni107D _399 uniE390.clig _505 uniE1BC uni107E _399 uniE390.clig _505 uniE1BB uni107F _399 uniE390.clig _505 uniE1BC uni1080 _399];
+} clig51;
+lookup clig52 {
+    sub @clig25' uni103C uni102D.clig by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C [uni1033 uni102E.clig] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C [uni1034 uni1032.clig] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C [uni1072 uni1073 uni1074] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 uni102D.clig by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 [uni1033 uni102E.clig] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 [uni1034 uni1032.clig] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 [uni1072 uni1073 uni1074] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+    sub @clig25' uni103C [uniE2D1 uniE12D uniE03A uniE532 uniE53A uni103A.clig_uni1036] by [uniE1B7 uni1000 _399 uniE1B6 uni1001 _399 uniE1B6 uni1002 _399 uniE1B7 uni1003 _399 uniE1B6 uni1004 _399 uniE1B6 uni1005 _399 uniE1B7 uni1006 _399 uniE1B6 uni1007 _399 uniE1B6 uni100E _399 uniE1B7 uni100F _399 uniE1B7 uni1010 _399 uniE1B7 uni1011 _399 uniE1B6 uni1012 _399 uniE1B6 uni1013 _399 uniE1B6 uni1014 _399 uniE1B6 uni1015 _399 uniE1B6 uni1016 _399 uniE1B6 uni1017 _399 uniE1B7 uni1018 _399 uniE1B6 uni1019 _399 uniE1B7 uni101A _399 uniE1B6 uni101B _399 uniE1B7 uni101C _399 uniE1B6 uni101D _399 uniE1B7 uni101E _399 uniE1B7 uni101F _399 uniE1B7 uni1021 _399 uniE1B6 uni1027 _399 uniE1B7 uni103F _399 uniE1B6 uniE107 _399 uniE1B6 uniE108 _399 uniE1B7 uni1022 _399 uniE1B6 uni1050 _399 uniE1B6 uni1051 _399 uniE1B6 uni105C _399 uniE1B6 uni1065 _399 uniE1B7 uni106E _399 uniE1B6 uni1075 _399 uniE1B6 uni1076 _399 uniE1B6 uni1077 _399 uniE1B7 uni1078 _399 uniE1B7 uni1079 _399 uniE1B7 uni107A _399 uniE1B7 uni107B _399 uniE1B7 uni107C _399 uniE1B7 uni107D _399 uniE1B7 uni107E _399 uniE1B6 uni107F _399 uniE1B7 uni1080 _399];
+} clig52;
+lookup clig53 {
+    sub @clig25' uni103C uni1036.clig by [_487 uni1000 _399 _490 uni1001 _399 _490 uni1002 _399 _487 uni1003 _399 _490 uni1004 _399 _490 uni1005 _399 _487 uni1006 _399 _490 uni1007 _399 _490 uni100E _399 _487 uni100F _399 _487 uni1010 _399 _487 uni1011 _399 _490 uni1012 _399 _490 uni1013 _399 _490 uni1014 _399 _490 uni1015 _399 _490 uni1016 _399 _490 uni1017 _399 _487 uni1018 _399 _490 uni1019 _399 _487 uni101A _399 _490 uni101B _399 _487 uni101C _399 _490 uni101D _399 _487 uni101E _399 _487 uni101F _399 _487 uni1021 _399 _490 uni1027 _399 _487 uni103F _399 _490 uniE107 _399 _490 uniE108 _399 _487 uni1022 _399 _490 uni1050 _399 _490 uni1051 _399 _490 uni105C _399 _490 uni1065 _399 _487 uni106E _399 _490 uni1075 _399 _490 uni1076 _399 _490 uni1077 _399 _487 uni1078 _399 _487 uni1079 _399 _487 uni107A _399 _487 uni107B _399 _487 uni107C _399 _487 uni107D _399 _487 uni107E _399 _490 uni107F _399 _487 uni1080 _399];
+    sub @clig25' uni103C uniE2F1 uni1036.clig by [_487 uni1000 _399 _490 uni1001 _399 _490 uni1002 _399 _487 uni1003 _399 _490 uni1004 _399 _490 uni1005 _399 _487 uni1006 _399 _490 uni1007 _399 _490 uni100E _399 _487 uni100F _399 _487 uni1010 _399 _487 uni1011 _399 _490 uni1012 _399 _490 uni1013 _399 _490 uni1014 _399 _490 uni1015 _399 _490 uni1016 _399 _490 uni1017 _399 _487 uni1018 _399 _490 uni1019 _399 _487 uni101A _399 _490 uni101B _399 _487 uni101C _399 _490 uni101D _399 _487 uni101E _399 _487 uni101F _399 _487 uni1021 _399 _490 uni1027 _399 _487 uni103F _399 _490 uniE107 _399 _490 uniE108 _399 _487 uni1022 _399 _490 uni1050 _399 _490 uni1051 _399 _490 uni105C _399 _490 uni1065 _399 _487 uni106E _399 _490 uni1075 _399 _490 uni1076 _399 _490 uni1077 _399 _487 uni1078 _399 _487 uni1079 _399 _487 uni107A _399 _487 uni107B _399 _487 uni107C _399 _487 uni107D _399 _487 uni107E _399 _490 uni107F _399 _487 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 uni1036.clig by [_487 uni1000 _399 _490 uni1001 _399 _490 uni1002 _399 _487 uni1003 _399 _490 uni1004 _399 _490 uni1005 _399 _487 uni1006 _399 _490 uni1007 _399 _490 uni100E _399 _487 uni100F _399 _487 uni1010 _399 _487 uni1011 _399 _490 uni1012 _399 _490 uni1013 _399 _490 uni1014 _399 _490 uni1015 _399 _490 uni1016 _399 _490 uni1017 _399 _487 uni1018 _399 _490 uni1019 _399 _487 uni101A _399 _490 uni101B _399 _487 uni101C _399 _490 uni101D _399 _487 uni101E _399 _487 uni101F _399 _487 uni1021 _399 _490 uni1027 _399 _487 uni103F _399 _490 uniE107 _399 _490 uniE108 _399 _487 uni1022 _399 _490 uni1050 _399 _490 uni1051 _399 _490 uni105C _399 _490 uni1065 _399 _487 uni106E _399 _490 uni1075 _399 _490 uni1076 _399 _490 uni1077 _399 _487 uni1078 _399 _487 uni1079 _399 _487 uni107A _399 _487 uni107B _399 _487 uni107C _399 _487 uni107D _399 _487 uni107E _399 _490 uni107F _399 _487 uni1080 _399];
+} clig53;
+lookup clig54 {
+    sub @clig25' uni103C uniE1D1 by [_489 uni1000 _399 uniE1B3 uni1001 _399 uniE1B3 uni1002 _399 _489 uni1003 _399 uniE1B3 uni1004 _399 uniE1B3 uni1005 _399 _489 uni1006 _399 uniE1B3 uni1007 _399 uniE1B3 uni100E _399 _489 uni100F _399 _489 uni1010 _399 _489 uni1011 _399 uniE1B3 uni1012 _399 uniE1B3 uni1013 _399 uniE1B3 uni1014 _399 uniE1B3 uni1015 _399 uniE1B3 uni1016 _399 uniE1B3 uni1017 _399 _489 uni1018 _399 uniE1B3 uni1019 _399 _489 uni101A _399 uniE1B3 uni101B _399 _489 uni101C _399 uniE1B3 uni101D _399 _489 uni101E _399 _489 uni101F _399 _489 uni1021 _399 uniE1B3 uni1027 _399 _489 uni103F _399 uniE1B3 uniE107 _399 uniE1B3 uniE108 _399 _489 uni1022 _399 uniE1B3 uni1050 _399 uniE1B3 uni1051 _399 uniE1B3 uni105C _399 uniE1B3 uni1065 _399 _489 uni106E _399 uniE1B3 uni1075 _399 uniE1B3 uni1076 _399 uniE1B3 uni1077 _399 _489 uni1078 _399 _489 uni1079 _399 _489 uni107A _399 _489 uni107B _399 _489 uni107C _399 _489 uni107D _399 _489 uni107E _399 uniE1B3 uni107F _399 _489 uni1080 _399];
+} clig54;
+lookup clig55 {
+    sub @clig25' @clig21 uni103C uni1031 by [uniE390.clig _505 uniE1B4 uni1000 _399 uniE390.clig _505 uniE1B3 uni1001 _399 uniE390.clig _505 uniE1B3 uni1002 _399 uniE390.clig _505 uniE1B4 uni1003 _399 uniE390.clig _505 uniE1B3 uni1004 _399 uniE390.clig _505 uniE1B3 uni1005 _399 uniE390.clig _505 uniE1B4 uni1006 _399 uniE390.clig _505 uniE1B3 uni1007 _399 uniE390.clig _505 uniE1B3 uni100E _399 uniE390.clig _505 uniE1B4 uni100F _399 uniE390.clig _505 uniE1B4 uni1010 _399 uniE390.clig _505 uniE1B4 uni1011 _399 uniE390.clig _505 uniE1B3 uni1012 _399 uniE390.clig _505 uniE1B3 uni1013 _399 uniE390.clig _505 uniE1B3 uni1014 _399 uniE390.clig _505 uniE1B3 uni1015 _399 uniE390.clig _505 uniE1B3 uni1016 _399 uniE390.clig _505 uniE1B3 uni1017 _399 uniE390.clig _505 uniE1B4 uni1018 _399 uniE390.clig _505 uniE1B3 uni1019 _399 uniE390.clig _505 uniE1B4 uni101A _399 uniE390.clig _505 uniE1B3 uni101B _399 uniE390.clig _505 uniE1B4 uni101C _399 uniE390.clig _505 uniE1B3 uni101D _399 uniE390.clig _505 uniE1B4 uni101E _399 uniE390.clig _505 uniE1B4 uni101F _399 uniE390.clig _505 uniE1B4 uni1021 _399 uniE390.clig _505 uniE1B3 uni1027 _399 uniE390.clig _505 uniE1B4 uni103F _399 uniE390.clig _505 uniE1B3 uniE107 _399 uniE390.clig _505 uniE1B3 uniE108 _399 uniE390.clig _505 uniE1B4 uni1022 _399 uniE390.clig _505 uniE1B3 uni1050 _399 uniE390.clig _505 uniE1B3 uni1051 _399 uniE390.clig _505 uniE1B3 uni105C _399 uniE390.clig _505 uniE1B3 uni1065 _399 uniE390.clig _505 uniE1B4 uni106E _399 uniE390.clig _505 uniE1B3 uni1075 _399 uniE390.clig _505 uniE1B3 uni1076 _399 uniE390.clig _505 uniE1B3 uni1077 _399 uniE390.clig _505 uniE1B4 uni1078 _399 uniE390.clig _505 uniE1B4 uni1079 _399 uniE390.clig _505 uniE1B4 uni107A _399 uniE390.clig _505 uniE1B4 uni107B _399 uniE390.clig _505 uniE1B4 uni107C _399 uniE390.clig _505 uniE1B4 uni107D _399 uniE390.clig _505 uniE1B4 uni107E _399 uniE390.clig _505 uniE1B3 uni107F _399 uniE390.clig _505 uniE1B4 uni1080 _399];
+} clig55;
+lookup clig56 {
+    sub @clig25' @clig21 uni103B.clig uni1031 by [uniE390.clig _505 uni1000 uniE390.clig _505 uni1001 uniE390.clig _505 uni1002 uniE390.clig _505 uni1003 uniE390.clig _505 uni1004 uniE390.clig _505 uni1005 uniE390.clig _505 uni1006 uniE390.clig _505 uni1007 uniE390.clig _505 uni100E uniE390.clig _505 uni100F uniE390.clig _505 uni1010 uniE390.clig _505 uni1011 uniE390.clig _505 uni1012 uniE390.clig _505 uni1013 uniE390.clig _505 uni1014 uniE390.clig _505 uni1015 uniE390.clig _505 uni1016 uniE390.clig _505 uni1017 uniE390.clig _505 uni1018 uniE390.clig _505 uni1019 uniE390.clig _505 uni101A uniE390.clig _505 uni101B uniE390.clig _505 uni101C uniE390.clig _505 uni101D uniE390.clig _505 uni101E uniE390.clig _505 uni101F uniE390.clig _505 uni1021 uniE390.clig _505 uni1027 uniE390.clig _505 uni103F uniE390.clig _505 uniE107 uniE390.clig _505 uniE108 uniE390.clig _505 uni1022 uniE390.clig _505 uni1050 uniE390.clig _505 uni1051 uniE390.clig _505 uni105C uniE390.clig _505 uni1065 uniE390.clig _505 uni106E uniE390.clig _505 uni1075 uniE390.clig _505 uni1076 uniE390.clig _505 uni1077 uniE390.clig _505 uni1078 uniE390.clig _505 uni1079 uniE390.clig _505 uni107A uniE390.clig _505 uni107B uniE390.clig _505 uni107C uniE390.clig _505 uni107D uniE390.clig _505 uni107E uniE390.clig _505 uni107F uniE390.clig _505 uni1080];
+    sub @clig25' @clig21 uni103D.clig uni1031 by [uniE390.clig _505 uni1000 uniE390.clig _505 uni1001 uniE390.clig _505 uni1002 uniE390.clig _505 uni1003 uniE390.clig _505 uni1004 uniE390.clig _505 uni1005 uniE390.clig _505 uni1006 uniE390.clig _505 uni1007 uniE390.clig _505 uni100E uniE390.clig _505 uni100F uniE390.clig _505 uni1010 uniE390.clig _505 uni1011 uniE390.clig _505 uni1012 uniE390.clig _505 uni1013 uniE390.clig _505 uni1014 uniE390.clig _505 uni1015 uniE390.clig _505 uni1016 uniE390.clig _505 uni1017 uniE390.clig _505 uni1018 uniE390.clig _505 uni1019 uniE390.clig _505 uni101A uniE390.clig _505 uni101B uniE390.clig _505 uni101C uniE390.clig _505 uni101D uniE390.clig _505 uni101E uniE390.clig _505 uni101F uniE390.clig _505 uni1021 uniE390.clig _505 uni1027 uniE390.clig _505 uni103F uniE390.clig _505 uniE107 uniE390.clig _505 uniE108 uniE390.clig _505 uni1022 uniE390.clig _505 uni1050 uniE390.clig _505 uni1051 uniE390.clig _505 uni105C uniE390.clig _505 uni1065 uniE390.clig _505 uni106E uniE390.clig _505 uni1075 uniE390.clig _505 uni1076 uniE390.clig _505 uni1077 uniE390.clig _505 uni1078 uniE390.clig _505 uni1079 uniE390.clig _505 uni107A uniE390.clig _505 uni107B uniE390.clig _505 uni107C uniE390.clig _505 uni107D uniE390.clig _505 uni107E uniE390.clig _505 uni107F uniE390.clig _505 uni1080];
+} clig56;
+lookup clig57 {
+    sub @clig19' @clig12 uni103C by [uniE1B4 uni1000 _399 uniE1B4 uni1003 _399 uniE1B4 uni1006 _399 uniE1B4 uni100F _399 uniE1B4 uni1010 _399 uniE1B4 uni1011 _399 uniE1B4 uni1018 _399 uniE1B4 uni101A _399 uniE1B4 uni101C _399 uniE1B4 uni101E _399 uniE1B4 uni101F _399 uniE1B4 uni1021 _399 uniE1B4 uni103F _399 uniE1B4 uni1022 _399 uniE1B4 uni106E _399 uniE1B4 uni1078 _399 uniE1B4 uni1079 _399 uniE1B4 uni107A _399 uniE1B4 uni107B _399 uniE1B4 uni107C _399 uniE1B4 uni107D _399 uniE1B4 uni107E _399 uniE1B4 uni1080 _399];
+} clig57;
+lookup clig58 {
+    sub @clig25' @clig21 uni103C by [_489 uni1000 _399 uniE1B3 uni1001 _399 uniE1B3 uni1002 _399 _489 uni1003 _399 uniE1B3 uni1004 _399 uniE1B3 uni1005 _399 _489 uni1006 _399 uniE1B3 uni1007 _399 uniE1B3 uni100E _399 _489 uni100F _399 _489 uni1010 _399 _489 uni1011 _399 uniE1B3 uni1012 _399 uniE1B3 uni1013 _399 uniE1B3 uni1014 _399 uniE1B3 uni1015 _399 uniE1B3 uni1016 _399 uniE1B3 uni1017 _399 _489 uni1018 _399 uniE1B3 uni1019 _399 _489 uni101A _399 uniE1B3 uni101B _399 _489 uni101C _399 uniE1B3 uni101D _399 _489 uni101E _399 _489 uni101F _399 _489 uni1021 _399 uniE1B3 uni1027 _399 _489 uni103F _399 uniE1B3 uniE107 _399 uniE1B3 uniE108 _399 _489 uni1022 _399 uniE1B3 uni1050 _399 uniE1B3 uni1051 _399 uniE1B3 uni105C _399 uniE1B3 uni1065 _399 _489 uni106E _399 uniE1B3 uni1075 _399 uniE1B3 uni1076 _399 uniE1B3 uni1077 _399 _489 uni1078 _399 _489 uni1079 _399 _489 uni107A _399 _489 uni107B _399 _489 uni107C _399 _489 uni107D _399 _489 uni107E _399 uniE1B3 uni107F _399 _489 uni1080 _399];
+} clig58;
+lookup clig59 {
+    sub @clig25' uni103C uni1031 uni1036.clig by [uniE390.clig _505 _487 uni1000 _399 uniE390.clig _505 _490 uni1001 _399 uniE390.clig _505 _490 uni1002 _399 uniE390.clig _505 _487 uni1003 _399 uniE390.clig _505 _490 uni1004 _399 uniE390.clig _505 _490 uni1005 _399 uniE390.clig _505 _487 uni1006 _399 uniE390.clig _505 _490 uni1007 _399 uniE390.clig _505 _490 uni100E _399 uniE390.clig _505 _487 uni100F _399 uniE390.clig _505 _487 uni1010 _399 uniE390.clig _505 _487 uni1011 _399 uniE390.clig _505 _490 uni1012 _399 uniE390.clig _505 _490 uni1013 _399 uniE390.clig _505 _490 uni1014 _399 uniE390.clig _505 _490 uni1015 _399 uniE390.clig _505 _490 uni1016 _399 uniE390.clig _505 _490 uni1017 _399 uniE390.clig _505 _487 uni1018 _399 uniE390.clig _505 _490 uni1019 _399 uniE390.clig _505 _487 uni101A _399 uniE390.clig _505 _490 uni101B _399 uniE390.clig _505 _487 uni101C _399 uniE390.clig _505 _490 uni101D _399 uniE390.clig _505 _487 uni101E _399 uniE390.clig _505 _487 uni101F _399 uniE390.clig _505 _487 uni1021 _399 uniE390.clig _505 _490 uni1027 _399 uniE390.clig _505 _487 uni103F _399 uniE390.clig _505 _490 uniE107 _399 uniE390.clig _505 _490 uniE108 _399 uniE390.clig _505 _487 uni1022 _399 uniE390.clig _505 _490 uni1050 _399 uniE390.clig _505 _490 uni1051 _399 uniE390.clig _505 _490 uni105C _399 uniE390.clig _505 _490 uni1065 _399 uniE390.clig _505 _487 uni106E _399 uniE390.clig _505 _490 uni1075 _399 uniE390.clig _505 _490 uni1076 _399 uniE390.clig _505 _490 uni1077 _399 uniE390.clig _505 _487 uni1078 _399 uniE390.clig _505 _487 uni1079 _399 uniE390.clig _505 _487 uni107A _399 uniE390.clig _505 _487 uni107B _399 uniE390.clig _505 _487 uni107C _399 uniE390.clig _505 _487 uni107D _399 uniE390.clig _505 _487 uni107E _399 uniE390.clig _505 _490 uni107F _399 uniE390.clig _505 _487 uni1080 _399];
+} clig59;
+lookup clig60 {
+    sub @clig25' uni103C uni1031 [uni1033 uni102D.clig uni102E.clig] by [uniE390.clig _505 uniE1B7 uni1000 _399 uniE390.clig _505 uniE1B6 uni1001 _399 uniE390.clig _505 uniE1B6 uni1002 _399 uniE390.clig _505 uniE1B7 uni1003 _399 uniE390.clig _505 uniE1B6 uni1004 _399 uniE390.clig _505 uniE1B6 uni1005 _399 uniE390.clig _505 uniE1B7 uni1006 _399 uniE390.clig _505 uniE1B6 uni1007 _399 uniE390.clig _505 uniE1B6 uni100E _399 uniE390.clig _505 uniE1B7 uni100F _399 uniE390.clig _505 uniE1B7 uni1010 _399 uniE390.clig _505 uniE1B7 uni1011 _399 uniE390.clig _505 uniE1B6 uni1012 _399 uniE390.clig _505 uniE1B6 uni1013 _399 uniE390.clig _505 uniE1B6 uni1014 _399 uniE390.clig _505 uniE1B6 uni1015 _399 uniE390.clig _505 uniE1B6 uni1016 _399 uniE390.clig _505 uniE1B6 uni1017 _399 uniE390.clig _505 uniE1B7 uni1018 _399 uniE390.clig _505 uniE1B6 uni1019 _399 uniE390.clig _505 uniE1B7 uni101A _399 uniE390.clig _505 uniE1B6 uni101B _399 uniE390.clig _505 uniE1B7 uni101C _399 uniE390.clig _505 uniE1B6 uni101D _399 uniE390.clig _505 uniE1B7 uni101E _399 uniE390.clig _505 uniE1B7 uni101F _399 uniE390.clig _505 uniE1B7 uni1021 _399 uniE390.clig _505 uniE1B6 uni1027 _399 uniE390.clig _505 uniE1B7 uni103F _399 uniE390.clig _505 uniE1B6 uniE107 _399 uniE390.clig _505 uniE1B6 uniE108 _399 uniE390.clig _505 uniE1B7 uni1022 _399 uniE390.clig _505 uniE1B6 uni1050 _399 uniE390.clig _505 uniE1B6 uni1051 _399 uniE390.clig _505 uniE1B6 uni105C _399 uniE390.clig _505 uniE1B6 uni1065 _399 uniE390.clig _505 uniE1B7 uni106E _399 uniE390.clig _505 uniE1B6 uni1075 _399 uniE390.clig _505 uniE1B6 uni1076 _399 uniE390.clig _505 uniE1B6 uni1077 _399 uniE390.clig _505 uniE1B7 uni1078 _399 uniE390.clig _505 uniE1B7 uni1079 _399 uniE390.clig _505 uniE1B7 uni107A _399 uniE390.clig _505 uniE1B7 uni107B _399 uniE390.clig _505 uniE1B7 uni107C _399 uniE390.clig _505 uniE1B7 uni107D _399 uniE390.clig _505 uniE1B7 uni107E _399 uniE390.clig _505 uniE1B6 uni107F _399 uniE390.clig _505 uniE1B7 uni1080 _399];
+} clig60;
+lookup clig61 {
+    sub @clig25' uni103C uni1031 by [uniE390.clig _505 uniE1B2 uni1000 _399 uniE390.clig _505 _513 uni1001 _399 uniE390.clig _505 _513 uni1002 _399 uniE390.clig _505 uniE1B2 uni1003 _399 uniE390.clig _505 _513 uni1004 _399 uniE390.clig _505 _513 uni1005 _399 uniE390.clig _505 uniE1B2 uni1006 _399 uniE390.clig _505 _513 uni1007 _399 uniE390.clig _505 _513 uni100E _399 uniE390.clig _505 uniE1B2 uni100F _399 uniE390.clig _505 uniE1B2 uni1010 _399 uniE390.clig _505 uniE1B2 uni1011 _399 uniE390.clig _505 _513 uni1012 _399 uniE390.clig _505 _513 uni1013 _399 uniE390.clig _505 _513 uni1014 _399 uniE390.clig _505 _513 uni1015 _399 uniE390.clig _505 _513 uni1016 _399 uniE390.clig _505 _513 uni1017 _399 uniE390.clig _505 uniE1B2 uni1018 _399 uniE390.clig _505 _513 uni1019 _399 uniE390.clig _505 uniE1B2 uni101A _399 uniE390.clig _505 _513 uni101B _399 uniE390.clig _505 uniE1B2 uni101C _399 uniE390.clig _505 _513 uni101D _399 uniE390.clig _505 uniE1B2 uni101E _399 uniE390.clig _505 uniE1B2 uni101F _399 uniE390.clig _505 uniE1B2 uni1021 _399 uniE390.clig _505 _513 uni1027 _399 uniE390.clig _505 uniE1B2 uni103F _399 uniE390.clig _505 _513 uniE107 _399 uniE390.clig _505 _513 uniE108 _399 uniE390.clig _505 uniE1B2 uni1022 _399 uniE390.clig _505 _513 uni1050 _399 uniE390.clig _505 _513 uni1051 _399 uniE390.clig _505 _513 uni105C _399 uniE390.clig _505 _513 uni1065 _399 uniE390.clig _505 uniE1B2 uni106E _399 uniE390.clig _505 _513 uni1075 _399 uniE390.clig _505 _513 uni1076 _399 uniE390.clig _505 _513 uni1077 _399 uniE390.clig _505 uniE1B2 uni1078 _399 uniE390.clig _505 uniE1B2 uni1079 _399 uniE390.clig _505 uniE1B2 uni107A _399 uniE390.clig _505 uniE1B2 uni107B _399 uniE390.clig _505 uniE1B2 uni107C _399 uniE390.clig _505 uniE1B2 uni107D _399 uniE390.clig _505 uniE1B2 uni107E _399 uniE390.clig _505 _513 uni107F _399 uniE390.clig _505 uniE1B2 uni1080 _399];
+    sub @clig25' uni103C uniE1F3 uni1031 by [uniE390.clig _505 uniE1B2 uni1000 _399 uniE390.clig _505 _513 uni1001 _399 uniE390.clig _505 _513 uni1002 _399 uniE390.clig _505 uniE1B2 uni1003 _399 uniE390.clig _505 _513 uni1004 _399 uniE390.clig _505 _513 uni1005 _399 uniE390.clig _505 uniE1B2 uni1006 _399 uniE390.clig _505 _513 uni1007 _399 uniE390.clig _505 _513 uni100E _399 uniE390.clig _505 uniE1B2 uni100F _399 uniE390.clig _505 uniE1B2 uni1010 _399 uniE390.clig _505 uniE1B2 uni1011 _399 uniE390.clig _505 _513 uni1012 _399 uniE390.clig _505 _513 uni1013 _399 uniE390.clig _505 _513 uni1014 _399 uniE390.clig _505 _513 uni1015 _399 uniE390.clig _505 _513 uni1016 _399 uniE390.clig _505 _513 uni1017 _399 uniE390.clig _505 uniE1B2 uni1018 _399 uniE390.clig _505 _513 uni1019 _399 uniE390.clig _505 uniE1B2 uni101A _399 uniE390.clig _505 _513 uni101B _399 uniE390.clig _505 uniE1B2 uni101C _399 uniE390.clig _505 _513 uni101D _399 uniE390.clig _505 uniE1B2 uni101E _399 uniE390.clig _505 uniE1B2 uni101F _399 uniE390.clig _505 uniE1B2 uni1021 _399 uniE390.clig _505 _513 uni1027 _399 uniE390.clig _505 uniE1B2 uni103F _399 uniE390.clig _505 _513 uniE107 _399 uniE390.clig _505 _513 uniE108 _399 uniE390.clig _505 uniE1B2 uni1022 _399 uniE390.clig _505 _513 uni1050 _399 uniE390.clig _505 _513 uni1051 _399 uniE390.clig _505 _513 uni105C _399 uniE390.clig _505 _513 uni1065 _399 uniE390.clig _505 uniE1B2 uni106E _399 uniE390.clig _505 _513 uni1075 _399 uniE390.clig _505 _513 uni1076 _399 uniE390.clig _505 _513 uni1077 _399 uniE390.clig _505 uniE1B2 uni1078 _399 uniE390.clig _505 uniE1B2 uni1079 _399 uniE390.clig _505 uniE1B2 uni107A _399 uniE390.clig _505 uniE1B2 uni107B _399 uniE390.clig _505 uniE1B2 uni107C _399 uniE390.clig _505 uniE1B2 uni107D _399 uniE390.clig _505 uniE1B2 uni107E _399 uniE390.clig _505 _513 uni107F _399 uniE390.clig _505 uniE1B2 uni1080 _399];
+    sub @clig25' uni103C uniE1D1 uni1031 by [uniE390.clig _505 uniE1B2 uni1000 _399 uniE390.clig _505 _513 uni1001 _399 uniE390.clig _505 _513 uni1002 _399 uniE390.clig _505 uniE1B2 uni1003 _399 uniE390.clig _505 _513 uni1004 _399 uniE390.clig _505 _513 uni1005 _399 uniE390.clig _505 uniE1B2 uni1006 _399 uniE390.clig _505 _513 uni1007 _399 uniE390.clig _505 _513 uni100E _399 uniE390.clig _505 uniE1B2 uni100F _399 uniE390.clig _505 uniE1B2 uni1010 _399 uniE390.clig _505 uniE1B2 uni1011 _399 uniE390.clig _505 _513 uni1012 _399 uniE390.clig _505 _513 uni1013 _399 uniE390.clig _505 _513 uni1014 _399 uniE390.clig _505 _513 uni1015 _399 uniE390.clig _505 _513 uni1016 _399 uniE390.clig _505 _513 uni1017 _399 uniE390.clig _505 uniE1B2 uni1018 _399 uniE390.clig _505 _513 uni1019 _399 uniE390.clig _505 uniE1B2 uni101A _399 uniE390.clig _505 _513 uni101B _399 uniE390.clig _505 uniE1B2 uni101C _399 uniE390.clig _505 _513 uni101D _399 uniE390.clig _505 uniE1B2 uni101E _399 uniE390.clig _505 uniE1B2 uni101F _399 uniE390.clig _505 uniE1B2 uni1021 _399 uniE390.clig _505 _513 uni1027 _399 uniE390.clig _505 uniE1B2 uni103F _399 uniE390.clig _505 _513 uniE107 _399 uniE390.clig _505 _513 uniE108 _399 uniE390.clig _505 uniE1B2 uni1022 _399 uniE390.clig _505 _513 uni1050 _399 uniE390.clig _505 _513 uni1051 _399 uniE390.clig _505 _513 uni105C _399 uniE390.clig _505 _513 uni1065 _399 uniE390.clig _505 uniE1B2 uni106E _399 uniE390.clig _505 _513 uni1075 _399 uniE390.clig _505 _513 uni1076 _399 uniE390.clig _505 _513 uni1077 _399 uniE390.clig _505 uniE1B2 uni1078 _399 uniE390.clig _505 uniE1B2 uni1079 _399 uniE390.clig _505 uniE1B2 uni107A _399 uniE390.clig _505 uniE1B2 uni107B _399 uniE390.clig _505 uniE1B2 uni107C _399 uniE390.clig _505 uniE1B2 uni107D _399 uniE390.clig _505 uniE1B2 uni107E _399 uniE390.clig _505 _513 uni107F _399 uniE390.clig _505 uniE1B2 uni1080 _399];
+} clig61;
+lookup clig62 {
+    sub @clig25' uniE1BB by [uniE1BC uni1000 _399 uniE1BB uni1001 _399 uniE1BB uni1002 _399 uniE1BC uni1003 _399 uniE1BB uni1004 _399 uniE1BB uni1005 _399 uniE1BC uni1006 _399 uniE1BB uni1007 _399 uniE1BB uni100E _399 uniE1BC uni100F _399 uniE1BC uni1010 _399 uniE1BC uni1011 _399 uniE1BB uni1012 _399 uniE1BB uni1013 _399 uniE1BB uni1014 _399 uniE1BB uni1015 _399 uniE1BB uni1016 _399 uniE1BB uni1017 _399 uniE1BC uni1018 _399 uniE1BB uni1019 _399 uniE1BC uni101A _399 uniE1BB uni101B _399 uniE1BC uni101C _399 uniE1BB uni101D _399 uniE1BC uni101E _399 uniE1BC uni101F _399 uniE1BC uni1021 _399 uniE1BB uni1027 _399 uniE1BC uni103F _399 uniE1BB uniE107 _399 uniE1BB uniE108 _399 uniE1BC uni1022 _399 uniE1BB uni1050 _399 uniE1BB uni1051 _399 uniE1BB uni105C _399 uniE1BB uni1065 _399 uniE1BC uni106E _399 uniE1BB uni1075 _399 uniE1BB uni1076 _399 uniE1BB uni1077 _399 uniE1BC uni1078 _399 uniE1BC uni1079 _399 uniE1BC uni107A _399 uniE1BC uni107B _399 uniE1BC uni107C _399 uniE1BC uni107D _399 uniE1BC uni107E _399 uniE1BB uni107F _399 uniE1BC uni1080 _399];
+} clig62;
+lookup clig63 {
+    sub @clig25' uni103C by [uniE1B2 uni1000 _399 _513 uni1001 _399 _513 uni1002 _399 uniE1B2 uni1003 _399 _513 uni1004 _399 _513 uni1005 _399 uniE1B2 uni1006 _399 _513 uni1007 _399 _513 uni100E _399 uniE1B2 uni100F _399 uniE1B2 uni1010 _399 uniE1B2 uni1011 _399 _513 uni1012 _399 _513 uni1013 _399 _513 uni1014 _399 _513 uni1015 _399 _513 uni1016 _399 _513 uni1017 _399 uniE1B2 uni1018 _399 _513 uni1019 _399 uniE1B2 uni101A _399 _513 uni101B _399 uniE1B2 uni101C _399 _513 uni101D _399 uniE1B2 uni101E _399 uniE1B2 uni101F _399 uniE1B2 uni1021 _399 _513 uni1027 _399 uniE1B2 uni103F _399 _513 uniE107 _399 _513 uniE108 _399 uniE1B2 uni1022 _399 _513 uni1050 _399 _513 uni1051 _399 _513 uni105C _399 _513 uni1065 _399 uniE1B2 uni106E _399 _513 uni1075 _399 _513 uni1076 _399 _513 uni1077 _399 uniE1B2 uni1078 _399 uniE1B2 uni1079 _399 uniE1B2 uni107A _399 uniE1B2 uni107B _399 uniE1B2 uni107C _399 uniE1B2 uni107D _399 uniE1B2 uni107E _399 _513 uni107F _399 uniE1B2 uni1080 _399];
+} clig63;
+lookup clig64 {
+    sub uniE390 @clig28' uni1031 by [_399 _505 uni1000 uniE390 uniE390.clig _399 _505 uni1001 uniE390 uniE390.clig _399 _505 uni1002 uniE390 uniE390.clig _399 _505 uni1003 uniE390 uniE390.clig _399 _505 uni1004 uniE390 uniE390.clig _399 _505 uni1005 uniE390 uniE390.clig _399 _505 uni1006 uniE390 uniE390.clig _399 _505 uni1007 uniE390 uniE390.clig _399 _505 uni1008 uniE390 uniE390.clig _399 _505 uni1009 uniE390 uniE390.clig _399 _505 uni100A uniE390 uniE390.clig _399 _505 uni100B uniE390 uniE390.clig _399 _505 uni100C uniE390 uniE390.clig _399 _505 uni100D uniE390 uniE390.clig _399 _505 uni100E uniE390 uniE390.clig _399 _505 uni100F uniE390 uniE390.clig _399 _505 uni1010 uniE390 uniE390.clig _399 _505 uni1011 uniE390 uniE390.clig _399 _505 uni1012 uniE390 uniE390.clig _399 _505 uni1013 uniE390 uniE390.clig _399 _505 uni1014 uniE390 uniE390.clig _399 _505 uni1015 uniE390 uniE390.clig _399 _505 uni1016 uniE390 uniE390.clig _399 _505 uni1017 uniE390 uniE390.clig _399 _505 uni1018 uniE390 uniE390.clig _399 _505 uni1019 uniE390 uniE390.clig _399 _505 uni101A uniE390 uniE390.clig _399 _505 uni101B uniE390 uniE390.clig _399 _505 uni101C uniE390 uniE390.clig _399 _505 uni101D uniE390 uniE390.clig _399 _505 uni101E uniE390 uniE390.clig _399 _505 uni101F uniE390 uniE390.clig _399 _505 uni1020 uniE390 uniE390.clig _399 _505 uni1021 uniE390 uniE390.clig _399 _505 uni1027 uniE390 uniE390.clig _399 _505 uni1029 uniE390 uniE390.clig _399 _505 uni103F uniE390 uniE390.clig _399 _505 uniE100 uniE390 uniE390.clig _399 _505 uniE107 uniE390 uniE390.clig _399 _505 uniE108 uniE390 uniE390.clig _399 _505 uni1022 uniE390 uniE390.clig _399 _505 uni1050 uniE390 uniE390.clig _399 _505 uni1051 uniE390 uniE390.clig _399 _505 uni105A uniE390 uniE390.clig _399 _505 uni105B uniE390 uniE390.clig _399 _505 uni105C uniE390 uniE390.clig _399 _505 uni105D uniE390 uniE390.clig _399 _505 uni1061 uniE390 uniE390.clig _399 _505 uni1065 uniE390 uniE390.clig _399 _505 uni106E uniE390 uniE390.clig _399 _505 uni106F uniE390 uniE390.clig _399 _505 uni1070 uniE390 uniE390.clig _399 _505 uni1075 uniE390 uniE390.clig _399 _505 uni1076 uniE390 uniE390.clig _399 _505 uni1077 uniE390 uniE390.clig _399 _505 uni1078 uniE390 uniE390.clig _399 _505 uni1079 uniE390 uniE390.clig _399 _505 uni107A uniE390 uniE390.clig _399 _505 uni107B uniE390 uniE390.clig _399 _505 uni107C uniE390 uniE390.clig _399 _505 uni107D uniE390 uniE390.clig _399 _505 uni107E uniE390 uniE390.clig _399 _505 uni107F uniE390 uniE390.clig _399 _505 uni1080 uniE390 uniE390.clig _399 _505 uni1081 uniE390 uniE390.clig];
+    sub uniE390 @clig28' @clig16 uni1031 by [_399 _505 uni1000 uniE390 uniE390.clig _399 _505 uni1001 uniE390 uniE390.clig _399 _505 uni1002 uniE390 uniE390.clig _399 _505 uni1003 uniE390 uniE390.clig _399 _505 uni1004 uniE390 uniE390.clig _399 _505 uni1005 uniE390 uniE390.clig _399 _505 uni1006 uniE390 uniE390.clig _399 _505 uni1007 uniE390 uniE390.clig _399 _505 uni1008 uniE390 uniE390.clig _399 _505 uni1009 uniE390 uniE390.clig _399 _505 uni100A uniE390 uniE390.clig _399 _505 uni100B uniE390 uniE390.clig _399 _505 uni100C uniE390 uniE390.clig _399 _505 uni100D uniE390 uniE390.clig _399 _505 uni100E uniE390 uniE390.clig _399 _505 uni100F uniE390 uniE390.clig _399 _505 uni1010 uniE390 uniE390.clig _399 _505 uni1011 uniE390 uniE390.clig _399 _505 uni1012 uniE390 uniE390.clig _399 _505 uni1013 uniE390 uniE390.clig _399 _505 uni1014 uniE390 uniE390.clig _399 _505 uni1015 uniE390 uniE390.clig _399 _505 uni1016 uniE390 uniE390.clig _399 _505 uni1017 uniE390 uniE390.clig _399 _505 uni1018 uniE390 uniE390.clig _399 _505 uni1019 uniE390 uniE390.clig _399 _505 uni101A uniE390 uniE390.clig _399 _505 uni101B uniE390 uniE390.clig _399 _505 uni101C uniE390 uniE390.clig _399 _505 uni101D uniE390 uniE390.clig _399 _505 uni101E uniE390 uniE390.clig _399 _505 uni101F uniE390 uniE390.clig _399 _505 uni1020 uniE390 uniE390.clig _399 _505 uni1021 uniE390 uniE390.clig _399 _505 uni1027 uniE390 uniE390.clig _399 _505 uni1029 uniE390 uniE390.clig _399 _505 uni103F uniE390 uniE390.clig _399 _505 uniE100 uniE390 uniE390.clig _399 _505 uniE107 uniE390 uniE390.clig _399 _505 uniE108 uniE390 uniE390.clig _399 _505 uni1022 uniE390 uniE390.clig _399 _505 uni1050 uniE390 uniE390.clig _399 _505 uni1051 uniE390 uniE390.clig _399 _505 uni105A uniE390 uniE390.clig _399 _505 uni105B uniE390 uniE390.clig _399 _505 uni105C uniE390 uniE390.clig _399 _505 uni105D uniE390 uniE390.clig _399 _505 uni1061 uniE390 uniE390.clig _399 _505 uni1065 uniE390 uniE390.clig _399 _505 uni106E uniE390 uniE390.clig _399 _505 uni106F uniE390 uniE390.clig _399 _505 uni1070 uniE390 uniE390.clig _399 _505 uni1075 uniE390 uniE390.clig _399 _505 uni1076 uniE390 uniE390.clig _399 _505 uni1077 uniE390 uniE390.clig _399 _505 uni1078 uniE390 uniE390.clig _399 _505 uni1079 uniE390 uniE390.clig _399 _505 uni107A uniE390 uniE390.clig _399 _505 uni107B uniE390 uniE390.clig _399 _505 uni107C uniE390 uniE390.clig _399 _505 uni107D uniE390 uniE390.clig _399 _505 uni107E uniE390 uniE390.clig _399 _505 uni107F uniE390 uniE390.clig _399 _505 uni1080 uniE390 uniE390.clig _399 _505 uni1081 uniE390 uniE390.clig];
+} clig64;
+lookup clig65 {
+    sub uniE390 @clig25' @clig16 uni102D.clig by [_399 uni1000 uniE391 _399 uni1001 uniE391 _399 uni1002 uniE391 _399 uni1003 uniE391 _399 uni1004 uniE391 _399 uni1005 uniE391 _399 uni1006 uniE391 _399 uni1007 uniE391 _399 uni100E uniE391 _399 uni100F uniE391 _399 uni1010 uniE391 _399 uni1011 uniE391 _399 uni1012 uniE391 _399 uni1013 uniE391 _399 uni1014 uniE391 _399 uni1015 uniE391 _399 uni1016 uniE391 _399 uni1017 uniE391 _399 uni1018 uniE391 _399 uni1019 uniE391 _399 uni101A uniE391 _399 uni101B uniE391 _399 uni101C uniE391 _399 uni101D uniE391 _399 uni101E uniE391 _399 uni101F uniE391 _399 uni1021 uniE391 _399 uni1027 uniE391 _399 uni103F uniE391 _399 uniE107 uniE391 _399 uniE108 uniE391 _399 uni1022 uniE391 _399 uni1050 uniE391 _399 uni1051 uniE391 _399 uni105C uniE391 _399 uni1065 uniE391 _399 uni106E uniE391 _399 uni1075 uniE391 _399 uni1076 uniE391 _399 uni1077 uniE391 _399 uni1078 uniE391 _399 uni1079 uniE391 _399 uni107A uniE391 _399 uni107B uniE391 _399 uni107C uniE391 _399 uni107D uniE391 _399 uni107E uniE391 _399 uni107F uniE391 _399 uni1080 uniE391];
+    sub uniE390 @clig25' @clig21 uni102D.clig by [_399 uni1000 uniE391 _399 uni1001 uniE391 _399 uni1002 uniE391 _399 uni1003 uniE391 _399 uni1004 uniE391 _399 uni1005 uniE391 _399 uni1006 uniE391 _399 uni1007 uniE391 _399 uni100E uniE391 _399 uni100F uniE391 _399 uni1010 uniE391 _399 uni1011 uniE391 _399 uni1012 uniE391 _399 uni1013 uniE391 _399 uni1014 uniE391 _399 uni1015 uniE391 _399 uni1016 uniE391 _399 uni1017 uniE391 _399 uni1018 uniE391 _399 uni1019 uniE391 _399 uni101A uniE391 _399 uni101B uniE391 _399 uni101C uniE391 _399 uni101D uniE391 _399 uni101E uniE391 _399 uni101F uniE391 _399 uni1021 uniE391 _399 uni1027 uniE391 _399 uni103F uniE391 _399 uniE107 uniE391 _399 uniE108 uniE391 _399 uni1022 uniE391 _399 uni1050 uniE391 _399 uni1051 uniE391 _399 uni105C uniE391 _399 uni1065 uniE391 _399 uni106E uniE391 _399 uni1075 uniE391 _399 uni1076 uniE391 _399 uni1077 uniE391 _399 uni1078 uniE391 _399 uni1079 uniE391 _399 uni107A uniE391 _399 uni107B uniE391 _399 uni107C uniE391 _399 uni107D uniE391 _399 uni107E uniE391 _399 uni107F uniE391 _399 uni1080 uniE391];
+    sub uniE390 @clig25' uni102D.clig by [_399 uni1000 uniE391 _399 uni1001 uniE391 _399 uni1002 uniE391 _399 uni1003 uniE391 _399 uni1004 uniE391 _399 uni1005 uniE391 _399 uni1006 uniE391 _399 uni1007 uniE391 _399 uni100E uniE391 _399 uni100F uniE391 _399 uni1010 uniE391 _399 uni1011 uniE391 _399 uni1012 uniE391 _399 uni1013 uniE391 _399 uni1014 uniE391 _399 uni1015 uniE391 _399 uni1016 uniE391 _399 uni1017 uniE391 _399 uni1018 uniE391 _399 uni1019 uniE391 _399 uni101A uniE391 _399 uni101B uniE391 _399 uni101C uniE391 _399 uni101D uniE391 _399 uni101E uniE391 _399 uni101F uniE391 _399 uni1021 uniE391 _399 uni1027 uniE391 _399 uni103F uniE391 _399 uniE107 uniE391 _399 uniE108 uniE391 _399 uni1022 uniE391 _399 uni1050 uniE391 _399 uni1051 uniE391 _399 uni105C uniE391 _399 uni1065 uniE391 _399 uni106E uniE391 _399 uni1075 uniE391 _399 uni1076 uniE391 _399 uni1077 uniE391 _399 uni1078 uniE391 _399 uni1079 uniE391 _399 uni107A uniE391 _399 uni107B uniE391 _399 uni107C uniE391 _399 uni107D uniE391 _399 uni107E uniE391 _399 uni107F uniE391 _399 uni1080 uniE391];
+} clig65;
+lookup clig66 {
+    sub uniE39A @clig25' @clig16 uni102D.clig by [_399 uni1000 uniE39B _399 uni1001 uniE39B _399 uni1002 uniE39B _399 uni1003 uniE39B _399 uni1004 uniE39B _399 uni1005 uniE39B _399 uni1006 uniE39B _399 uni1007 uniE39B _399 uni100E uniE39B _399 uni100F uniE39B _399 uni1010 uniE39B _399 uni1011 uniE39B _399 uni1012 uniE39B _399 uni1013 uniE39B _399 uni1014 uniE39B _399 uni1015 uniE39B _399 uni1016 uniE39B _399 uni1017 uniE39B _399 uni1018 uniE39B _399 uni1019 uniE39B _399 uni101A uniE39B _399 uni101B uniE39B _399 uni101C uniE39B _399 uni101D uniE39B _399 uni101E uniE39B _399 uni101F uniE39B _399 uni1021 uniE39B _399 uni1027 uniE39B _399 uni103F uniE39B _399 uniE107 uniE39B _399 uniE108 uniE39B _399 uni1022 uniE39B _399 uni1050 uniE39B _399 uni1051 uniE39B _399 uni105C uniE39B _399 uni1065 uniE39B _399 uni106E uniE39B _399 uni1075 uniE39B _399 uni1076 uniE39B _399 uni1077 uniE39B _399 uni1078 uniE39B _399 uni1079 uniE39B _399 uni107A uniE39B _399 uni107B uniE39B _399 uni107C uniE39B _399 uni107D uniE39B _399 uni107E uniE39B _399 uni107F uniE39B _399 uni1080 uniE39B];
+    sub uniE39A @clig25' uni102D.clig by [_399 uni1000 uniE39B _399 uni1001 uniE39B _399 uni1002 uniE39B _399 uni1003 uniE39B _399 uni1004 uniE39B _399 uni1005 uniE39B _399 uni1006 uniE39B _399 uni1007 uniE39B _399 uni100E uniE39B _399 uni100F uniE39B _399 uni1010 uniE39B _399 uni1011 uniE39B _399 uni1012 uniE39B _399 uni1013 uniE39B _399 uni1014 uniE39B _399 uni1015 uniE39B _399 uni1016 uniE39B _399 uni1017 uniE39B _399 uni1018 uniE39B _399 uni1019 uniE39B _399 uni101A uniE39B _399 uni101B uniE39B _399 uni101C uniE39B _399 uni101D uniE39B _399 uni101E uniE39B _399 uni101F uniE39B _399 uni1021 uniE39B _399 uni1027 uniE39B _399 uni103F uniE39B _399 uniE107 uniE39B _399 uniE108 uniE39B _399 uni1022 uniE39B _399 uni1050 uniE39B _399 uni1051 uniE39B _399 uni105C uniE39B _399 uni1065 uniE39B _399 uni106E uniE39B _399 uni1075 uniE39B _399 uni1076 uniE39B _399 uni1077 uniE39B _399 uni1078 uniE39B _399 uni1079 uniE39B _399 uni107A uniE39B _399 uni107B uniE39B _399 uni107C uniE39B _399 uni107D uniE39B _399 uni107E uniE39B _399 uni107F uniE39B _399 uni1080 uniE39B];
+} clig66;
+lookup clig67 {
+    sub uniE390 @clig25' uni102E.clig by [_399 uni1000 uniE392 _399 uni1001 uniE392 _399 uni1002 uniE392 _399 uni1003 uniE392 _399 uni1004 uniE392 _399 uni1005 uniE392 _399 uni1006 uniE392 _399 uni1007 uniE392 _399 uni100E uniE392 _399 uni100F uniE392 _399 uni1010 uniE392 _399 uni1011 uniE392 _399 uni1012 uniE392 _399 uni1013 uniE392 _399 uni1014 uniE392 _399 uni1015 uniE392 _399 uni1016 uniE392 _399 uni1017 uniE392 _399 uni1018 uniE392 _399 uni1019 uniE392 _399 uni101A uniE392 _399 uni101B uniE392 _399 uni101C uniE392 _399 uni101D uniE392 _399 uni101E uniE392 _399 uni101F uniE392 _399 uni1021 uniE392 _399 uni1027 uniE392 _399 uni103F uniE392 _399 uniE107 uniE392 _399 uniE108 uniE392 _399 uni1022 uniE392 _399 uni1050 uniE392 _399 uni1051 uniE392 _399 uni105C uniE392 _399 uni1065 uniE392 _399 uni106E uniE392 _399 uni1075 uniE392 _399 uni1076 uniE392 _399 uni1077 uniE392 _399 uni1078 uniE392 _399 uni1079 uniE392 _399 uni107A uniE392 _399 uni107B uniE392 _399 uni107C uniE392 _399 uni107D uniE392 _399 uni107E uniE392 _399 uni107F uniE392 _399 uni1080 uniE392];
+    sub uniE390 @clig25' @clig16 uni102E.clig by [_399 uni1000 uniE392 _399 uni1001 uniE392 _399 uni1002 uniE392 _399 uni1003 uniE392 _399 uni1004 uniE392 _399 uni1005 uniE392 _399 uni1006 uniE392 _399 uni1007 uniE392 _399 uni100E uniE392 _399 uni100F uniE392 _399 uni1010 uniE392 _399 uni1011 uniE392 _399 uni1012 uniE392 _399 uni1013 uniE392 _399 uni1014 uniE392 _399 uni1015 uniE392 _399 uni1016 uniE392 _399 uni1017 uniE392 _399 uni1018 uniE392 _399 uni1019 uniE392 _399 uni101A uniE392 _399 uni101B uniE392 _399 uni101C uniE392 _399 uni101D uniE392 _399 uni101E uniE392 _399 uni101F uniE392 _399 uni1021 uniE392 _399 uni1027 uniE392 _399 uni103F uniE392 _399 uniE107 uniE392 _399 uniE108 uniE392 _399 uni1022 uniE392 _399 uni1050 uniE392 _399 uni1051 uniE392 _399 uni105C uniE392 _399 uni1065 uniE392 _399 uni106E uniE392 _399 uni1075 uniE392 _399 uni1076 uniE392 _399 uni1077 uniE392 _399 uni1078 uniE392 _399 uni1079 uniE392 _399 uni107A uniE392 _399 uni107B uniE392 _399 uni107C uniE392 _399 uni107D uniE392 _399 uni107E uniE392 _399 uni107F uniE392 _399 uni1080 uniE392];
+    sub uniE390 @clig25' @clig21 uni102E.clig by [_399 uni1000 uniE392 _399 uni1001 uniE392 _399 uni1002 uniE392 _399 uni1003 uniE392 _399 uni1004 uniE392 _399 uni1005 uniE392 _399 uni1006 uniE392 _399 uni1007 uniE392 _399 uni100E uniE392 _399 uni100F uniE392 _399 uni1010 uniE392 _399 uni1011 uniE392 _399 uni1012 uniE392 _399 uni1013 uniE392 _399 uni1014 uniE392 _399 uni1015 uniE392 _399 uni1016 uniE392 _399 uni1017 uniE392 _399 uni1018 uniE392 _399 uni1019 uniE392 _399 uni101A uniE392 _399 uni101B uniE392 _399 uni101C uniE392 _399 uni101D uniE392 _399 uni101E uniE392 _399 uni101F uniE392 _399 uni1021 uniE392 _399 uni1027 uniE392 _399 uni103F uniE392 _399 uniE107 uniE392 _399 uniE108 uniE392 _399 uni1022 uniE392 _399 uni1050 uniE392 _399 uni1051 uniE392 _399 uni105C uniE392 _399 uni1065 uniE392 _399 uni106E uniE392 _399 uni1075 uniE392 _399 uni1076 uniE392 _399 uni1077 uniE392 _399 uni1078 uniE392 _399 uni1079 uniE392 _399 uni107A uniE392 _399 uni107B uniE392 _399 uni107C uniE392 _399 uni107D uniE392 _399 uni107E uniE392 _399 uni107F uniE392 _399 uni1080 uniE392];
+} clig67;
+lookup clig68 {
+    sub uniE39A @clig25' @clig16 uni102E.clig by [_399 uni1000 uniE39C _399 uni1001 uniE39C _399 uni1002 uniE39C _399 uni1003 uniE39C _399 uni1004 uniE39C _399 uni1005 uniE39C _399 uni1006 uniE39C _399 uni1007 uniE39C _399 uni100E uniE39C _399 uni100F uniE39C _399 uni1010 uniE39C _399 uni1011 uniE39C _399 uni1012 uniE39C _399 uni1013 uniE39C _399 uni1014 uniE39C _399 uni1015 uniE39C _399 uni1016 uniE39C _399 uni1017 uniE39C _399 uni1018 uniE39C _399 uni1019 uniE39C _399 uni101A uniE39C _399 uni101B uniE39C _399 uni101C uniE39C _399 uni101D uniE39C _399 uni101E uniE39C _399 uni101F uniE39C _399 uni1021 uniE39C _399 uni1027 uniE39C _399 uni103F uniE39C _399 uniE107 uniE39C _399 uniE108 uniE39C _399 uni1022 uniE39C _399 uni1050 uniE39C _399 uni1051 uniE39C _399 uni105C uniE39C _399 uni1065 uniE39C _399 uni106E uniE39C _399 uni1075 uniE39C _399 uni1076 uniE39C _399 uni1077 uniE39C _399 uni1078 uniE39C _399 uni1079 uniE39C _399 uni107A uniE39C _399 uni107B uniE39C _399 uni107C uniE39C _399 uni107D uniE39C _399 uni107E uniE39C _399 uni107F uniE39C _399 uni1080 uniE39C];
+    sub uniE39A @clig25' uni102E.clig by [_399 uni1000 uniE39C _399 uni1001 uniE39C _399 uni1002 uniE39C _399 uni1003 uniE39C _399 uni1004 uniE39C _399 uni1005 uniE39C _399 uni1006 uniE39C _399 uni1007 uniE39C _399 uni100E uniE39C _399 uni100F uniE39C _399 uni1010 uniE39C _399 uni1011 uniE39C _399 uni1012 uniE39C _399 uni1013 uniE39C _399 uni1014 uniE39C _399 uni1015 uniE39C _399 uni1016 uniE39C _399 uni1017 uniE39C _399 uni1018 uniE39C _399 uni1019 uniE39C _399 uni101A uniE39C _399 uni101B uniE39C _399 uni101C uniE39C _399 uni101D uniE39C _399 uni101E uniE39C _399 uni101F uniE39C _399 uni1021 uniE39C _399 uni1027 uniE39C _399 uni103F uniE39C _399 uniE107 uniE39C _399 uniE108 uniE39C _399 uni1022 uniE39C _399 uni1050 uniE39C _399 uni1051 uniE39C _399 uni105C uniE39C _399 uni1065 uniE39C _399 uni106E uniE39C _399 uni1075 uniE39C _399 uni1076 uniE39C _399 uni1077 uniE39C _399 uni1078 uniE39C _399 uni1079 uniE39C _399 uni107A uniE39C _399 uni107B uniE39C _399 uni107C uniE39C _399 uni107D uniE39C _399 uni107E uniE39C _399 uni107F uniE39C _399 uni1080 uniE39C];
+} clig68;
+lookup clig69 {
+    sub uniE390 @clig25' @clig16 uni1032.clig by [_399 uni1000 uniE396 _399 uni1001 uniE396 _399 uni1002 uniE396 _399 uni1003 uniE396 _399 uni1004 uniE396 _399 uni1005 uniE396 _399 uni1006 uniE396 _399 uni1007 uniE396 _399 uni100E uniE396 _399 uni100F uniE396 _399 uni1010 uniE396 _399 uni1011 uniE396 _399 uni1012 uniE396 _399 uni1013 uniE396 _399 uni1014 uniE396 _399 uni1015 uniE396 _399 uni1016 uniE396 _399 uni1017 uniE396 _399 uni1018 uniE396 _399 uni1019 uniE396 _399 uni101A uniE396 _399 uni101B uniE396 _399 uni101C uniE396 _399 uni101D uniE396 _399 uni101E uniE396 _399 uni101F uniE396 _399 uni1021 uniE396 _399 uni1027 uniE396 _399 uni103F uniE396 _399 uniE107 uniE396 _399 uniE108 uniE396 _399 uni1022 uniE396 _399 uni1050 uniE396 _399 uni1051 uniE396 _399 uni105C uniE396 _399 uni1065 uniE396 _399 uni106E uniE396 _399 uni1075 uniE396 _399 uni1076 uniE396 _399 uni1077 uniE396 _399 uni1078 uniE396 _399 uni1079 uniE396 _399 uni107A uniE396 _399 uni107B uniE396 _399 uni107C uniE396 _399 uni107D uniE396 _399 uni107E uniE396 _399 uni107F uniE396 _399 uni1080 uniE396];
+    sub uniE390 @clig25' uni1032.clig by [_399 uni1000 uniE396 _399 uni1001 uniE396 _399 uni1002 uniE396 _399 uni1003 uniE396 _399 uni1004 uniE396 _399 uni1005 uniE396 _399 uni1006 uniE396 _399 uni1007 uniE396 _399 uni100E uniE396 _399 uni100F uniE396 _399 uni1010 uniE396 _399 uni1011 uniE396 _399 uni1012 uniE396 _399 uni1013 uniE396 _399 uni1014 uniE396 _399 uni1015 uniE396 _399 uni1016 uniE396 _399 uni1017 uniE396 _399 uni1018 uniE396 _399 uni1019 uniE396 _399 uni101A uniE396 _399 uni101B uniE396 _399 uni101C uniE396 _399 uni101D uniE396 _399 uni101E uniE396 _399 uni101F uniE396 _399 uni1021 uniE396 _399 uni1027 uniE396 _399 uni103F uniE396 _399 uniE107 uniE396 _399 uniE108 uniE396 _399 uni1022 uniE396 _399 uni1050 uniE396 _399 uni1051 uniE396 _399 uni105C uniE396 _399 uni1065 uniE396 _399 uni106E uniE396 _399 uni1075 uniE396 _399 uni1076 uniE396 _399 uni1077 uniE396 _399 uni1078 uniE396 _399 uni1079 uniE396 _399 uni107A uniE396 _399 uni107B uniE396 _399 uni107C uniE396 _399 uni107D uniE396 _399 uni107E uniE396 _399 uni107F uniE396 _399 uni1080 uniE396];
+} clig69;
+lookup clig70 {
+    sub uniE390 @clig25' @clig16 uni1033 by [_399 uni1000 uniE394 _399 uni1001 uniE394 _399 uni1002 uniE394 _399 uni1003 uniE394 _399 uni1004 uniE394 _399 uni1005 uniE394 _399 uni1006 uniE394 _399 uni1007 uniE394 _399 uni100E uniE394 _399 uni100F uniE394 _399 uni1010 uniE394 _399 uni1011 uniE394 _399 uni1012 uniE394 _399 uni1013 uniE394 _399 uni1014 uniE394 _399 uni1015 uniE394 _399 uni1016 uniE394 _399 uni1017 uniE394 _399 uni1018 uniE394 _399 uni1019 uniE394 _399 uni101A uniE394 _399 uni101B uniE394 _399 uni101C uniE394 _399 uni101D uniE394 _399 uni101E uniE394 _399 uni101F uniE394 _399 uni1021 uniE394 _399 uni1027 uniE394 _399 uni103F uniE394 _399 uniE107 uniE394 _399 uniE108 uniE394 _399 uni1022 uniE394 _399 uni1050 uniE394 _399 uni1051 uniE394 _399 uni105C uniE394 _399 uni1065 uniE394 _399 uni106E uniE394 _399 uni1075 uniE394 _399 uni1076 uniE394 _399 uni1077 uniE394 _399 uni1078 uniE394 _399 uni1079 uniE394 _399 uni107A uniE394 _399 uni107B uniE394 _399 uni107C uniE394 _399 uni107D uniE394 _399 uni107E uniE394 _399 uni107F uniE394 _399 uni1080 uniE394];
+    sub uniE390 @clig25' uni1033 by [_399 uni1000 uniE394 _399 uni1001 uniE394 _399 uni1002 uniE394 _399 uni1003 uniE394 _399 uni1004 uniE394 _399 uni1005 uniE394 _399 uni1006 uniE394 _399 uni1007 uniE394 _399 uni100E uniE394 _399 uni100F uniE394 _399 uni1010 uniE394 _399 uni1011 uniE394 _399 uni1012 uniE394 _399 uni1013 uniE394 _399 uni1014 uniE394 _399 uni1015 uniE394 _399 uni1016 uniE394 _399 uni1017 uniE394 _399 uni1018 uniE394 _399 uni1019 uniE394 _399 uni101A uniE394 _399 uni101B uniE394 _399 uni101C uniE394 _399 uni101D uniE394 _399 uni101E uniE394 _399 uni101F uniE394 _399 uni1021 uniE394 _399 uni1027 uniE394 _399 uni103F uniE394 _399 uniE107 uniE394 _399 uniE108 uniE394 _399 uni1022 uniE394 _399 uni1050 uniE394 _399 uni1051 uniE394 _399 uni105C uniE394 _399 uni1065 uniE394 _399 uni106E uniE394 _399 uni1075 uniE394 _399 uni1076 uniE394 _399 uni1077 uniE394 _399 uni1078 uniE394 _399 uni1079 uniE394 _399 uni107A uniE394 _399 uni107B uniE394 _399 uni107C uniE394 _399 uni107D uniE394 _399 uni107E uniE394 _399 uni107F uniE394 _399 uni1080 uniE394];
+} clig70;
+lookup clig71 {
+    sub uniE390 @clig25' @clig16 uni1035 by [_399 uni1000 uniE395 _399 uni1001 uniE395 _399 uni1002 uniE395 _399 uni1003 uniE395 _399 uni1004 uniE395 _399 uni1005 uniE395 _399 uni1006 uniE395 _399 uni1007 uniE395 _399 uni100E uniE395 _399 uni100F uniE395 _399 uni1010 uniE395 _399 uni1011 uniE395 _399 uni1012 uniE395 _399 uni1013 uniE395 _399 uni1014 uniE395 _399 uni1015 uniE395 _399 uni1016 uniE395 _399 uni1017 uniE395 _399 uni1018 uniE395 _399 uni1019 uniE395 _399 uni101A uniE395 _399 uni101B uniE395 _399 uni101C uniE395 _399 uni101D uniE395 _399 uni101E uniE395 _399 uni101F uniE395 _399 uni1021 uniE395 _399 uni1027 uniE395 _399 uni103F uniE395 _399 uniE107 uniE395 _399 uniE108 uniE395 _399 uni1022 uniE395 _399 uni1050 uniE395 _399 uni1051 uniE395 _399 uni105C uniE395 _399 uni1065 uniE395 _399 uni106E uniE395 _399 uni1075 uniE395 _399 uni1076 uniE395 _399 uni1077 uniE395 _399 uni1078 uniE395 _399 uni1079 uniE395 _399 uni107A uniE395 _399 uni107B uniE395 _399 uni107C uniE395 _399 uni107D uniE395 _399 uni107E uniE395 _399 uni107F uniE395 _399 uni1080 uniE395];
+    sub uniE390 @clig25' uni1035 by [_399 uni1000 uniE395 _399 uni1001 uniE395 _399 uni1002 uniE395 _399 uni1003 uniE395 _399 uni1004 uniE395 _399 uni1005 uniE395 _399 uni1006 uniE395 _399 uni1007 uniE395 _399 uni100E uniE395 _399 uni100F uniE395 _399 uni1010 uniE395 _399 uni1011 uniE395 _399 uni1012 uniE395 _399 uni1013 uniE395 _399 uni1014 uniE395 _399 uni1015 uniE395 _399 uni1016 uniE395 _399 uni1017 uniE395 _399 uni1018 uniE395 _399 uni1019 uniE395 _399 uni101A uniE395 _399 uni101B uniE395 _399 uni101C uniE395 _399 uni101D uniE395 _399 uni101E uniE395 _399 uni101F uniE395 _399 uni1021 uniE395 _399 uni1027 uniE395 _399 uni103F uniE395 _399 uniE107 uniE395 _399 uniE108 uniE395 _399 uni1022 uniE395 _399 uni1050 uniE395 _399 uni1051 uniE395 _399 uni105C uniE395 _399 uni1065 uniE395 _399 uni106E uniE395 _399 uni1075 uniE395 _399 uni1076 uniE395 _399 uni1077 uniE395 _399 uni1078 uniE395 _399 uni1079 uniE395 _399 uni107A uniE395 _399 uni107B uniE395 _399 uni107C uniE395 _399 uni107D uniE395 _399 uni107E uniE395 _399 uni107F uniE395 _399 uni1080 uniE395];
+} clig71;
+lookup clig72 {
+    sub uniE390 @clig28' by [_399 uni1000 uniE390 uniE390.clig _399 uni1001 uniE390 uniE390.clig _399 uni1002 uniE390 uniE390.clig _399 uni1003 uniE390 uniE390.clig _399 uni1004 uniE390 uniE390.clig _399 uni1005 uniE390 uniE390.clig _399 uni1006 uniE390 uniE390.clig _399 uni1007 uniE390 uniE390.clig _399 uni1008 uniE390 uniE390.clig _399 uni1009 uniE390 uniE390.clig _399 uni100A uniE390 uniE390.clig _399 uni100B uniE390 uniE390.clig _399 uni100C uniE390 uniE390.clig _399 uni100D uniE390 uniE390.clig _399 uni100E uniE390 uniE390.clig _399 uni100F uniE390 uniE390.clig _399 uni1010 uniE390 uniE390.clig _399 uni1011 uniE390 uniE390.clig _399 uni1012 uniE390 uniE390.clig _399 uni1013 uniE390 uniE390.clig _399 uni1014 uniE390 uniE390.clig _399 uni1015 uniE390 uniE390.clig _399 uni1016 uniE390 uniE390.clig _399 uni1017 uniE390 uniE390.clig _399 uni1018 uniE390 uniE390.clig _399 uni1019 uniE390 uniE390.clig _399 uni101A uniE390 uniE390.clig _399 uni101B uniE390 uniE390.clig _399 uni101C uniE390 uniE390.clig _399 uni101D uniE390 uniE390.clig _399 uni101E uniE390 uniE390.clig _399 uni101F uniE390 uniE390.clig _399 uni1020 uniE390 uniE390.clig _399 uni1021 uniE390 uniE390.clig _399 uni1027 uniE390 uniE390.clig _399 uni1029 uniE390 uniE390.clig _399 uni103F uniE390 uniE390.clig _399 uniE100 uniE390 uniE390.clig _399 uniE107 uniE390 uniE390.clig _399 uniE108 uniE390 uniE390.clig _399 uni1022 uniE390 uniE390.clig _399 uni1050 uniE390 uniE390.clig _399 uni1051 uniE390 uniE390.clig _399 uni105A uniE390 uniE390.clig _399 uni105B uniE390 uniE390.clig _399 uni105C uniE390 uniE390.clig _399 uni105D uniE390 uniE390.clig _399 uni1061 uniE390 uniE390.clig _399 uni1065 uniE390 uniE390.clig _399 uni106E uniE390 uniE390.clig _399 uni106F uniE390 uniE390.clig _399 uni1070 uniE390 uniE390.clig _399 uni1075 uniE390 uniE390.clig _399 uni1076 uniE390 uniE390.clig _399 uni1077 uniE390 uniE390.clig _399 uni1078 uniE390 uniE390.clig _399 uni1079 uniE390 uniE390.clig _399 uni107A uniE390 uniE390.clig _399 uni107B uniE390 uniE390.clig _399 uni107C uniE390 uniE390.clig _399 uni107D uniE390 uniE390.clig _399 uni107E uniE390 uniE390.clig _399 uni107F uniE390 uniE390.clig _399 uni1080 uniE390 uniE390.clig _399 uni1081 uniE390 uniE390.clig];
+} clig72;
+lookup clig73 {
+    sub uniE39A @clig25' by [_399 uni1000 uniE39A uniE390.clig _399 uni1001 uniE39A uniE390.clig _399 uni1002 uniE39A uniE390.clig _399 uni1003 uniE39A uniE390.clig _399 uni1004 uniE39A uniE390.clig _399 uni1005 uniE39A uniE390.clig _399 uni1006 uniE39A uniE390.clig _399 uni1007 uniE39A uniE390.clig _399 uni100E uniE39A uniE390.clig _399 uni100F uniE39A uniE390.clig _399 uni1010 uniE39A uniE390.clig _399 uni1011 uniE39A uniE390.clig _399 uni1012 uniE39A uniE390.clig _399 uni1013 uniE39A uniE390.clig _399 uni1014 uniE39A uniE390.clig _399 uni1015 uniE39A uniE390.clig _399 uni1016 uniE39A uniE390.clig _399 uni1017 uniE39A uniE390.clig _399 uni1018 uniE39A uniE390.clig _399 uni1019 uniE39A uniE390.clig _399 uni101A uniE39A uniE390.clig _399 uni101B uniE39A uniE390.clig _399 uni101C uniE39A uniE390.clig _399 uni101D uniE39A uniE390.clig _399 uni101E uniE39A uniE390.clig _399 uni101F uniE39A uniE390.clig _399 uni1021 uniE39A uniE390.clig _399 uni1027 uniE39A uniE390.clig _399 uni103F uniE39A uniE390.clig _399 uniE107 uniE39A uniE390.clig _399 uniE108 uniE39A uniE390.clig _399 uni1022 uniE39A uniE390.clig _399 uni1050 uniE39A uniE390.clig _399 uni1051 uniE39A uniE390.clig _399 uni105C uniE39A uniE390.clig _399 uni1065 uniE39A uniE390.clig _399 uni106E uniE39A uniE390.clig _399 uni1075 uniE39A uniE390.clig _399 uni1076 uniE39A uniE390.clig _399 uni1077 uniE39A uniE390.clig _399 uni1078 uniE39A uniE390.clig _399 uni1079 uniE39A uniE390.clig _399 uni107A uniE39A uniE390.clig _399 uni107B uniE39A uniE390.clig _399 uni107C uniE39A uniE390.clig _399 uni107D uniE39A uniE390.clig _399 uni107E uniE39A uniE390.clig _399 uni107F uniE39A uniE390.clig _399 uni1080 uniE39A uniE390.clig];
+} clig73;
+lookup clig74 {
+    sub @clig25 uniE390' uniE390.clig' uni1036.clig' by uniE393;
+} clig74;
+lookup clig75 {
+    sub @clig32' uni1031 by [uniE390.clig _505 uni1000 _399 uniE390.clig _505 uni1001 _399 uniE390.clig _505 uni1002 _399 uniE390.clig _505 uni1003 _399 uniE390.clig _505 uni1004 _399 uniE390.clig _505 uni1005 _399 uniE390.clig _505 uni1006 _399 uniE390.clig _505 uni1007 _399 uniE390.clig _505 uni1008 _399 uniE390.clig _505 uni1009 _399 uniE390.clig _505 uni100A _399 uniE390.clig _505 uni100B _399 uniE390.clig _505 uni100C _399 uniE390.clig _505 uni100D _399 uniE390.clig _505 uni100E _399 uniE390.clig _505 uni100F _399 uniE390.clig _505 uni1010 _399 uniE390.clig _505 uni1011 _399 uniE390.clig _505 uni1012 _399 uniE390.clig _505 uni1013 _399 uniE390.clig _505 uni1014 _399 uniE390.clig _505 uni1015 _399 uniE390.clig _505 uni1016 _399 uniE390.clig _505 uni1017 _399 uniE390.clig _505 uni1018 _399 uniE390.clig _505 uni1019 _399 uniE390.clig _505 uni101A _399 uniE390.clig _505 uni101B _399 uniE390.clig _505 uni101C _399 uniE390.clig _505 uni101D _399 uniE390.clig _505 uni101E _399 uniE390.clig _505 uni101F _399 uniE390.clig _505 uni1020 _399 uniE390.clig _505 uni1021 _399 uniE390.clig _505 uni1027 _399 uniE390.clig _505 uni1029 _399 uniE390.clig _505 uni103F _399 uniE390.clig _505 uniE100 _399 uniE390.clig _505 uniE102 _399 uniE390.clig _505 uniE103 _399 uniE390.clig _505 uniE104 _399 uniE390.clig _505 uniE105 _399 uniE390.clig _505 uniE107 _399 uniE390.clig _505 uniE108 _399 uniE390.clig _505 uniE138 _399 uniE390.clig _505 uniE139 _399 uniE390.clig _505 uni1022 _399 uniE390.clig _505 uni1050 _399 uniE390.clig _505 uni1051 _399 uniE390.clig _505 uni105A _399 uniE390.clig _505 uni105B _399 uniE390.clig _505 uni105C _399 uniE390.clig _505 uni105D _399 uniE390.clig _505 uni1061 _399 uniE390.clig _505 uni1065 _399 uniE390.clig _505 uni106E _399 uniE390.clig _505 uni106F _399 uniE390.clig _505 uni1070 _399 uniE390.clig _505 uni1075 _399 uniE390.clig _505 uni1076 _399 uniE390.clig _505 uni1077 _399 uniE390.clig _505 uni1078 _399 uniE390.clig _505 uni1079 _399 uniE390.clig _505 uni107A _399 uniE390.clig _505 uni107B _399 uniE390.clig _505 uni107C _399 uniE390.clig _505 uni107D _399 uniE390.clig _505 uni107E _399 uniE390.clig _505 uni107F _399 uniE390.clig _505 uni1080 _399 uniE390.clig _505 uni1081 _399];
+    sub @clig32' @clig16 uni1031 by [uniE390.clig _505 uni1000 _399 uniE390.clig _505 uni1001 _399 uniE390.clig _505 uni1002 _399 uniE390.clig _505 uni1003 _399 uniE390.clig _505 uni1004 _399 uniE390.clig _505 uni1005 _399 uniE390.clig _505 uni1006 _399 uniE390.clig _505 uni1007 _399 uniE390.clig _505 uni1008 _399 uniE390.clig _505 uni1009 _399 uniE390.clig _505 uni100A _399 uniE390.clig _505 uni100B _399 uniE390.clig _505 uni100C _399 uniE390.clig _505 uni100D _399 uniE390.clig _505 uni100E _399 uniE390.clig _505 uni100F _399 uniE390.clig _505 uni1010 _399 uniE390.clig _505 uni1011 _399 uniE390.clig _505 uni1012 _399 uniE390.clig _505 uni1013 _399 uniE390.clig _505 uni1014 _399 uniE390.clig _505 uni1015 _399 uniE390.clig _505 uni1016 _399 uniE390.clig _505 uni1017 _399 uniE390.clig _505 uni1018 _399 uniE390.clig _505 uni1019 _399 uniE390.clig _505 uni101A _399 uniE390.clig _505 uni101B _399 uniE390.clig _505 uni101C _399 uniE390.clig _505 uni101D _399 uniE390.clig _505 uni101E _399 uniE390.clig _505 uni101F _399 uniE390.clig _505 uni1020 _399 uniE390.clig _505 uni1021 _399 uniE390.clig _505 uni1027 _399 uniE390.clig _505 uni1029 _399 uniE390.clig _505 uni103F _399 uniE390.clig _505 uniE100 _399 uniE390.clig _505 uniE102 _399 uniE390.clig _505 uniE103 _399 uniE390.clig _505 uniE104 _399 uniE390.clig _505 uniE105 _399 uniE390.clig _505 uniE107 _399 uniE390.clig _505 uniE108 _399 uniE390.clig _505 uniE138 _399 uniE390.clig _505 uniE139 _399 uniE390.clig _505 uni1022 _399 uniE390.clig _505 uni1050 _399 uniE390.clig _505 uni1051 _399 uniE390.clig _505 uni105A _399 uniE390.clig _505 uni105B _399 uniE390.clig _505 uni105C _399 uniE390.clig _505 uni105D _399 uniE390.clig _505 uni1061 _399 uniE390.clig _505 uni1065 _399 uniE390.clig _505 uni106E _399 uniE390.clig _505 uni106F _399 uniE390.clig _505 uni1070 _399 uniE390.clig _505 uni1075 _399 uniE390.clig _505 uni1076 _399 uniE390.clig _505 uni1077 _399 uniE390.clig _505 uni1078 _399 uniE390.clig _505 uni1079 _399 uniE390.clig _505 uni107A _399 uniE390.clig _505 uni107B _399 uniE390.clig _505 uni107C _399 uniE390.clig _505 uni107D _399 uniE390.clig _505 uni107E _399 uniE390.clig _505 uni107F _399 uniE390.clig _505 uni1080 _399 uniE390.clig _505 uni1081 _399];
+    sub @clig32' @clig21 uni1031 by [uniE390.clig _505 uni1000 _399 uniE390.clig _505 uni1001 _399 uniE390.clig _505 uni1002 _399 uniE390.clig _505 uni1003 _399 uniE390.clig _505 uni1004 _399 uniE390.clig _505 uni1005 _399 uniE390.clig _505 uni1006 _399 uniE390.clig _505 uni1007 _399 uniE390.clig _505 uni1008 _399 uniE390.clig _505 uni1009 _399 uniE390.clig _505 uni100A _399 uniE390.clig _505 uni100B _399 uniE390.clig _505 uni100C _399 uniE390.clig _505 uni100D _399 uniE390.clig _505 uni100E _399 uniE390.clig _505 uni100F _399 uniE390.clig _505 uni1010 _399 uniE390.clig _505 uni1011 _399 uniE390.clig _505 uni1012 _399 uniE390.clig _505 uni1013 _399 uniE390.clig _505 uni1014 _399 uniE390.clig _505 uni1015 _399 uniE390.clig _505 uni1016 _399 uniE390.clig _505 uni1017 _399 uniE390.clig _505 uni1018 _399 uniE390.clig _505 uni1019 _399 uniE390.clig _505 uni101A _399 uniE390.clig _505 uni101B _399 uniE390.clig _505 uni101C _399 uniE390.clig _505 uni101D _399 uniE390.clig _505 uni101E _399 uniE390.clig _505 uni101F _399 uniE390.clig _505 uni1020 _399 uniE390.clig _505 uni1021 _399 uniE390.clig _505 uni1027 _399 uniE390.clig _505 uni1029 _399 uniE390.clig _505 uni103F _399 uniE390.clig _505 uniE100 _399 uniE390.clig _505 uniE102 _399 uniE390.clig _505 uniE103 _399 uniE390.clig _505 uniE104 _399 uniE390.clig _505 uniE105 _399 uniE390.clig _505 uniE107 _399 uniE390.clig _505 uniE108 _399 uniE390.clig _505 uniE138 _399 uniE390.clig _505 uniE139 _399 uniE390.clig _505 uni1022 _399 uniE390.clig _505 uni1050 _399 uniE390.clig _505 uni1051 _399 uniE390.clig _505 uni105A _399 uniE390.clig _505 uni105B _399 uniE390.clig _505 uni105C _399 uniE390.clig _505 uni105D _399 uniE390.clig _505 uni1061 _399 uniE390.clig _505 uni1065 _399 uniE390.clig _505 uni106E _399 uniE390.clig _505 uni106F _399 uniE390.clig _505 uni1070 _399 uniE390.clig _505 uni1075 _399 uniE390.clig _505 uni1076 _399 uniE390.clig _505 uni1077 _399 uniE390.clig _505 uni1078 _399 uniE390.clig _505 uni1079 _399 uniE390.clig _505 uni107A _399 uniE390.clig _505 uni107B _399 uniE390.clig _505 uni107C _399 uniE390.clig _505 uni107D _399 uniE390.clig _505 uni107E _399 uniE390.clig _505 uni107F _399 uniE390.clig _505 uni1080 _399 uniE390.clig _505 uni1081 _399];
+} clig75;
+lookup clig76 {
+    sub @clig28' uni1084 by [uniE390.clig uni1084 uni1000 _399 uniE390.clig uni1084 uni1001 _399 uniE390.clig uni1084 uni1002 _399 uniE390.clig uni1084 uni1003 _399 uniE390.clig uni1084 uni1004 _399 uniE390.clig uni1084 uni1005 _399 uniE390.clig uni1084 uni1006 _399 uniE390.clig uni1084 uni1007 _399 uniE390.clig uni1084 uni1008 _399 uniE390.clig uni1084 uni1009 _399 uniE390.clig uni1084 uni100A _399 uniE390.clig uni1084 uni100B _399 uniE390.clig uni1084 uni100C _399 uniE390.clig uni1084 uni100D _399 uniE390.clig uni1084 uni100E _399 uniE390.clig uni1084 uni100F _399 uniE390.clig uni1084 uni1010 _399 uniE390.clig uni1084 uni1011 _399 uniE390.clig uni1084 uni1012 _399 uniE390.clig uni1084 uni1013 _399 uniE390.clig uni1084 uni1014 _399 uniE390.clig uni1084 uni1015 _399 uniE390.clig uni1084 uni1016 _399 uniE390.clig uni1084 uni1017 _399 uniE390.clig uni1084 uni1018 _399 uniE390.clig uni1084 uni1019 _399 uniE390.clig uni1084 uni101A _399 uniE390.clig uni1084 uni101B _399 uniE390.clig uni1084 uni101C _399 uniE390.clig uni1084 uni101D _399 uniE390.clig uni1084 uni101E _399 uniE390.clig uni1084 uni101F _399 uniE390.clig uni1084 uni1020 _399 uniE390.clig uni1084 uni1021 _399 uniE390.clig uni1084 uni1027 _399 uniE390.clig uni1084 uni1029 _399 uniE390.clig uni1084 uni103F _399 uniE390.clig uni1084 uniE100 _399 uniE390.clig uni1084 uniE107 _399 uniE390.clig uni1084 uniE108 _399 uniE390.clig uni1084 uni1022 _399 uniE390.clig uni1084 uni1050 _399 uniE390.clig uni1084 uni1051 _399 uniE390.clig uni1084 uni105A _399 uniE390.clig uni1084 uni105B _399 uniE390.clig uni1084 uni105C _399 uniE390.clig uni1084 uni105D _399 uniE390.clig uni1084 uni1061 _399 uniE390.clig uni1084 uni1065 _399 uniE390.clig uni1084 uni106E _399 uniE390.clig uni1084 uni106F _399 uniE390.clig uni1084 uni1070 _399 uniE390.clig uni1084 uni1075 _399 uniE390.clig uni1084 uni1076 _399 uniE390.clig uni1084 uni1077 _399 uniE390.clig uni1084 uni1078 _399 uniE390.clig uni1084 uni1079 _399 uniE390.clig uni1084 uni107A _399 uniE390.clig uni1084 uni107B _399 uniE390.clig uni1084 uni107C _399 uniE390.clig uni1084 uni107D _399 uniE390.clig uni1084 uni107E _399 uniE390.clig uni1084 uni107F _399 uniE390.clig uni1084 uni1080 _399 uniE390.clig uni1084 uni1081 _399];
+    sub @clig28' @clig16 uni1084 by [uniE390.clig uni1084 uni1000 _399 uniE390.clig uni1084 uni1001 _399 uniE390.clig uni1084 uni1002 _399 uniE390.clig uni1084 uni1003 _399 uniE390.clig uni1084 uni1004 _399 uniE390.clig uni1084 uni1005 _399 uniE390.clig uni1084 uni1006 _399 uniE390.clig uni1084 uni1007 _399 uniE390.clig uni1084 uni1008 _399 uniE390.clig uni1084 uni1009 _399 uniE390.clig uni1084 uni100A _399 uniE390.clig uni1084 uni100B _399 uniE390.clig uni1084 uni100C _399 uniE390.clig uni1084 uni100D _399 uniE390.clig uni1084 uni100E _399 uniE390.clig uni1084 uni100F _399 uniE390.clig uni1084 uni1010 _399 uniE390.clig uni1084 uni1011 _399 uniE390.clig uni1084 uni1012 _399 uniE390.clig uni1084 uni1013 _399 uniE390.clig uni1084 uni1014 _399 uniE390.clig uni1084 uni1015 _399 uniE390.clig uni1084 uni1016 _399 uniE390.clig uni1084 uni1017 _399 uniE390.clig uni1084 uni1018 _399 uniE390.clig uni1084 uni1019 _399 uniE390.clig uni1084 uni101A _399 uniE390.clig uni1084 uni101B _399 uniE390.clig uni1084 uni101C _399 uniE390.clig uni1084 uni101D _399 uniE390.clig uni1084 uni101E _399 uniE390.clig uni1084 uni101F _399 uniE390.clig uni1084 uni1020 _399 uniE390.clig uni1084 uni1021 _399 uniE390.clig uni1084 uni1027 _399 uniE390.clig uni1084 uni1029 _399 uniE390.clig uni1084 uni103F _399 uniE390.clig uni1084 uniE100 _399 uniE390.clig uni1084 uniE107 _399 uniE390.clig uni1084 uniE108 _399 uniE390.clig uni1084 uni1022 _399 uniE390.clig uni1084 uni1050 _399 uniE390.clig uni1084 uni1051 _399 uniE390.clig uni1084 uni105A _399 uniE390.clig uni1084 uni105B _399 uniE390.clig uni1084 uni105C _399 uniE390.clig uni1084 uni105D _399 uniE390.clig uni1084 uni1061 _399 uniE390.clig uni1084 uni1065 _399 uniE390.clig uni1084 uni106E _399 uniE390.clig uni1084 uni106F _399 uniE390.clig uni1084 uni1070 _399 uniE390.clig uni1084 uni1075 _399 uniE390.clig uni1084 uni1076 _399 uniE390.clig uni1084 uni1077 _399 uniE390.clig uni1084 uni1078 _399 uniE390.clig uni1084 uni1079 _399 uniE390.clig uni1084 uni107A _399 uniE390.clig uni1084 uni107B _399 uniE390.clig uni1084 uni107C _399 uniE390.clig uni1084 uni107D _399 uniE390.clig uni1084 uni107E _399 uniE390.clig uni1084 uni107F _399 uniE390.clig uni1084 uni1080 _399 uniE390.clig uni1084 uni1081 _399];
+} clig76;
+lookup clig77 {
+    sub _403' [uniE390 uniE39A]' _399' @clig19 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' @clig20 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' @clig15 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' _505 @clig19 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' _505 @clig20 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' _505 @clig15 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' uniE1B7 @clig19 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' uniE1B6 @clig20 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' _505 uniE1B7 @clig19 @clig4 by uniE390.clig;
+    sub _403' [uniE390 uniE39A]' _399' _505 uniE1B6 @clig20 @clig4 by uniE390.clig;
+} clig77;
+lookup clig78 {
+    sub uniE390' _400 uni1031 uniE390 by uniE390.clig;
+} clig78;
+lookup clig79 {
+    sub _505 uniE1B2 @clig19 _399' uni103C' [uniE1D1 uniE1F3]' uni1031' by uniE1D1;
+    sub _505 _513 @clig20 _399' uni103C' [uniE1D1 uniE1F3]' uni1031' by uniE1D1;
+} clig79;
+lookup clig80 {
+    sub _505 _513 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 uniE1B2 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 uniE1BC @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 uniE1BB @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _513 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub uniE1B2 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 @clig15 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub uniE1B7 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub uniE1B6 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub uniE1B4 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _489 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub uniE1B3 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 @clig20 @clig4 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 @clig19 @clig4 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 _490 @clig20 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+    sub _505 _487 @clig19 @clig10' @clig27' [uni1031 uni103C uni102D.clig uni102E.clig uni1036.clig]' by uni103C;
+} clig80;
+lookup clig81 {
+    sub _505 _513 @clig20 _399' uni103C' uniE1F3' uni1031' by uniE1F3;
+    sub _505 _513 @clig19 _399' uni103C' uniE1F3' uni1031' by uniE1F3;
+} clig81;
+lookup clig82 {
+    sub _505 @clig19 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+    sub _505 @clig20 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+    sub _505 @clig15 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+    sub uni1084 @clig19 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+    sub uni1084 @clig20 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+    sub uni1084 @clig15 _399' @clig16' [uni1031 uni1084]' by uniE1A3;
+} clig82;
+lookup clig83 {
+    sub _505 @clig19 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig20 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig15 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 [uniE102 uniE103 uniE104 uniE105 uniE138 uniE139] @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig19 @clig4 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig20 @clig4 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub @clig19 uniE391 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub @clig19 uniE392 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub @clig20 uniE391 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub @clig20 uniE392 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig19 @clig21 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 @clig20 @clig21 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 uniE1B2 @clig19 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 _513 @clig20 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 uniE1B4 @clig19 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub _505 uniE1B3 @clig20 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub uniE1B7 @clig19 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+    sub uniE1B6 @clig20 @clig26' [uni1031 uni102D.clig uni102E.clig]' by uniE000;
+} clig83;
+lookup clig84 {
+    sub uni1084 @clig19 _399' uni1084' by uniE390.clig;
+    sub uni1084 @clig20 _399' uni1084' by uniE390.clig;
+    sub uni1084 @clig15 _399' uni1084' by uniE390.clig;
+} clig84;
+lookup clig85 {
+    sub uniE1B2 @clig19 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub _513 @clig20 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B6 @clig20 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub _490 @clig20 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B7 @clig19 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub _487 @clig19 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1BC @clig19 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1BB @clig20 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B3 @clig20 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub _489 @clig19 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B7 @clig19 @clig4 uniE390.clig _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B6 @clig20 @clig4 uniE390.clig _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B2 @clig19 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B2 @clig20 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub _513 @clig20 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B6 @clig20 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B7 @clig20 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+    sub uniE1B7 @clig19 @clig21 _399' [uni103C uniE1B2 uniE1BB uniE1BC]' by uniE390.clig;
+} clig85;
+lookup clig86 {
+    sub [uniE391 uniE392 uniE393 uniE394 uniE395 uniE396 uniE39B uniE39C] @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE391 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE392 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE393 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE396 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE394 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE395 @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE39B @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+    sub uniE39C @clig16 @clig1' by [uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig uniE390.clig];
+} clig86;
+lookup clig87 {
+    sub uni1000 uniE390.clig by uni1000;
+    sub uni1001 uniE390.clig by uni1001;
+    sub uni1002 uniE390.clig by uni1002;
+    sub uni1003 uniE390.clig by uni1003;
+    sub uni1004 uniE390.clig by uni1004;
+    sub uni1005 uniE390.clig by uni1005;
+    sub uni1006 uniE390.clig by uni1006;
+    sub uni1007 uniE390.clig by uni1007;
+    sub uni1008 uniE390.clig by uni1008;
+    sub uni1009 uniE390.clig by uni1009;
+    sub uni100A uniE390.clig by uni100A;
+    sub uni100B uniE390.clig by uni100B;
+    sub uni100C uniE390.clig by uni100C;
+    sub uni100D uniE390.clig by uni100D;
+    sub uni100E uniE390.clig by uni100E;
+    sub uni100F uniE390.clig by uni100F;
+    sub uni1010 uniE390.clig by uni1010;
+    sub uni1011 uniE390.clig by uni1011;
+    sub uni1012 uniE390.clig by uni1012;
+    sub uni1013 uniE390.clig by uni1013;
+    sub uni1014 uniE390.clig by uni1014;
+    sub uni1015 uniE390.clig by uni1015;
+    sub uni1016 uniE390.clig by uni1016;
+    sub uni1017 uniE390.clig by uni1017;
+    sub uni1018 uniE390.clig by uni1018;
+    sub uni1019 uniE390.clig by uni1019;
+    sub uni101A uniE390.clig by uni101A;
+    sub uni101B uniE390.clig by uni101B;
+    sub uni101C uniE390.clig by uni101C;
+    sub uni101D uniE390.clig by uni101D;
+    sub uni101E uniE390.clig by uni101E;
+    sub uni101F uniE390.clig by uni101F;
+    sub uni1020 uniE390.clig by uni1020;
+    sub uni1021 uniE390.clig by uni1021;
+    sub uni1027 uniE390.clig by uni1027;
+    sub uni1029 uniE390.clig by uni1029;
+    sub uni103F uniE390.clig by uni103F;
+    sub uniE100 uniE390.clig by uniE100;
+    sub uniE102 uniE390.clig by uniE102;
+    sub uniE103 uniE390.clig by uniE103;
+    sub uniE104 uniE390.clig by uniE104;
+    sub uniE105 uniE390.clig by uniE105;
+    sub uniE107 uniE390.clig by uniE107;
+    sub uniE108 uniE390.clig by uniE108;
+    sub uniE138 uniE390.clig by uniE138;
+    sub uniE139 uniE390.clig by uniE139;
+    sub uniE1A3 uniE390.clig by uniE1A3;
+    sub uniE1A4 uniE390.clig by uniE1A4;
+    sub uniE1D1 uniE390.clig by uniE1D1;
+    sub uniE1F3 uniE390.clig by uniE1F3;
+    sub uniE390 uniE390.clig by uniE390;
+    sub uniE391 uniE390.clig by uniE391;
+    sub uniE392 uniE390.clig by uniE392;
+    sub uniE393 uniE390.clig by uniE393;
+    sub uni103D.clig_clig uniE390.clig by uni103D.clig_clig;
+    sub uniE1A5 uniE390.clig by uniE1A5;
+    sub uni1022 uniE390.clig by uni1022;
+    sub uni1050 uniE390.clig by uni1050;
+    sub uni1051 uniE390.clig by uni1051;
+    sub uni105A uniE390.clig by uni105A;
+    sub uni105B uniE390.clig by uni105B;
+    sub uni105C uniE390.clig by uni105C;
+    sub uni105D uniE390.clig by uni105D;
+    sub uni105E uniE390.clig by uni105E;
+    sub uni105F uniE390.clig by uni105F;
+    sub uni1060 uniE390.clig by uni1060;
+    sub uni1061 uniE390.clig by uni1061;
+    sub uni1065 uniE390.clig by uni1065;
+    sub uni106E uniE390.clig by uni106E;
+    sub uni106F uniE390.clig by uni106F;
+    sub uni1070 uniE390.clig by uni1070;
+    sub uni1075 uniE390.clig by uni1075;
+    sub uni1076 uniE390.clig by uni1076;
+    sub uni1077 uniE390.clig by uni1077;
+    sub uni1078 uniE390.clig by uni1078;
+    sub uni1079 uniE390.clig by uni1079;
+    sub uni107A uniE390.clig by uni107A;
+    sub uni107B uniE390.clig by uni107B;
+    sub uni107C uniE390.clig by uni107C;
+    sub uni107D uniE390.clig by uni107D;
+    sub uni107E uniE390.clig by uni107E;
+    sub uni107F uniE390.clig by uni107F;
+    sub uni1080 uniE390.clig by uni1080;
+    sub uni1081 uniE390.clig by uni1081;
+    sub uni1082 uniE390.clig by uni1082;
+    sub uniE394 uniE390.clig by uniE394;
+    sub uniE395 uniE390.clig by uniE395;
+    sub uniE396 uniE390.clig by uniE396;
+    sub uniE399 uniE390.clig by uniE399;
+    sub uniE05C uniE390.clig by uniE05C;
+    sub uniE390.clig uniE1F3 by uniE1F3;
+    sub uniE390.clig uniE1B6 by uniE1B6;
+    sub uniE390.clig uniE1B7 by uniE1B7;
+    sub uniE390.clig uniE1D1 by uniE1D1;
+    sub uniE390.clig uni1036.clig by uni1036.clig;
+    sub uniE390.clig uni102F.clig by uni102F.clig;
+    sub uniE390.clig uniE390.clig _505 by _505;
+    sub uniE390.clig uniE390.clig uni1084 by uni1084;
+    sub uniE390.clig uni1000 by uni1000;
+    sub uniE390.clig uni1003 by uni1003;
+    sub uniE390.clig uni1006 by uni1006;
+    sub uniE390.clig uni100F by uni100F;
+    sub uniE390.clig uni1010 by uni1010;
+    sub uniE390.clig uni1011 by uni1011;
+    sub uniE390.clig uni1018 by uni1018;
+    sub uniE390.clig uni101A by uni101A;
+    sub uniE390.clig uni101C by uni101C;
+    sub uniE390.clig uni101E by uni101E;
+    sub uniE390.clig uni101F by uni101F;
+    sub uniE390.clig uni1021 by uni1021;
+    sub uniE390.clig uni103F by uni103F;
+    sub uniE390.clig uni1022 by uni1022;
+    sub uniE390.clig uni106E by uni106E;
+    sub uniE390.clig uni1078 by uni1078;
+    sub uniE390.clig uni1079 by uni1079;
+    sub uniE390.clig uni107A by uni107A;
+    sub uniE390.clig uni107B by uni107B;
+    sub uniE390.clig uni107C by uni107C;
+    sub uniE390.clig uni107D by uni107D;
+    sub uniE390.clig uni107E by uni107E;
+    sub uniE390.clig uni1080 by uni1080;
+    sub uniE390.clig uni1001 by uni1001;
+    sub uniE390.clig uni1002 by uni1002;
+    sub uniE390.clig uni1004 by uni1004;
+    sub uniE390.clig uni1005 by uni1005;
+    sub uniE390.clig uni1007 by uni1007;
+    sub uniE390.clig uni100E by uni100E;
+    sub uniE390.clig uni1012 by uni1012;
+    sub uniE390.clig uni1013 by uni1013;
+    sub uniE390.clig uni1014 by uni1014;
+    sub uniE390.clig uni1015 by uni1015;
+    sub uniE390.clig uni1016 by uni1016;
+    sub uniE390.clig uni1017 by uni1017;
+    sub uniE390.clig uni1019 by uni1019;
+    sub uniE390.clig uni101B by uni101B;
+    sub uniE390.clig uni101D by uni101D;
+    sub uniE390.clig uni1027 by uni1027;
+    sub uniE390.clig uniE107 by uniE107;
+    sub uniE390.clig uniE108 by uniE108;
+    sub uniE390.clig uni1050 by uni1050;
+    sub uniE390.clig uni1051 by uni1051;
+    sub uniE390.clig uni105C by uni105C;
+    sub uniE390.clig uni1065 by uni1065;
+    sub uniE390.clig uni1075 by uni1075;
+    sub uniE390.clig uni1076 by uni1076;
+    sub uniE390.clig uni1077 by uni1077;
+    sub uniE390.clig uni107F by uni107F;
+    sub uniE390.clig _505 by _505;
+    sub uniE390.clig uni1084 by uni1084;
+    sub uniE05A uniE390.clig by uniE05A;
+    sub uniE39A uniE390.clig by uniE39A;
+    sub uniE39B uniE390.clig by uniE39B;
+    sub uniE39C uniE390.clig by uniE39C;
+    sub uni103B.clig_uni1082 uniE390.clig by uni103B.clig_uni1082;
+    sub uni102D.clig uniE390.clig by uni102D.clig;
+    sub uni1037.clig _399 uni103A.clig by uni1037.clig;
+    sub uni103B.clig uniE390.clig by uni103B.clig;
+    sub uni103D.clig uniE390.clig by uni103D.clig;
+    sub uni103E.clig uniE390.clig by uni103E.clig;
+} clig87;
+lookup clig88 {
+    sub uni1009' uni103A.clig by uniE009;
+} clig88;
+lookup clig89 {
+    sub [uni1014 uni1030 uniE1F2] uni1037.clig' by uni1037.clig_clig;
+    sub [uni1014 uni1030 uniE1F2] [uni200B uni102D.clig uni102E.clig uni1032.clig uni1036.clig uni103A.clig] uni1037.clig' by uni1037.clig_clig;
+    sub uniE402 uni1037.clig' by uni1037.clig_clig;
+} clig89;
+lookup clig90 {
+    sub [uni1014 uni1060 uni102F.clig uni1030.clig uni103E.clig] uni1037.clig' by uniE037;
+    sub [uni1014 uni1060 uni102F.clig uni1030.clig uni103E.clig] [uni102D.clig uni102E.clig uni1030.clig uni1032.clig uni1036.clig uni103A.clig] uni1037.clig' by uniE037;
+    sub [uni1069 uni106A uni106B uni1062_uni1086 uni102B.clig] uni1037.clig' by uniE037;
+} clig90;
+lookup clig91 {
+    sub @clig9 [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub @clig9 @clig6 [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub uni1082 uni103A.clig [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub uni101B uni103E.clig [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub uni101B uni103E.clig @clig6 [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub uniE108 [uniE1F2 uniE402 uni102F.clig uni1030.clig] [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub uniE108 @clig6 [uniE1F2 uniE402 uni102F.clig uni1030.clig] [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub @clig23 [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+    sub @clig23 @clig6 [uniE037 uni1037.clig_clig uni1037.clig]' by [uniE137 uniE137 uniE137];
+} clig91;
+lookup clig92 {
+    sub @clig21 uni103B.clig' by uniE1A5;
+} clig92;
+lookup clig93 {
+    sub @clig23 uni103D.clig' by uni103D.clig_clig;
+} clig93;
+lookup clig94 {
+    sub @clig11 uni103D.clig_clig' by uni103D.clig_clig_clig;
+} clig94;
+lookup clig95 {
+    sub [uniE010 uniE011] uni103D.clig_clig' by uni103D.zz91;
+} clig95;
+lookup clig96 {
+    sub [uni107E uni1081]' uni102D.clig uni102F.clig by [uni107E.clig uniE081];
+} clig96;
+lookup clig97 {
+    sub [uni107E uni1081]' uni102D.clig uni1030.clig by [uni107E_uni1030.clig uniE082];
+} clig97;
+lookup clig98 {
+    sub [uniE081 uniE082 uni107E.clig uni107E_uni1030.clig] uni102D.clig' [uni102F.clig uni1030.clig]' by uni102D.clig;
+} clig98;
+lookup clig99 {
+    sub uniE100 [uniE005 uniE007]' by [uniE005.clig uniE007.clig];
+} clig99;
+lookup clig100 {
+    sub uni101B [uniE1D1 uni103D.clig]' by [uniE1D1.clig uni103D.zz96];
+} clig100;
+lookup clig101 {
+    sub uni101B' uni103D.zz96 uni102D.clig uniE2F1 by uni101B.clig;
+    sub uni101B' uniE1D1.clig uni102D.clig uniE2F1 by uni101B.clig;
+} clig101;
+lookup clig102 {
+    sub uniE1B7' uni1000 uni102D.clig uni103B.clig by uniE1B7.clig;
+} clig102;
+lookup clig103 {
+    sub uni102B.clig' uni1037.clig uni103A.clig by uniE02D;
+} clig103;
+lookup clig104 {
+    sub uniE02D uni1037.clig' uni103A.clig' by uni1037.clig;
+} clig104;
+lookup clig105 {
+    sub @clig7 uni102D' by uni102D.clig;
+} clig105;
+} clig;
+
