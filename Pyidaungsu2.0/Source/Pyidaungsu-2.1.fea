@@ -1,0 +1,581 @@
+@afrc1=[uni1040 uni1041 uni1042 uni1043 uni1044 uni1045 uni1046 uni1047 uni1048 uni1049];
+@afrc2=[uni1040.up uni1041.up uni1042.up uni1043.up uni1044.up uni1045.up uni1046.up uni1047.up uni1048.up uni1049.up];
+@afrc3=[slash fraction uni1040.frac uni1041.frac uni1042.frac uni1043.frac uni1044.frac uni1045.frac uni1046.frac uni1047.frac uni1048.frac uni1049.frac];
+@blws10=[uni1000 uni1003 uni1006 uni100F uni1010 uni1011 uni1018 uni101A uni101C uni101E uni101F uni1021 uni1022 uni103F uni106E uni106F uni1070 uni1078 uni1079 uni107A uni107B uni107C uni107D uni107E uni1080];
+@blws11=[uni1001 uni1002 uni1004 uni1005 uni1007 uni100E uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1019 uni101B uni101D uni1027 uni1050 uni1051 uni105A uni105C uni1065 uni1075 uni1076 uni1077 uni107F na.alt ra.alt];
+@blws12=[uni102D uni102E uni1032 uni1033 uni1034 uni1035 uni1036 uni103A uni1072 uni1073 uni1074 uni1085 kinzi kinzi.i.vow kinzi.ii.vow kinzi.anusvara kinzi.ii.mon kinzi.eabove kinzi.ai.vow i.vow.anusvara i.ai.vow kinzi_i_anus kinzi_asat ai_redu_locl ra.kinzi ra.kinzi.i ra.kinzi.ii ra_kinzi_asat];
+@blws13=[uni1001 uni1002 uni1004 uni1005 uni1007 uni100E uni1012 uni1013 uni1014 uni1015 uni1016 uni1017 uni1019 uni101B uni101D uni1027 uni1050 uni1051 uni105A uni105C uni1065 uni1075 uni1076 uni1077 uni107F nya.alt nnya.alt na.alt ra.alt];
+@blws14=[ka.sub gha.sub cha.sub nyaa.sub nnya.sub ttha.sub nna.sub ta.sub tha.sub bha.sub la.sub sa.sub ha.sub a.sub shan.ca.sub shan.pha.sub shan.na.sub ka.sub2 gha.sub2 cha.sub2 nnya.sub2 ttha.sub2 nna.sub2 ta.sub2 tha.sub2 bha.sub2 la.sub2 sa.sub2 ha.sub2 a.sub2 ya.sub];
+@blws15=[kha.sub ga.sub mon.nga.sub ca.sub ja.sub jha.sub mon.jha.sub tta.sub dda.sub ddha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub ma.sub ra.sub bba.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.kha.sub kha.sub2 ga.sub2 ca.sub2 ja.sub2 tta.sub2 dda.sub2 ddha.sub2 da.sub2 dha.sub2 na.sub2 pa.sub2 pha.sub2 ba.sub2 ma.sub2 ra.sub2 pa.ssa.sub2 ga.sha.sub2];
+@blws16=[ka.sub kha.sub ga.sub gha.sub mon.nga.sub ca.sub cha.sub ja.sub jha.sub mon.jha.sub nyaa.sub nnya.sub tta.sub ttha.sub dda.sub ddha.sub nna.sub ta.sub tha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub bha.sub ma.sub ra.sub la.sub sa.sub ha.sub a.sub bba.sub shan.ca.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.pha.sub shan.na.sub shan.kha.sub tawa.alt ya.sub];
+@blws17=[uni103B uni103D ka.sub kha.sub ga.sub gha.sub mon.nga.sub ca.sub cha.sub ja.sub jha.sub mon.jha.sub nyaa.sub nnya.sub tta.sub ttha.sub dda.sub ddha.sub nna.sub ta.sub tha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub bha.sub ma.sub ra.sub la.sub sa.sub ha.sub a.sub wa.ha.med bba.sub shan.ca.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.pha.sub shan.na.sub shan.kha.sub tawa.alt ya.sub];
+@blws18=[uni103B uni103D uni103E uni105E uni105F uni1060 ka.sub kha.sub ga.sub gha.sub mon.nga.sub ca.sub cha.sub ja.sub jha.sub mon.jha.sub nyaa.sub nnya.sub tta.sub ttha.sub dda.sub ddha.sub nna.sub ta.sub tha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub bha.sub ma.sub ra.sub la.sub sa.sub ha.sub a.sub ya.ha.med ya.wa.med ya.med.alt wa.ha.med bba.sub shan.ca.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.pha.sub shan.na.sub shan.kha.sub tawa.alt ya.sub yawaha.med];
+@blws1=[uni102D uni102E uni1032 uni1033 uni1034 uni1035 uni1036 uni1072 uni1073 uni1074];
+@blws2=[uni103B uni103D uni103E uni105E uni105F uni1060 ya.ha.med ya.wa.med ya.med.alt wa.ha.med yawaha.med];
+@blws3=[uni101B uni103B uni103D uni1061 uni1082 uni1083 wa.ha.med wa_med wa_ha_med ha.med.u.sig u.sig.long uu.sig.long];
+@blws4=[ka.sub2 gha.sub2 cha.sub2 nnya.sub2 ttha.sub2 nna.sub2 ta.sub2 tha.sub2 bha.sub2 la.sub2 sa.sub2 ha.sub2 a.sub2];
+@blws5=[kha.sub2 ga.sub2 ca.sub2 ja.sub2 tta.sub2 dda.sub2 ddha.sub2 da.sub2 dha.sub2 na.sub2 pa.sub2 pha.sub2 ba.sub2 ma.sub2 ra.sub2 pa.ssa.sub2 ga.sha.sub2];
+@blws6=[ka.sub gha.sub cha.sub nyaa.sub nnya.sub ttha.sub nna.sub ta.sub tha.sub bha.sub la.sub sa.sub ha.sub a.sub shan.ca.sub shan.pha.sub shan.na.sub ya.sub];
+@blws7=[kha.sub ga.sub ca.sub ja.sub tta.sub dda.sub ddha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub ma.sub ra.sub bba.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.kha.sub];
+@blws8=[kha.sub ga.sub mon.nga.sub ca.sub ja.sub jha.sub mon.jha.sub tta.sub dda.sub ddha.sub da.sub dha.sub na.sub pa.sub pha.sub ba.sub ma.sub ra.sub bba.sub shan.ka.sub pa.ssa.sub ga.sha.sub shan.kha.sub];
+@blws9=[uni1008 uni1009 uni100A uni100B uni100C uni100D uni1020 uni1025 uni105A uni105D uni1061 uni106F uni1070 great.nnya tta.tta.lig tta.ttha.lig dda.ddha.lig nna.dda.lig dda.dda.lig lla.ha.med lla.lla ssa.dda.lig ssa.ttha.lig tawa.alt];
+@class225=[kha.sub2 ga.sub2 ca.sub2 ja.sub2 tta.sub2 dda.sub2 ddha.sub2 da.sub2 dha.sub2 na.sub2 pa.sub2 pha.sub2 ba.sub2 ma.sub2 ra.sub2 bba.sub2 shan.ka.sub2 pa.ssa.sub2 ga.sha.sub2 shan.kha.sub2];
+@class227=[ka.sub2 gha.sub2 cha.sub2 nya.sub2 nnya.sub2 ttha.sub2 nna.sub2 ta.sub2 tha.sub2 bha.sub2 la.sub2 sa.sub2 ha.sub2 a.sub2 shan.ca.sub2 shan.pha.sub2 shan.na.sub2 ya.sub2];
+@class237=[uni1040.frac uni1041.frac uni1042.frac uni1043.frac uni1044.frac uni1045.frac uni1046.frac uni1047.frac uni1048.frac uni1049.frac];
+@locl1=[uni1000 uni1002 uni1004 uni1010 uni1015 uni1019 uni101A uni101C uni1022 uni1032 uni1075 uni1078 uni1080 uniAA60 uniAA61 uniAA62 uniAA63 uniAA64 uniAA65 uniAA66 uniAA6B uniAA6C uniAA6F uniAA73 uniAA75 uniAA76];
+@locl2=[uni1000_kh uni1002_kh uni1004_kh uni1010_kh uni1015_kh uni1019_kh uni101A_kh uni101C_kh uni1022_kh ai_locl uni1075_kh uni1078_kh uni1080_kh uniAA60_kh uniAA61_kh uniAA62_kh uniAA63_kh uniAA64_kh uniAA65_kh uniAA66_kh uniAA6B_kh uniAA6C_kh uniAA6F_kh uniAA73_kh uniAA75_kh uniAA76_kh];
+@psts1=[uni102D uni102E uni1032 uni1033 uni1035 uni1036 uni103A];
+@sups1=[uni1040.sups uni1041.sups uni1042.sups uni1043.sups uni1044.sups uni1045.sups uni1046.sups uni1047.sups uni1048.sups uni1049.sups];
+languagesystem mym2 dflt;
+languagesystem mym2 LIS ;
+languagesystem mym2 KHT ;
+languagesystem mym2 KYU ;
+languagesystem mym2 KSW ;
+
+
+feature aalt{
+  feature psts;
+  feature pres;
+  feature locl;
+  feature blwf;
+  feature sups;
+} aalt;
+
+feature mark { # Mark Positioning
+ script mym2;
+lookup mark0 {
+#    mark uni1037 -735 0;
+#    pos uni102B mark uni1037 0 0;
+} mark0;
+lookup mark1 {
+#    mark uni102D -500 0;
+#    mark uni102E -500 0;
+#    pos uni103B mark [uni102D uni102E] 0 0;
+#    pos jha.sub mark [uni102D uni102E] 0 0;
+#    pos mon.jha.sub mark [uni102D uni102E] 0 0;
+#    pos ya.ha.med mark [uni102D uni102E] 0 0;
+#    pos ya.wa.med mark [uni102D uni102E] 0 0;
+#    pos ya.med.alt mark [uni102D uni102E] 0 0;
+#    pos yawaha.med mark [uni102D uni102E] 0 0;
+} mark1;
+lookup mark2 {
+#    mark uni102F -675 0;
+#    mark uni1030 -675 0;
+#    pos uni1081 mark [uni102F uni1030] 945 0;
+} mark2;
+ language LIS ;
+ language KYU  exclude_dflt;
+lookup mark1;
+lookup mark3 {
+} mark3;
+ language KSW  exclude_dflt;
+lookup mark0;
+lookup mark3;
+} mark;
+
+feature rphf { # Reph Forms
+ script mym2;
+    sub uni1004 uni103A uni1039 by kinzi;
+    sub uni101B uni103A uni1039 by ra.kinzi;
+    sub uni105A uni103A uni1039 by kinzi;
+ language LIS ;
+} rphf;
+
+feature abvs { # Above-base Substitutions
+ script mym2;
+lookup abvs6 {
+    sub uni102D uni1036 by i.vow.anusvara;
+    sub uni102D uni1032 by i.ai.vow;
+    sub uni1032 uniAA70 by ai_redu_locl;
+    sub uni103A uniAA70 by asat.redu;
+    sub uni103A uni103A by asat.asat.lig;
+    sub uni103A uni1036 by asat.anus;
+} abvs6;
+lookup abvs57 {
+    sub [uni102D uni102E] [uni102D uni102E]' by [uni25CC uni102D uni25CC uni102E];
+} abvs57;
+lookup abvs58 {
+    sub [uni102F uni1030] [uni102F uni1030]' by [uni25CC uni102F uni25CC uni1030];
+} abvs58;
+lookup abvs59 {
+    sub [uni1032 uni1036] [uni1032 uni1036]' by [uni25CC uni1032 uni25CC uni1036];
+} abvs59;
+ language KHT ;
+ language KYU ;
+ language KSW ;
+} abvs;
+
+feature blws { # Below-base Substitutions
+ script mym2;
+lookup blws7 {
+    sub [uni1014 uni101B]' uni102F by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni1036 uni102F by [na.alt ra.alt];
+    sub [uni1014 uni101B]' @blws12 uni102F by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni103E @blws12 uni102F by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni1030 by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni1036 uni1030 by [na.alt ra.alt];
+    sub [uni1014 uni101B]' @blws12 uni1030 by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni103B by [na.alt ra.alt];
+    sub [uni1014 uni101B]' uni103E uni102F by [na.alt ra.alt];
+    sub uni103C [uni1014 uni101B]' by [na.alt ra.alt];
+} blws7;
+lookup blws9 {
+    sub uni100A nnya.sub by great.nnya;
+    sub uni1020 uni103E by lla.ha.med;
+    sub uni1020 uni1039 uni1020 by lla.lla;
+    sub uni1081 uni1082 by ha.4;
+    sub uni1081 uni103D by ha.1;
+} blws9;
+lookup blws10 {
+    sub uni100B ttha.sub by tta.ttha.lig;
+    sub uni100B tta.sub by tta.tta.lig;
+    sub uni100D ddha.sub by dda.ddha.lig;
+    sub uni100D dda.sub by dda.dda.lig;
+    sub uni100F dda.sub by nna.dda.lig;
+    sub uni1051 ttha.sub by ssa.ttha.lig;
+    sub uni1051 dda.sub by ssa.dda.lig;
+    sub ta.sub uni103D by tawa.alt;
+} blws10;
+lookup blws12 {
+    sub ya.wa.med uni103E by yawaha.med;
+} blws12;
+lookup blws13 {
+    sub [uni1009 uni100A]' @blws17 by [nya.alt nnya.alt];
+} blws13;
+lookup blws14 {
+    sub uni1014' @blws18 by na.alt;
+    sub uni1014' uni103A uni102F by na.alt;
+} blws14;
+lookup blws29 {
+    sub uni103C @blws11 uni103E' by ha.med.alt;
+    sub ra.med.uppershort @blws11 uni103E' by ha.med.alt;
+    sub ra.med.wide @blws10 uni103E' by ha.med.alt;
+    sub ra.med.uppershort.wide @blws10 uni103E' by ha.med.alt;
+    sub [uni1009 uni100A] uni103E' by ha.med.alt;
+} blws29;
+lookup blws30 {
+    ignore sub [uni1003 uni101A uni101F] uni103E @blws1 uni102F';
+    sub uni103E @blws1 uni102F' by ha.med.u.sig;
+} blws30;
+lookup blws31 {
+    sub uni103E' @blws1' ha.med.u.sig by uni102D;
+} blws31;
+lookup blws32 {
+    sub @blws9 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws9 @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws9 uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ha.med.alt @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ha.med.alt uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ha.med.alt [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ra.med.wide @blws10 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ra.med.uppershort.wide @blws10 @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ra.med.wide @blws10 uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub uni103C @blws11 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub ra.med.uppershort @blws11 @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub uni103C @blws11 uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws2 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws2 @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws2 uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws16 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws16 @blws12 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+    sub @blws16 uni1036 [uni102F uni1030]' by [u.sig.long uu.sig.long];
+} blws32;
+lookup blws33 {
+    ignore sub [uni1003 uni101A uni101F] uni103E' [uni102F u.sig.long];
+    sub uni103E' [uni102F u.sig.long]' by ha.med.u.sig;
+} blws33;
+lookup blws39 {
+    sub [nya.alt nnya.alt] @blws7' by [kha.sub2 ga.sub2 ca.sub2 ja.sub2 tta.sub2 dda.sub2 ddha.sub2 da.sub2 dha.sub2 na.sub2 pa.sub2 pha.sub2 ba.sub2 ma.sub2 ra.sub2 bba.sub2 shan.ka.sub2 pa.ssa.sub2 ga.sha.sub2 shan.kha.sub2];
+} blws39;
+lookup blws40 {
+    sub @blws13 @blws6' by [ka.sub2 gha.sub2 cha.sub2 nya.sub2 nnya.sub2 ttha.sub2 nna.sub2 ta.sub2 tha.sub2 bha.sub2 la.sub2 sa.sub2 ha.sub2 a.sub2 shan.ca.sub2 shan.pha.sub2 shan.na.sub2 ya.sub2];
+} blws40;
+lookup blws41 {
+    sub [uni100D uni101B]' [u.sig.long uu.sig.long] by [dda.alt ra_alt];
+    sub [uni100D uni101B]' @blws1 [u.sig.long uu.sig.long] by [dda.alt ra_alt];
+    sub [uni100D uni101B]' [uni103D uni103E wa.ha.med wa_med wa_ha_med] @blws1 [u.sig.long uu.sig.long] by [dda.alt ra_alt];
+    sub [uni100D uni101B]' [uni103D uni103E wa.ha.med wa_med wa_ha_med] [u.sig.long uu.sig.long] by [dda.alt ra_alt];
+} blws41;
+lookup blws42 {
+    sub [uni101B uni107A ra_alt] [uni103D wa.ha.med]' by [wa_med wa_ha_med];
+} blws42;
+lookup blws48 {
+    sub @blws3 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws3 @blws1 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub uni1082 uni103A [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub ra.alt [uni102F uni1030] [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub ra.alt @blws1 [uni102F uni1030] [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws14 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws6 @blws1 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws4 @blws1 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws15 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws8 @blws1 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+    sub @blws5 @blws1 [uni1037 aukmyit.alt1]' by [aukmyit.alt2 aukmyit.alt2];
+} blws48;
+ language LIS ;
+ language KHT  exclude_dflt;
+lookup blws7;
+lookup blws8 {
+    sub uni1039 uni1000 by ka.sub;
+    sub uni1039 uni1001 by kha.sub;
+    sub uni1039 uni1002 by ga.sub;
+    sub uni1039 uni1003 by gha.sub;
+    sub uni1039 uni105A by mon.nga.sub;
+    sub uni1039 uni1005 by ca.sub;
+    sub uni1039 uni1006 by cha.sub;
+    sub uni1039 uni1007 by ja.sub;
+    sub uni1039 uni1008 by jha.sub;
+    sub uni1039 uni105B by mon.jha.sub;
+    sub uni1039 uni1009 by nyaa.sub;
+    sub uni1039 uni100A by nnya.sub;
+    sub uni1039 uni100B by tta.sub;
+    sub uni1039 uni100C by ttha.sub;
+    sub uni1039 uni100D by dda.sub;
+    sub uni1039 uni100E by ddha.sub;
+    sub uni1039 uni100F by nna.sub;
+    sub uni1039 uni1010 by ta.sub;
+    sub uni1039 uni1011 by tha.sub;
+    sub uni1039 uni1012 by da.sub;
+    sub uni1039 uni1013 by dha.sub;
+    sub uni1039 uni1014 by na.sub;
+    sub uni1039 uni1015 by pa.sub;
+    sub uni1039 uni1016 by pha.sub;
+    sub uni1039 uni1017 by ba.sub;
+    sub uni1039 uni1018 by bha.sub;
+    sub uni1039 uni1019 by ma.sub;
+    sub uni1039 uni101A by ya.sub;
+    sub uni1039 uni101B by ra.sub;
+    sub uni1039 uni101C by la.sub;
+    sub uni1039 uni105C by bba.sub;
+    sub uni1039 uni101E by sa.sub;
+    sub uni1039 uni101F by ha.sub;
+    sub uni1039 uni1021 by a.sub;
+    sub uni1039 uni1078 by shan.ca.sub;
+    sub uni1039 uni1075 by shan.ka.sub;
+    sub uni1039 uni107D by shan.pha.sub;
+    sub uni1039 uni107C by shan.na.sub;
+    sub uni1039 uni1076 by shan.kha.sub;
+    sub uni1039 uni1051 by pa.ssa.sub;
+    sub uni1039 uni1050 by ga.sha.sub;
+    sub uniAA7B by paokaren.tone.alt;
+} blws8;
+lookup blws32;
+lookup blws40;
+lookup blws41;
+lookup blws42;
+ language KYU  exclude_dflt;
+lookup blws7;
+lookup blws12;
+lookup blws13;
+lookup blws14;
+lookup blws32;
+lookup blws41;
+lookup blws48;
+ language KSW  exclude_dflt;
+lookup blws7;
+lookup blws12;
+lookup blws13;
+lookup blws14;
+lookup blws41;
+lookup blws48;
+} blws;
+
+feature blwf { # Below-base Forms
+ script mym2;
+lookup blwf8 {
+    sub uni1039 uni1000 by ka.sub;
+    sub uni1039 uni1001 by kha.sub;
+    sub uni1039 uni1002 by ga.sub;
+    sub uni1039 uni1003 by gha.sub;
+    sub uni1039 uni105A by mon.nga.sub;
+    sub uni1039 uni1005 by ca.sub;
+    sub uni1039 uni1006 by cha.sub;
+    sub uni1039 uni1007 by ja.sub;
+    sub uni1039 uni1008 by jha.sub;
+    sub uni1039 uni105B by mon.jha.sub;
+    sub uni1039 uni1009 by nyaa.sub;
+    sub uni1039 uni100A by nnya.sub;
+    sub uni1039 uni100B by tta.sub;
+    sub uni1039 uni100C by ttha.sub;
+    sub uni1039 uni100D by dda.sub;
+    sub uni1039 uni100E by ddha.sub;
+    sub uni1039 uni100F by nna.sub;
+    sub uni1039 uni1010 by ta.sub;
+    sub uni1039 uni1011 by tha.sub;
+    sub uni1039 uni1012 by da.sub;
+    sub uni1039 uni1013 by dha.sub;
+    sub uni1039 uni1014 by na.sub;
+    sub uni1039 uni1015 by pa.sub;
+    sub uni1039 uni1016 by pha.sub;
+    sub uni1039 uni1017 by ba.sub;
+    sub uni1039 uni1018 by bha.sub;
+    sub uni1039 uni1019 by ma.sub;
+    sub uni1039 uni101A by ya.sub;
+    sub uni1039 uni101B by ra.sub;
+    sub uni1039 uni101C by la.sub;
+    sub uni1039 uni105C by bba.sub;
+    sub uni1039 uni101E by sa.sub;
+    sub uni1039 uni101F by ha.sub;
+    sub uni1039 uni1021 by a.sub;
+    sub uni1039 uni1078 by shan.ca.sub;
+    sub uni1039 uni1075 by shan.ka.sub;
+    sub uni1039 uni107D by shan.pha.sub;
+    sub uni1039 uni107C by shan.na.sub;
+    sub uni1039 uni1076 by shan.kha.sub;
+    sub uni1039 uni1051 by pa.ssa.sub;
+    sub uni1039 uni1050 by ga.sha.sub;
+    sub uniAA7B by paokaren.tone.alt;
+} blwf8;
+lookup blwf47 {
+    sub [uni1014 uni102F uni1030 uni103E uni1060] uni1037' by aukmyit.alt1;
+    sub [uni1014 uni102F uni1030 uni103E uni1060] [uni102D uni102E uni1030 uni1032 uni1036 uni103A] uni1037' by aukmyit.alt1;
+    sub [uni1069 uni106A uni106B sg.eu.final.y] uni1037' by aukmyit.alt1;
+} blwf47;
+ language LIS ;
+ language KYU  exclude_dflt;
+lookup blwf47;
+ language KSW  exclude_dflt;
+lookup blwf47;
+} blwf;
+
+feature pref { # Pre-Base Forms
+ script mym2;
+lookup pref11 {
+    sub uni103B uni103D by ya.wa.med;
+    sub uni103B uni103E by ya.ha.med;
+    sub uni103B uni1082 by shan.ya.wa.med;
+    sub uni103D uni103E by wa.ha.med;
+} pref11;
+lookup pref18 {
+    sub uni103C' @blws11 @blws12 by ra.med.uppershort;
+    sub uni103C' @blws10 @blws12 by ra.med.uppershort;
+    sub uni103C' @blws11 uni103E @blws12 by ra.med.uppershort;
+    sub uni103C' @blws10 uni103E @blws12 by ra.med.uppershort;
+} pref18;
+lookup pref19 {
+    sub uni103C' @blws11 [uni103B uni103D wa.ha.med] by rawa.med;
+    sub uni103C' @blws10 [uni103B uni103D wa.ha.med] by rawa.med;
+} pref19;
+ language LIS ;
+ language KHT ;
+ language KYU ;
+ language KSW ;
+    sub uni103C' @blws11 @blws8 by ra.med.lowershort;
+    sub uni103C' @blws11 @blws6 by ra.med.lowershort;
+} pref;
+
+feature pstf { # Post-base Forms
+ script mym2;
+    sub uni102B uni103A by aa.alt.atha;
+    sub uni102B uni1032 by aa.vow.ai;
+    sub uni102B uni1036 by aa.vow.anus;
+    sub uni1062 uni103A by sg.eu.asat;
+    sub uni1062 uni1086 by sg.eu.final.y;
+    sub uni1083 uni103A by shan.aa.asat;
+    sub uni1083 uni1037 by shan.aa.aukmyit;
+    sub kinzi uni102D by kinzi.i.vow;
+    sub kinzi uni102E by kinzi.ii.vow;
+    sub kinzi uni1032 by kinzi.ai.vow;
+    sub kinzi uni1033 by kinzi.ii.mon;
+    sub kinzi uni1036 by kinzi.anusvara;
+    sub kinzi uni1035 by kinzi.eabove;
+    sub kinzi uni103A by kinzi_asat;
+    sub ra.kinzi uni102D by ra.kinzi.i;
+    sub ra.kinzi uni102E by ra.kinzi.ii;
+    sub ra.kinzi uni103A by ra_kinzi_asat;
+ language LIS ;
+ language KHT ;
+ language KSW ;
+} pstf;
+
+feature psts { # Post-base Substitutions
+ script mym2;
+lookup psts16 {
+    sub kinzi.i.vow uni1036 by kinzi_i_anus;
+} psts16;
+lookup psts17 {
+    sub @blws16 uni103B' by ya.med.alt;
+} psts17;
+lookup psts35 {
+    sub kinzi @blws2 @psts1' by [kinzi.i.vow kinzi.ii.vow kinzi.ai.vow kinzi.ii.mon kinzi.eabove kinzi.anusvara kinzi_asat];
+    sub kinzi @blws16 @psts1' by [kinzi.i.vow kinzi.ii.vow kinzi.ai.vow kinzi.ii.mon kinzi.eabove kinzi.anusvara kinzi_asat];
+} psts35;
+lookup psts36 {
+    sub kinzi' @blws18' [kinzi.i.vow kinzi.ii.vow kinzi.anusvara kinzi.ii.mon kinzi.eabove kinzi.ai.vow kinzi_asat] by uni103B;
+} psts36;
+lookup psts37 {
+    sub uni102D [uni102F uni1030] [uni1032 uni1036]' by [i.ai.vow i.vow.anusvara];
+} psts37;
+lookup psts38 {
+    sub uni102D' [uni102F uni1030]' [i.vow.anusvara i.ai.vow] by uni102F;
+} psts38;
+lookup psts43 {
+    sub ra.kinzi @blws2 [uni102D uni102E]' by [ra.kinzi.i ra.kinzi.ii];
+    sub ra.kinzi @blws16 [uni102D uni102E]' by [ra.kinzi.i ra.kinzi.ii];
+} psts43;
+lookup psts44 {
+    sub ra.kinzi' @blws18' [ra.kinzi.i ra.kinzi.ii] by uni103B;
+} psts44;
+lookup psts45 {
+    sub uni103A @blws2 uni1036' by asat.anus;
+} psts45;
+lookup psts46 {
+    sub uni103A' @blws2' asat.anus by uni103B;
+} psts46;
+ language LIS  exclude_dflt;
+lookup psts17;
+lookup psts35;
+lookup psts36;
+ language KHT  exclude_dflt;
+lookup psts17;
+lookup psts37;
+lookup psts38;
+ language KSW  exclude_dflt;
+lookup psts37;
+lookup psts38;
+} psts;
+
+feature pres { # Pre-base Substitutions
+ script mym2;
+lookup pres20 {
+    sub uni103C' @blws11 @blws8 by ra.med.lowershort;
+    sub uni103C' @blws11 @blws6 by ra.med.lowershort;
+} pres20;
+lookup pres21 {
+    sub ra.med.uppershort' @blws10 @blws12 by ra.med.uppershort.wide;
+    sub ra.med.uppershort' @blws10 uni103E @blws12 by ra.med.uppershort.wide;
+} pres21;
+lookup pres22 {
+    sub rawa.med' @blws10 [uni103B uni103D wa.ha.med] by rawa.med.wide;
+} pres22;
+lookup pres23 {
+    sub [ra.med.lowershort rawa.med]' @blws11 [uni103B uni103D wa.ha.med] @blws12 by [ra.pres ra.pres];
+    sub [ra.med.lowershort rawa.med]' @blws11 @blws8 @blws12 by [ra.pres ra.pres];
+    sub [ra.med.lowershort rawa.med]' @blws11 @blws6 @blws12 by [ra.pres ra.pres];
+} pres23;
+lookup pres24 {
+    sub [uni103C rawa.med.wide]' @blws10 [uni103B uni103D wa.ha.med] @blws12 by [uni103C.pres uni103C.pres];
+    sub [uni103C rawa.med.wide]' @blws10 @blws8 @blws12 by [uni103C.pres uni103C.pres];
+} pres24;
+lookup pres25 {
+    sub [uni103C rawa.med.wide]' @blws10 @blws6 @blws12 by [rawa.pres rawa.pres];
+} pres25;
+lookup pres26 {
+    sub uni103C' @blws10 @blws6 by ra.med.lowershort1.wide;
+} pres26;
+lookup pres27 {
+    sub uni103C' @blws10 @blws8 by rawa.med.wide;
+} pres27;
+lookup pres28 {
+    sub uni103C' @blws10 by ra.med.wide;
+} pres28;
+ language LIS ;
+ language KHT ;
+ language KYU  exclude_dflt;
+lookup pres21;
+lookup pres22;
+lookup pres28;
+ language KSW  exclude_dflt;
+lookup pres21;
+lookup pres22;
+lookup pres23;
+lookup pres24;
+} pres;
+
+feature locl { # Localized Forms
+ script mym2;
+ language LIS  exclude_dflt;
+    sub uni102D uni1036 by anusvara_i_locl;
+    sub uni102E uni1036 by anusvara_ii_locl;
+ language KHT  exclude_dflt;
+    sub @locl1 by @locl2;
+ language KYU  exclude_dflt;
+lookup locl34 {
+    sub [uni103D uni103E wa.ha.med] by [wa_med_locl ha_me_locl wa_ha_med_locl];
+} locl34;
+lookup locl56 {
+    sub [wa_med_locl wa_ha_med_locl] uni1037' by aukmyit_locl;
+} locl56;
+ language KSW  exclude_dflt;
+lookup locl34;
+lookup locl56;
+} locl;
+
+feature afrc { # Alternative Fractions
+ script mym2;
+lookup afrc49 {
+    sub @afrc1 by @afrc2;
+} afrc49;
+lookup afrc50 {
+    sub @afrc3 @afrc2' by [uni1040.frac uni1041.frac uni1042.frac uni1043.frac uni1044.frac uni1045.frac uni1046.frac uni1047.frac uni1048.frac uni1049.frac];
+} afrc50;
+lookup afrc51 {
+    sub uni1040.up slash by uni1040.up;
+    sub uni1040.up fraction by uni1040.up;
+    sub uni1041.up slash by uni1041.up;
+    sub uni1041.up fraction by uni1041.up;
+    sub uni1042.up slash by uni1042.up;
+    sub uni1042.up fraction by uni1042.up;
+    sub uni1043.up slash by uni1043.up;
+    sub uni1043.up fraction by uni1043.up;
+    sub uni1044.up slash by uni1044.up;
+    sub uni1044.up fraction by uni1044.up;
+    sub uni1045.up slash by uni1045.up;
+    sub uni1045.up fraction by uni1045.up;
+    sub uni1046.up slash by uni1046.up;
+    sub uni1046.up fraction by uni1046.up;
+    sub uni1047.up slash by uni1047.up;
+    sub uni1047.up fraction by uni1047.up;
+    sub uni1048.up slash by uni1048.up;
+    sub uni1048.up fraction by uni1048.up;
+    sub uni1049.up slash by uni1049.up;
+    sub uni1049.up fraction by uni1049.up;
+} afrc51;
+lookup afrc52 {
+    sub @afrc2' @afrc2 by [_544 uni1040.up _544 uni1041.up _544 uni1042.up _544 uni1043.up _544 uni1044.up _544 uni1045.up _544 uni1046.up _544 uni1047.up _544 uni1048.up _544 uni1049.up];
+} afrc52;
+ language LIS ;
+} afrc;
+
+feature frac { # Fractions
+ script mym2;
+lookup frac49 {
+    sub @afrc1 by @afrc2;
+} frac49;
+lookup frac50 {
+    sub @afrc3 @afrc2' by [uni1040.frac uni1041.frac uni1042.frac uni1043.frac uni1044.frac uni1045.frac uni1046.frac uni1047.frac uni1048.frac uni1049.frac];
+} frac50;
+lookup frac51 {
+    sub uni1040.up slash by uni1040.up;
+    sub uni1040.up fraction by uni1040.up;
+    sub uni1041.up slash by uni1041.up;
+    sub uni1041.up fraction by uni1041.up;
+    sub uni1042.up slash by uni1042.up;
+    sub uni1042.up fraction by uni1042.up;
+    sub uni1043.up slash by uni1043.up;
+    sub uni1043.up fraction by uni1043.up;
+    sub uni1044.up slash by uni1044.up;
+    sub uni1044.up fraction by uni1044.up;
+    sub uni1045.up slash by uni1045.up;
+    sub uni1045.up fraction by uni1045.up;
+    sub uni1046.up slash by uni1046.up;
+    sub uni1046.up fraction by uni1046.up;
+    sub uni1047.up slash by uni1047.up;
+    sub uni1047.up fraction by uni1047.up;
+    sub uni1048.up slash by uni1048.up;
+    sub uni1048.up fraction by uni1048.up;
+    sub uni1049.up slash by uni1049.up;
+    sub uni1049.up fraction by uni1049.up;
+} frac51;
+lookup frac52 {
+    sub @afrc2' @afrc2 by [_544 uni1040.up _544 uni1041.up _544 uni1042.up _544 uni1043.up _544 uni1044.up _544 uni1045.up _544 uni1046.up _544 uni1047.up _544 uni1048.up _544 uni1049.up];
+} frac52;
+ language LIS ;
+} frac;
+
+feature sups { # Superscript
+ script mym2;
+    sub @afrc1 by @sups1;
+ language LIS ;
+} sups;
+
